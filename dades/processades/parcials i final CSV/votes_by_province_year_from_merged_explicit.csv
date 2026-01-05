@@ -1,0 +1,365 @@
+province_norm,year,votes,province
+a coruna,2000,775,A Coruña
+a coruna,2004,926,A Coruña
+a coruna,2008,1128,A Coruña
+a coruna,2011,0,A Coruña
+a coruna,2016,0,A Coruña
+a coruna,2019,27426,A Coruña
+a coruna,2023,27539,A Coruña
+alacant,2000,485,Alacant
+alacant,2004,709,Alacant
+alacant,2008,626,Alacant
+alacant,2011,0,Alacant
+alacant,2016,617,Alacant
+alacant,2019,44890,Alacant
+alacant,2023,53492,Alacant
+albacete,2000,370,Albacete
+albacete,2004,622,Albacete
+albacete,2008,520,Albacete
+albacete,2011,0,Albacete
+albacete,2016,0,Albacete
+albacete,2019,26631,Albacete
+albacete,2023,29203,Albacete
+almeria,2000,487,Almeria
+almeria,2004,609,Almeria
+almeria,2008,543,Almeria
+almeria,2011,493,Almeria
+almeria,2016,758,Almeria
+almeria,2019,62648,Almeria
+almeria,2023,68364,Almeria
+araba,2000,150,Araba
+araba,2004,711,Araba
+araba,2008,341,Araba
+araba,2011,0,Araba
+araba,2016,366,Araba
+araba,2019,16255,Araba
+araba,2023,17056,Araba
+asturias,2000,1075,Asturias
+asturias,2004,867,Asturias
+asturias,2008,1343,Asturias
+asturias,2011,0,Asturias
+asturias,2016,1442,Asturias
+asturias,2019,72018,Asturias
+asturias,2023,74571,Asturias
+avila,2000,382,Avila
+avila,2004,831,Avila
+avila,2008,597,Avila
+avila,2011,0,Avila
+avila,2016,255,Avila
+avila,2019,33948,Avila
+avila,2023,36750,Avila
+badajoz,2000,299,Badajoz
+badajoz,2004,301,Badajoz
+badajoz,2008,427,Badajoz
+badajoz,2011,0,Badajoz
+badajoz,2016,0,Badajoz
+badajoz,2019,11450,Badajoz
+badajoz,2023,8643,Badajoz
+barcelona,2000,2975,Barcelona
+barcelona,2004,4973,Barcelona
+barcelona,2008,5626,Barcelona
+barcelona,2011,53142,Barcelona
+barcelona,2016,0,Barcelona
+barcelona,2019,112019,Barcelona
+barcelona,2023,201775,Barcelona
+bizkaia,2000,1861,Bizkaia
+bizkaia,2004,3201,Bizkaia
+bizkaia,2008,2367,Bizkaia
+bizkaia,2011,0,Bizkaia
+bizkaia,2016,2003,Bizkaia
+bizkaia,2019,115249,Bizkaia
+bizkaia,2023,146133,Bizkaia
+burgos,2000,425,Burgos
+burgos,2004,463,Burgos
+burgos,2008,445,Burgos
+burgos,2011,0,Burgos
+burgos,2016,0,Burgos
+burgos,2019,40313,Burgos
+burgos,2023,46046,Burgos
+caceres,2000,379,Caceres
+caceres,2004,228,Caceres
+caceres,2008,355,Caceres
+caceres,2011,0,Caceres
+caceres,2016,0,Caceres
+caceres,2019,9984,Caceres
+caceres,2023,9080,Caceres
+cadiz,2000,1001,Cadiz
+cadiz,2004,1848,Cadiz
+cadiz,2008,1895,Cadiz
+cadiz,2011,0,Cadiz
+cadiz,2016,1725,Cadiz
+cadiz,2019,87438,Cadiz
+cadiz,2023,96720,Cadiz
+cantabria,2000,670,Cantabria
+cantabria,2004,720,Cantabria
+cantabria,2008,891,Cantabria
+cantabria,2011,0,Cantabria
+cantabria,2016,713,Cantabria
+cantabria,2019,40139,Cantabria
+cantabria,2023,49243,Cantabria
+castello,2000,304,Castello
+castello,2004,504,Castello
+castello,2008,425,Castello
+castello,2011,0,Castello
+castello,2016,409,Castello
+castello,2019,25903,Castello
+castello,2023,32076,Castello
+ceuta,2000,93,Ceuta
+ceuta,2004,178,Ceuta
+ceuta,2008,76,Ceuta
+ceuta,2011,0,Ceuta
+ceuta,2016,139,Ceuta
+ceuta,2019,9092,Ceuta
+ceuta,2023,7752,Ceuta
+ciudad real,2000,183,Ciudad Real
+ciudad real,2004,389,Ciudad Real
+ciudad real,2008,286,Ciudad Real
+ciudad real,2011,247,Ciudad Real
+ciudad real,2016,406,Ciudad Real
+ciudad real,2019,11468,Ciudad Real
+ciudad real,2023,12510,Ciudad Real
+cordoba,2000,419,Cordoba
+cordoba,2004,943,Cordoba
+cordoba,2008,1120,Cordoba
+cordoba,2011,502,Cordoba
+cordoba,2016,1038,Cordoba
+cordoba,2019,56919,Cordoba
+cordoba,2023,62526,Cordoba
+cuenca,2000,93,Cuenca
+cuenca,2004,131,Cuenca
+cuenca,2008,166,Cuenca
+cuenca,2011,181,Cuenca
+cuenca,2016,182,Cuenca
+cuenca,2019,4866,Cuenca
+cuenca,2023,4978,Cuenca
+gipuzkoa,2000,360,Gipuzkoa
+gipuzkoa,2004,1793,Gipuzkoa
+gipuzkoa,2008,1787,Gipuzkoa
+gipuzkoa,2011,3687,Gipuzkoa
+gipuzkoa,2016,1187,Gipuzkoa
+gipuzkoa,2019,37773,Gipuzkoa
+gipuzkoa,2023,49074,Gipuzkoa
+girona,2000,273,Girona
+girona,2004,577,Girona
+girona,2008,717,Girona
+girona,2011,2636,Girona
+girona,2016,724,Girona
+girona,2019,10715,Girona
+girona,2023,22706,Girona
+granada,2000,378,Granada
+granada,2004,1145,Granada
+granada,2008,1115,Granada
+granada,2011,0,Granada
+granada,2016,993,Granada
+granada,2019,73914,Granada
+granada,2023,81080,Granada
+guadalajara,2000,618,Guadalajara
+guadalajara,2004,1059,Guadalajara
+guadalajara,2008,785,Guadalajara
+guadalajara,2011,948,Guadalajara
+guadalajara,2016,1532,Guadalajara
+guadalajara,2019,46194,Guadalajara
+guadalajara,2023,48112,Guadalajara
+huelva,2000,311,Huelva
+huelva,2004,368,Huelva
+huelva,2008,614,Huelva
+huelva,2011,296,Huelva
+huelva,2016,398,Huelva
+huelva,2019,33920,Huelva
+huelva,2023,37572,Huelva
+huesca,2000,0,Huesca
+huesca,2004,406,Huesca
+huesca,2008,344,Huesca
+huesca,2011,0,Huesca
+huesca,2016,399,Huesca
+huesca,2019,13389,Huesca
+huesca,2023,15155,Huesca
+illes balears,2000,623,Illes Balears
+illes balears,2004,824,Illes Balears
+illes balears,2008,1138,Illes Balears
+illes balears,2011,0,Illes Balears
+illes balears,2016,0,Illes Balears
+illes balears,2019,58567,Illes Balears
+illes balears,2023,76547,Illes Balears
+jaen,2000,397,Jaen
+jaen,2004,703,Jaen
+jaen,2008,615,Jaen
+jaen,2011,0,Jaen
+jaen,2016,638,Jaen
+jaen,2019,46934,Jaen
+jaen,2023,54400,Jaen
+la rioja,2000,1857,La Rioja
+la rioja,2004,5904,La Rioja
+la rioja,2008,4464,La Rioja
+la rioja,2011,5579,La Rioja
+la rioja,2016,4846,La Rioja
+la rioja,2019,170070,La Rioja
+la rioja,2023,219388,La Rioja
+las palmas,2000,478,Las Palmas
+las palmas,2004,1063,Las Palmas
+las palmas,2008,900,Las Palmas
+las palmas,2011,0,Las Palmas
+las palmas,2016,882,Las Palmas
+las palmas,2019,38229,Las Palmas
+las palmas,2023,77343,Las Palmas
+leon,2000,147,Leon
+leon,2004,332,Leon
+leon,2008,215,Leon
+leon,2011,0,Leon
+leon,2016,274,Leon
+leon,2019,16755,Leon
+leon,2023,17700,Leon
+lleida,2000,200,Lleida
+lleida,2004,297,Lleida
+lleida,2008,473,Lleida
+lleida,2011,1074,Lleida
+lleida,2016,198,Lleida
+lleida,2019,6005,Lleida
+lleida,2023,12560,Lleida
+lugo,2000,4197,Lugo
+lugo,2004,13903,Lugo
+lugo,2008,11915,Lugo
+lugo,2011,0,Lugo
+lugo,2016,20749,Lugo
+lugo,2019,524176,Lugo
+lugo,2023,507915,Lugo
+madrid,2000,293,Madrid
+madrid,2004,534,Madrid
+madrid,2008,701,Madrid
+madrid,2011,0,Madrid
+madrid,2016,0,Madrid
+madrid,2019,6783,Madrid
+madrid,2023,7877,Madrid
+malaga,2000,722,Malaga
+malaga,2004,2278,Malaga
+malaga,2008,2112,Malaga
+malaga,2011,0,Malaga
+malaga,2016,1770,Malaga
+malaga,2019,114199,Malaga
+malaga,2023,129758,Malaga
+melilla,2000,86,Melilla
+melilla,2004,98,Melilla
+melilla,2008,44,Melilla
+melilla,2011,0,Melilla
+melilla,2016,0,Melilla
+melilla,2019,5807,Melilla
+melilla,2023,4359,Melilla
+murcia,2000,668,Murcia
+murcia,2004,629,Murcia
+murcia,2008,1199,Murcia
+murcia,2011,0,Murcia
+murcia,2016,641,Murcia
+murcia,2019,15839,Murcia
+murcia,2023,16069,Murcia
+navarra,2000,987,Navarra
+navarra,2004,1857,Navarra
+navarra,2008,1674,Navarra
+navarra,2011,0,Navarra
+navarra,2016,2622,Navarra
+navarra,2019,143234,Navarra
+navarra,2023,163500,Navarra
+ourense,2000,875,Ourense
+ourense,2004,1545,Ourense
+ourense,2008,735,Ourense
+ourense,2011,0,Ourense
+ourense,2016,0,Ourense
+ourense,2019,17771,Ourense
+ourense,2023,19491,Ourense
+palencia,2000,145,Palencia
+palencia,2004,495,Palencia
+palencia,2008,460,Palencia
+palencia,2011,471,Palencia
+palencia,2016,747,Palencia
+palencia,2019,23501,Palencia
+palencia,2023,27244,Palencia
+pontevedra,2000,205,Pontevedra
+pontevedra,2004,230,Pontevedra
+pontevedra,2008,175,Pontevedra
+pontevedra,2011,0,Pontevedra
+pontevedra,2016,306,Pontevedra
+pontevedra,2019,5608,Pontevedra
+pontevedra,2023,6573,Pontevedra
+salamanca,2000,495,Salamanca
+salamanca,2004,1356,Salamanca
+salamanca,2008,885,Salamanca
+salamanca,2011,0,Salamanca
+salamanca,2016,1597,Salamanca
+salamanca,2019,66927,Salamanca
+salamanca,2023,76325,Salamanca
+santa cruz de tenerife,2000,331,Santa Cruz de Tenerife
+santa cruz de tenerife,2004,752,Santa Cruz de Tenerife
+santa cruz de tenerife,2008,843,Santa Cruz de Tenerife
+santa cruz de tenerife,2011,0,Santa Cruz de Tenerife
+santa cruz de tenerife,2016,0,Santa Cruz de Tenerife
+santa cruz de tenerife,2019,31385,Santa Cruz de Tenerife
+santa cruz de tenerife,2023,0,Santa Cruz de Tenerife
+segovia,2000,255,Segovia
+segovia,2004,301,Segovia
+segovia,2008,274,Segovia
+segovia,2011,233,Segovia
+segovia,2016,261,Segovia
+segovia,2019,14719,Segovia
+segovia,2023,15145,Segovia
+sevilla,2000,1460,Sevilla
+sevilla,2004,2239,Sevilla
+sevilla,2008,1534,Sevilla
+sevilla,2011,1160,Sevilla
+sevilla,2016,3001,Sevilla
+sevilla,2019,136949,Sevilla
+sevilla,2023,141768,Sevilla
+soria,2000,395,Soria
+soria,2004,680,Soria
+soria,2008,750,Soria
+soria,2011,0,Soria
+soria,2016,647,Soria
+soria,2019,24382,Soria
+soria,2023,25858,Soria
+tarragona,2000,314,Tarragona
+tarragona,2004,661,Tarragona
+tarragona,2008,842,Tarragona
+tarragona,2011,3097,Tarragona
+tarragona,2016,0,Tarragona
+tarragona,2019,20105,Tarragona
+tarragona,2023,38039,Tarragona
+teruel,2000,113,Teruel
+teruel,2004,160,Teruel
+teruel,2008,174,Teruel
+teruel,2011,0,Teruel
+teruel,2016,160,Teruel
+teruel,2019,8336,Teruel
+teruel,2023,9932,Teruel
+toledo,2000,221,Toledo
+toledo,2004,353,Toledo
+toledo,2008,208,Toledo
+toledo,2011,0,Toledo
+toledo,2016,0,Toledo
+toledo,2019,12887,Toledo
+toledo,2023,13652,Toledo
+valencia,2000,698,Valencia
+valencia,2004,915,Valencia
+valencia,2008,1044,Valencia
+valencia,2011,0,Valencia
+valencia,2016,1026,Valencia
+valencia,2019,38187,Valencia
+valencia,2023,34410,Valencia
+valladolid,2000,239,Valladolid
+valladolid,2004,653,Valladolid
+valladolid,2008,681,Valladolid
+valladolid,2011,0,Valladolid
+valladolid,2016,620,Valladolid
+valladolid,2019,33653,Valladolid
+valladolid,2023,35451,Valladolid
+zamora,2000,242,Zamora
+zamora,2004,364,Zamora
+zamora,2008,253,Zamora
+zamora,2011,234,Zamora
+zamora,2016,184,Zamora
+zamora,2019,12506,Zamora
+zamora,2023,12575,Zamora
+zaragoza,2000,658,Zaragoza
+zaragoza,2004,1463,Zaragoza
+zaragoza,2008,1351,Zaragoza
+zaragoza,2011,0,Zaragoza
+zaragoza,2016,1614,Zaragoza
+zaragoza,2019,70663,Zaragoza
+zaragoza,2023,79648,Zaragoza

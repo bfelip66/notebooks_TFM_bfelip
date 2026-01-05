@@ -1,0 +1,29 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      denuncies_per100k   R-squared:                       0.089
+Model:                            OLS   Adj. R-squared:                  0.086
+Method:                 Least Squares   F-statistic:                     9.389
+Date:                Mon, 05 Jan 2026   Prob (F-statistic):           4.81e-05
+Time:                        12:49:54   Log-Likelihood:                -9185.3
+No. Observations:                1092   AIC:                         1.838e+04
+Df Residuals:                    1088   BIC:                         1.840e+04
+Df Model:                           3                                         
+Covariance Type:              cluster                                         
+========================================================================================
+                           coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+Intercept             1658.8777    204.671      8.105      0.000    1257.729    2060.026
+votes_per100k_used       0.0076      0.006      1.275      0.202      -0.004       0.019
+atur_annual_mean_pct    51.1012      9.972      5.124      0.000      31.556      70.646
+immigracio_per100k       0.0632      0.016      4.052      0.000       0.033       0.094
+==============================================================================
+Omnibus:                      103.410   Durbin-Watson:                   0.689
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              142.513
+Skew:                           0.738   Prob(JB):                     1.13e-31
+Kurtosis:                       3.976   Cond. No.                     3.83e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+[2] The condition number is large, 3.83e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.

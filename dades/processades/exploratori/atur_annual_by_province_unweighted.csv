@@ -1,0 +1,1197 @@
+province_norm,year,atur_annual_mean_pct,n_quarters,sample_province,complete_year
+a coruna,2002,12.8525,4,A Coruña,True
+a coruna,2003,13.754999999999999,4,A Coruña,True
+a coruna,2004,14.5075,4,A Coruña,True
+a coruna,2005,9.6325,4,A Coruña,True
+a coruna,2006,8.1225,4,A Coruña,True
+a coruna,2007,8.2225,4,A Coruña,True
+a coruna,2008,8.9175,4,A Coruña,True
+a coruna,2009,11.47,4,A Coruña,True
+a coruna,2010,13.98,4,A Coruña,True
+a coruna,2011,15.8275,4,A Coruña,True
+a coruna,2012,18.38,4,A Coruña,True
+a coruna,2013,20.18,4,A Coruña,True
+a coruna,2014,19.955,4,A Coruña,True
+a coruna,2015,17.4075,4,A Coruña,True
+a coruna,2016,15.4125,4,A Coruña,True
+a coruna,2017,14.1625,4,A Coruña,True
+a coruna,2018,12.23,4,A Coruña,True
+a coruna,2019,10.2025,4,A Coruña,True
+a coruna,2020,11.2325,4,A Coruña,True
+a coruna,2021,10.6,4,A Coruña,True
+a coruna,2022,10.1,4,A Coruña,True
+a coruna,2023,9.1025,4,A Coruña,True
+a coruna,2024,7.98,4,A Coruña,True
+alacant,2002,10.685,4,Alacant,True
+alacant,2003,12.3375,4,Alacant,True
+alacant,2004,10.615,4,Alacant,True
+alacant,2005,9.625,4,Alacant,True
+alacant,2006,9.6225,4,Alacant,True
+alacant,2007,10.502500000000001,4,Alacant,True
+alacant,2008,13.4875,4,Alacant,True
+alacant,2009,21.9625,4,Alacant,True
+alacant,2010,24.16,4,Alacant,True
+alacant,2011,23.9075,4,Alacant,True
+alacant,2012,28.025,4,Alacant,True
+alacant,2013,28.255,4,Alacant,True
+alacant,2014,26.03,4,Alacant,True
+alacant,2015,24.22,4,Alacant,True
+alacant,2016,20.795,4,Alacant,True
+alacant,2017,18.1075,4,Alacant,True
+alacant,2018,16.1675,4,Alacant,True
+alacant,2019,14.85,4,Alacant,True
+alacant,2020,18.0275,4,Alacant,True
+alacant,2021,18.705,4,Alacant,True
+alacant,2022,14.645,4,Alacant,True
+alacant,2023,13.3925,4,Alacant,True
+alacant,2024,13.64,4,Alacant,True
+albacete,2002,6.935,4,Albacete,True
+albacete,2003,7.7,4,Albacete,True
+albacete,2004,9.005,4,Albacete,True
+albacete,2005,9.84,4,Albacete,True
+albacete,2006,10.015,4,Albacete,True
+albacete,2007,9.1625,4,Albacete,True
+albacete,2008,12.1975,4,Albacete,True
+albacete,2009,19.77,4,Albacete,True
+albacete,2010,22.665,4,Albacete,True
+albacete,2011,24.715,4,Albacete,True
+albacete,2012,31.9175,4,Albacete,True
+albacete,2013,30.9875,4,Albacete,True
+albacete,2014,27.517500000000002,4,Albacete,True
+albacete,2015,24.6825,4,Albacete,True
+albacete,2016,23.8275,4,Albacete,True
+albacete,2017,23.155,4,Albacete,True
+albacete,2018,19.7325,4,Albacete,True
+albacete,2019,17.185000000000002,4,Albacete,True
+albacete,2020,18.2625,4,Albacete,True
+albacete,2021,15.5275,4,Albacete,True
+albacete,2022,12.8475,4,Albacete,True
+albacete,2023,11.9575,4,Albacete,True
+albacete,2024,11.315,4,Albacete,True
+almeria,2002,10.782499999999999,4,Almeria,True
+almeria,2003,11.295,4,Almeria,True
+almeria,2004,9.7925,4,Almeria,True
+almeria,2005,9.2,4,Almeria,True
+almeria,2006,9.265,4,Almeria,True
+almeria,2007,11.445,4,Almeria,True
+almeria,2008,19.3925,4,Almeria,True
+almeria,2009,26.572499999999998,4,Almeria,True
+almeria,2010,28.0125,4,Almeria,True
+almeria,2011,33.505,4,Almeria,True
+almeria,2012,35.315,4,Almeria,True
+almeria,2013,36.055,4,Almeria,True
+almeria,2014,35.597500000000004,4,Almeria,True
+almeria,2015,28.99,4,Almeria,True
+almeria,2016,23.5825,4,Almeria,True
+almeria,2017,24.37,4,Almeria,True
+almeria,2018,22.5775,4,Almeria,True
+almeria,2019,17.615000000000002,4,Almeria,True
+almeria,2020,21.905,4,Almeria,True
+almeria,2021,19.255000000000003,4,Almeria,True
+almeria,2022,17.15,4,Almeria,True
+almeria,2023,15.972499999999998,4,Almeria,True
+almeria,2024,15.285,4,Almeria,True
+araba,2002,9.025,4,Araba,True
+araba,2003,9.344999999999999,4,Araba,True
+araba,2004,9.3825,4,Araba,True
+araba,2005,7.157500000000001,4,Araba,True
+araba,2006,7.29,4,Araba,True
+araba,2007,5.4399999999999995,4,Araba,True
+araba,2008,4.985,4,Araba,True
+araba,2009,11.7425,4,Araba,True
+araba,2010,11.34,4,Araba,True
+araba,2011,10.75,4,Araba,True
+araba,2012,16.572499999999998,4,Araba,True
+araba,2013,17.5125,4,Araba,True
+araba,2014,17.197499999999998,4,Araba,True
+araba,2015,15.0125,4,Araba,True
+araba,2016,11.9875,4,Araba,True
+araba,2017,11.2675,4,Araba,True
+araba,2018,9.1125,4,Araba,True
+araba,2019,8.28,4,Araba,True
+araba,2020,7.8575,4,Araba,True
+araba,2021,11.365,4,Araba,True
+araba,2022,9.190000000000001,4,Araba,True
+araba,2023,7.2025,4,Araba,True
+araba,2024,8.567499999999999,4,Araba,True
+asturias,2002,9.805,4,Asturias,True
+asturias,2003,11.3,4,Asturias,True
+asturias,2004,10.3225,4,Asturias,True
+asturias,2005,10.0375,4,Asturias,True
+asturias,2006,9.1625,4,Asturias,True
+asturias,2007,8.4175,4,Asturias,True
+asturias,2008,8.5,4,Asturias,True
+asturias,2009,13.42,4,Asturias,True
+asturias,2010,15.915000000000001,4,Asturias,True
+asturias,2011,17.84,4,Asturias,True
+asturias,2012,21.822499999999998,4,Asturias,True
+asturias,2013,24.127499999999998,4,Asturias,True
+asturias,2014,21.1275,4,Asturias,True
+asturias,2015,19.11,4,Asturias,True
+asturias,2016,17.6075,4,Asturias,True
+asturias,2017,13.7125,4,Asturias,True
+asturias,2018,13.6075,4,Asturias,True
+asturias,2019,14.192499999999999,4,Asturias,True
+asturias,2020,14.12,4,Asturias,True
+asturias,2021,12.335,4,Asturias,True
+asturias,2022,12.5125,4,Asturias,True
+asturias,2023,12.1225,4,Asturias,True
+asturias,2024,10.135,4,Asturias,True
+avila,2002,8.9775,4,Avila,True
+avila,2003,8.9425,4,Avila,True
+avila,2004,9.5075,4,Avila,True
+avila,2005,8.59,4,Avila,True
+avila,2006,6.842499999999999,4,Avila,True
+avila,2007,6.9399999999999995,4,Avila,True
+avila,2008,11.275,4,Avila,True
+avila,2009,19.02,4,Avila,True
+avila,2010,23.3175,4,Avila,True
+avila,2011,23.810000000000002,4,Avila,True
+avila,2012,24.58,4,Avila,True
+avila,2013,25.525,4,Avila,True
+avila,2014,26.0425,4,Avila,True
+avila,2015,22.985,4,Avila,True
+avila,2016,21.2325,4,Avila,True
+avila,2017,17.965,4,Avila,True
+avila,2018,16.4225,4,Avila,True
+avila,2019,14.7025,4,Avila,True
+avila,2020,14.43,4,Avila,True
+avila,2021,15.49,4,Avila,True
+avila,2022,13.935,4,Avila,True
+avila,2023,11.635,4,Avila,True
+avila,2024,11.1425,4,Avila,True
+badajoz,2002,19.555,4,Badajoz,True
+badajoz,2003,16.36,4,Badajoz,True
+badajoz,2004,18.09,4,Badajoz,True
+badajoz,2005,17.43,4,Badajoz,True
+badajoz,2006,14.625,4,Badajoz,True
+badajoz,2007,14.0375,4,Badajoz,True
+badajoz,2008,15.8275,4,Badajoz,True
+badajoz,2009,21.330000000000002,4,Badajoz,True
+badajoz,2010,23.955000000000002,4,Badajoz,True
+badajoz,2011,27.085,4,Badajoz,True
+badajoz,2012,33.8025,4,Badajoz,True
+badajoz,2013,34.394999999999996,4,Badajoz,True
+badajoz,2014,31.27,4,Badajoz,True
+badajoz,2015,30.252499999999998,4,Badajoz,True
+badajoz,2016,29.740000000000002,4,Badajoz,True
+badajoz,2017,28.1525,4,Badajoz,True
+badajoz,2018,25.450000000000003,4,Badajoz,True
+badajoz,2019,22.44,4,Badajoz,True
+badajoz,2020,22.59,4,Badajoz,True
+badajoz,2021,20.5275,4,Badajoz,True
+badajoz,2022,17.6225,4,Badajoz,True
+badajoz,2023,18.675,4,Badajoz,True
+badajoz,2024,15.395,4,Badajoz,True
+barcelona,2002,10.782499999999999,4,Barcelona,True
+barcelona,2003,10.8625,4,Barcelona,True
+barcelona,2004,10.355,4,Barcelona,True
+barcelona,2005,6.890000000000001,4,Barcelona,True
+barcelona,2006,6.547499999999999,4,Barcelona,True
+barcelona,2007,6.5225,4,Barcelona,True
+barcelona,2008,8.6175,4,Barcelona,True
+barcelona,2009,16.2025,4,Barcelona,True
+barcelona,2010,17.7275,4,Barcelona,True
+barcelona,2011,19.1,4,Barcelona,True
+barcelona,2012,22.515,4,Barcelona,True
+barcelona,2013,23.1175,4,Barcelona,True
+barcelona,2014,19.975,4,Barcelona,True
+barcelona,2015,18.235,4,Barcelona,True
+barcelona,2016,15.4975,4,Barcelona,True
+barcelona,2017,13.1025,4,Barcelona,True
+barcelona,2018,11.0875,4,Barcelona,True
+barcelona,2019,10.9,4,Barcelona,True
+barcelona,2020,12.5225,4,Barcelona,True
+barcelona,2021,11.3275,4,Barcelona,True
+barcelona,2022,9.925,4,Barcelona,True
+barcelona,2023,9.120000000000001,4,Barcelona,True
+barcelona,2024,8.4525,4,Barcelona,True
+bizkaia,2002,11.3025,4,Bizkaia,True
+bizkaia,2003,11.445,4,Bizkaia,True
+bizkaia,2004,11.795,4,Bizkaia,True
+bizkaia,2005,8.5375,4,Bizkaia,True
+bizkaia,2006,7.985,4,Bizkaia,True
+bizkaia,2007,7.1625,4,Bizkaia,True
+bizkaia,2008,7.9174999999999995,4,Bizkaia,True
+bizkaia,2009,12.51,4,Bizkaia,True
+bizkaia,2010,12.11,4,Bizkaia,True
+bizkaia,2011,14.1575,4,Bizkaia,True
+bizkaia,2012,16.89,4,Bizkaia,True
+bizkaia,2013,17.7625,4,Bizkaia,True
+bizkaia,2014,17.315,4,Bizkaia,True
+bizkaia,2015,15.985,4,Bizkaia,True
+bizkaia,2016,14.21,4,Bizkaia,True
+bizkaia,2017,12.7,4,Bizkaia,True
+bizkaia,2018,11.6475,4,Bizkaia,True
+bizkaia,2019,10.605,4,Bizkaia,True
+bizkaia,2020,11.2575,4,Bizkaia,True
+bizkaia,2021,11.065,4,Bizkaia,True
+bizkaia,2022,9.41,4,Bizkaia,True
+bizkaia,2023,8.05,4,Bizkaia,True
+bizkaia,2024,8.98,4,Bizkaia,True
+burgos,2002,7.6825,4,Burgos,True
+burgos,2003,8.71,4,Burgos,True
+burgos,2004,8.4875,4,Burgos,True
+burgos,2005,6.805,4,Burgos,True
+burgos,2006,7.0649999999999995,4,Burgos,True
+burgos,2007,6.5225,4,Burgos,True
+burgos,2008,9.16,4,Burgos,True
+burgos,2009,12.6675,4,Burgos,True
+burgos,2010,15.3725,4,Burgos,True
+burgos,2011,14.975000000000001,4,Burgos,True
+burgos,2012,17.310000000000002,4,Burgos,True
+burgos,2013,20.4125,4,Burgos,True
+burgos,2014,18.225,4,Burgos,True
+burgos,2015,17.884999999999998,4,Burgos,True
+burgos,2016,11.7325,4,Burgos,True
+burgos,2017,10.5525,4,Burgos,True
+burgos,2018,10.39,4,Burgos,True
+burgos,2019,9.96,4,Burgos,True
+burgos,2020,11.1275,4,Burgos,True
+burgos,2021,9.63,4,Burgos,True
+burgos,2022,8.555,4,Burgos,True
+burgos,2023,7.717499999999999,4,Burgos,True
+burgos,2024,6.9275,4,Burgos,True
+caceres,2002,18.2075,4,Caceres,True
+caceres,2003,18.7675,4,Caceres,True
+caceres,2004,15.845,4,Caceres,True
+caceres,2005,12.95,4,Caceres,True
+caceres,2006,11.1525,4,Caceres,True
+caceres,2007,11.165,4,Caceres,True
+caceres,2008,14.502500000000001,4,Caceres,True
+caceres,2009,19.357499999999998,4,Caceres,True
+caceres,2010,21.18,4,Caceres,True
+caceres,2011,21.4975,4,Caceres,True
+caceres,2012,31.7875,4,Caceres,True
+caceres,2013,32.955,4,Caceres,True
+caceres,2014,27.315,4,Caceres,True
+caceres,2015,27.115000000000002,4,Caceres,True
+caceres,2016,23.545,4,Caceres,True
+caceres,2017,22.79,4,Caceres,True
+caceres,2018,20.4825,4,Caceres,True
+caceres,2019,19.945,4,Caceres,True
+caceres,2020,20.4075,4,Caceres,True
+caceres,2021,19.61,4,Caceres,True
+caceres,2022,16.7775,4,Caceres,True
+caceres,2023,14.94,4,Caceres,True
+caceres,2024,15.7125,4,Caceres,True
+cadiz,2002,27.075,4,Cadiz,True
+cadiz,2003,23.2525,4,Cadiz,True
+cadiz,2004,22.7775,4,Cadiz,True
+cadiz,2005,17.64,4,Cadiz,True
+cadiz,2006,15.3475,4,Cadiz,True
+cadiz,2007,15.02,4,Cadiz,True
+cadiz,2008,19.235,4,Cadiz,True
+cadiz,2009,26.79,4,Cadiz,True
+cadiz,2010,30.57,4,Cadiz,True
+cadiz,2011,32.525000000000006,4,Cadiz,True
+cadiz,2012,36.3775,4,Cadiz,True
+cadiz,2013,39.615,4,Cadiz,True
+cadiz,2014,42.3075,4,Cadiz,True
+cadiz,2015,38.32,4,Cadiz,True
+cadiz,2016,34.3925,4,Cadiz,True
+cadiz,2017,30.28,4,Cadiz,True
+cadiz,2018,27.545,4,Cadiz,True
+cadiz,2019,24.9025,4,Cadiz,True
+cadiz,2020,22.9325,4,Cadiz,True
+cadiz,2021,25.7925,4,Cadiz,True
+cadiz,2022,23.4675,4,Cadiz,True
+cadiz,2023,22.255,4,Cadiz,True
+cadiz,2024,20.9725,4,Cadiz,True
+cantabria,2002,10.025,4,Cantabria,True
+cantabria,2003,10.41,4,Cantabria,True
+cantabria,2004,10.5625,4,Cantabria,True
+cantabria,2005,8.504999999999999,4,Cantabria,True
+cantabria,2006,6.465,4,Cantabria,True
+cantabria,2007,5.9625,4,Cantabria,True
+cantabria,2008,7.16,4,Cantabria,True
+cantabria,2009,12.0,4,Cantabria,True
+cantabria,2010,13.7,4,Cantabria,True
+cantabria,2011,15.3,4,Cantabria,True
+cantabria,2012,17.7925,4,Cantabria,True
+cantabria,2013,20.447499999999998,4,Cantabria,True
+cantabria,2014,19.4175,4,Cantabria,True
+cantabria,2015,17.6475,4,Cantabria,True
+cantabria,2016,14.907499999999999,4,Cantabria,True
+cantabria,2017,13.565,4,Cantabria,True
+cantabria,2018,10.675,4,Cantabria,True
+cantabria,2019,10.28,4,Cantabria,True
+cantabria,2020,12.165,4,Cantabria,True
+cantabria,2021,11.265,4,Cantabria,True
+cantabria,2022,9.575,4,Cantabria,True
+cantabria,2023,8.1425,4,Cantabria,True
+cantabria,2024,7.8475,4,Cantabria,True
+castello,2002,5.324999999999999,4,Castello,True
+castello,2003,6.7625,4,Castello,True
+castello,2004,8.52,4,Castello,True
+castello,2005,7.4775,4,Castello,True
+castello,2006,6.2575,4,Castello,True
+castello,2007,6.8025,4,Castello,True
+castello,2008,10.684999999999999,4,Castello,True
+castello,2009,19.634999999999998,4,Castello,True
+castello,2010,23.9025,4,Castello,True
+castello,2011,25.965,4,Castello,True
+castello,2012,27.189999999999998,4,Castello,True
+castello,2013,29.125,4,Castello,True
+castello,2014,27.0825,4,Castello,True
+castello,2015,22.5025,4,Castello,True
+castello,2016,19.4975,4,Castello,True
+castello,2017,16.7225,4,Castello,True
+castello,2018,15.525,4,Castello,True
+castello,2019,13.7525,4,Castello,True
+castello,2020,14.285,4,Castello,True
+castello,2021,13.8225,4,Castello,True
+castello,2022,12.1875,4,Castello,True
+castello,2023,14.7575,4,Castello,True
+castello,2024,13.6525,4,Castello,True
+ceuta,2002,7.025,4,Ceuta,True
+ceuta,2003,9.46,4,Ceuta,True
+ceuta,2004,10.8525,4,Ceuta,True
+ceuta,2005,19.44,4,Ceuta,True
+ceuta,2006,21.224999999999998,4,Ceuta,True
+ceuta,2007,21.005,4,Ceuta,True
+ceuta,2008,17.45,4,Ceuta,True
+ceuta,2009,18.6325,4,Ceuta,True
+ceuta,2010,23.919999999999998,4,Ceuta,True
+ceuta,2011,27.745,4,Ceuta,True
+ceuta,2012,37.019999999999996,4,Ceuta,True
+ceuta,2013,34.79,4,Ceuta,True
+ceuta,2014,31.8425,4,Ceuta,True
+ceuta,2015,27.5475,4,Ceuta,True
+ceuta,2016,24.880000000000003,4,Ceuta,True
+ceuta,2017,22.37,4,Ceuta,True
+ceuta,2018,28.927500000000002,4,Ceuta,True
+ceuta,2019,25.814999999999998,4,Ceuta,True
+ceuta,2020,24.5175,4,Ceuta,True
+ceuta,2021,30.85,4,Ceuta,True
+ceuta,2022,29.8525,4,Ceuta,True
+ceuta,2023,29.98,4,Ceuta,True
+ceuta,2024,27.4075,4,Ceuta,True
+ciudad real,2002,9.395,4,Ciudad Real,True
+ciudad real,2003,11.0525,4,Ciudad Real,True
+ciudad real,2004,9.6625,4,Ciudad Real,True
+ciudad real,2005,10.65,4,Ciudad Real,True
+ciudad real,2006,10.9275,4,Ciudad Real,True
+ciudad real,2007,9.27,4,Ciudad Real,True
+ciudad real,2008,13.505,4,Ciudad Real,True
+ciudad real,2009,19.8,4,Ciudad Real,True
+ciudad real,2010,22.2275,4,Ciudad Real,True
+ciudad real,2011,23.84,4,Ciudad Real,True
+ciudad real,2012,31.0675,4,Ciudad Real,True
+ciudad real,2013,30.54,4,Ciudad Real,True
+ciudad real,2014,33.0325,4,Ciudad Real,True
+ciudad real,2015,31.29,4,Ciudad Real,True
+ciudad real,2016,26.2325,4,Ciudad Real,True
+ciudad real,2017,24.4125,4,Ciudad Real,True
+ciudad real,2018,20.1125,4,Ciudad Real,True
+ciudad real,2019,18.259999999999998,4,Ciudad Real,True
+ciudad real,2020,17.8975,4,Ciudad Real,True
+ciudad real,2021,17.732499999999998,4,Ciudad Real,True
+ciudad real,2022,19.355,4,Ciudad Real,True
+ciudad real,2023,16.475,4,Ciudad Real,True
+ciudad real,2024,16.9225,4,Ciudad Real,True
+cordoba,2002,21.247500000000002,4,Cordoba,True
+cordoba,2003,21.085,4,Cordoba,True
+cordoba,2004,20.835,4,Cordoba,True
+cordoba,2005,14.845,4,Cordoba,True
+cordoba,2006,14.485,4,Cordoba,True
+cordoba,2007,13.78,4,Cordoba,True
+cordoba,2008,16.322499999999998,4,Cordoba,True
+cordoba,2009,26.0025,4,Cordoba,True
+cordoba,2010,28.06,4,Cordoba,True
+cordoba,2011,31.6225,4,Cordoba,True
+cordoba,2012,34.6475,4,Cordoba,True
+cordoba,2013,35.162499999999994,4,Cordoba,True
+cordoba,2014,33.64,4,Cordoba,True
+cordoba,2015,29.987499999999997,4,Cordoba,True
+cordoba,2016,30.245,4,Cordoba,True
+cordoba,2017,28.17,4,Cordoba,True
+cordoba,2018,24.737499999999997,4,Cordoba,True
+cordoba,2019,23.060000000000002,4,Cordoba,True
+cordoba,2020,24.255,4,Cordoba,True
+cordoba,2021,21.052500000000002,4,Cordoba,True
+cordoba,2022,19.4175,4,Cordoba,True
+cordoba,2023,18.4075,4,Cordoba,True
+cordoba,2024,16.6175,4,Cordoba,True
+cuenca,2002,9.3675,4,Cuenca,True
+cuenca,2003,9.1975,4,Cuenca,True
+cuenca,2004,8.715,4,Cuenca,True
+cuenca,2005,6.425,4,Cuenca,True
+cuenca,2006,6.9475,4,Cuenca,True
+cuenca,2007,5.7575,4,Cuenca,True
+cuenca,2008,7.9675,4,Cuenca,True
+cuenca,2009,15.982499999999998,4,Cuenca,True
+cuenca,2010,19.3525,4,Cuenca,True
+cuenca,2011,19.5325,4,Cuenca,True
+cuenca,2012,23.377499999999998,4,Cuenca,True
+cuenca,2013,28.87,4,Cuenca,True
+cuenca,2014,28.002499999999998,4,Cuenca,True
+cuenca,2015,22.615000000000002,4,Cuenca,True
+cuenca,2016,18.015,4,Cuenca,True
+cuenca,2017,15.9025,4,Cuenca,True
+cuenca,2018,15.399999999999999,4,Cuenca,True
+cuenca,2019,13.065,4,Cuenca,True
+cuenca,2020,15.6525,4,Cuenca,True
+cuenca,2021,12.1075,4,Cuenca,True
+cuenca,2022,9.6075,4,Cuenca,True
+cuenca,2023,11.4075,4,Cuenca,True
+cuenca,2024,10.495,4,Cuenca,True
+gipuzkoa,2002,7.0075,4,Gipuzkoa,True
+gipuzkoa,2003,6.44,4,Gipuzkoa,True
+gipuzkoa,2004,6.7975,4,Gipuzkoa,True
+gipuzkoa,2005,5.695,4,Gipuzkoa,True
+gipuzkoa,2006,5.7575,4,Gipuzkoa,True
+gipuzkoa,2007,5.0925,4,Gipuzkoa,True
+gipuzkoa,2008,5.335,4,Gipuzkoa,True
+gipuzkoa,2009,9.282499999999999,4,Gipuzkoa,True
+gipuzkoa,2010,8.030000000000001,4,Gipuzkoa,True
+gipuzkoa,2011,10.1775,4,Gipuzkoa,True
+gipuzkoa,2012,12.97,4,Gipuzkoa,True
+gipuzkoa,2013,14.115,4,Gipuzkoa,True
+gipuzkoa,2014,14.26,4,Gipuzkoa,True
+gipuzkoa,2015,12.67,4,Gipuzkoa,True
+gipuzkoa,2016,10.2575,4,Gipuzkoa,True
+gipuzkoa,2017,9.015,4,Gipuzkoa,True
+gipuzkoa,2018,7.6975,4,Gipuzkoa,True
+gipuzkoa,2019,7.22,4,Gipuzkoa,True
+gipuzkoa,2020,7.585,4,Gipuzkoa,True
+gipuzkoa,2021,8.615,4,Gipuzkoa,True
+gipuzkoa,2022,7.87,4,Gipuzkoa,True
+gipuzkoa,2023,7.465,4,Gipuzkoa,True
+gipuzkoa,2024,6.3575,4,Gipuzkoa,True
+girona,2002,8.675,4,Girona,True
+girona,2003,10.39,4,Girona,True
+girona,2004,8.6875,4,Girona,True
+girona,2005,7.3225,4,Girona,True
+girona,2006,6.3774999999999995,4,Girona,True
+girona,2007,7.9625,4,Girona,True
+girona,2008,10.96,4,Girona,True
+girona,2009,18.005,4,Girona,True
+girona,2010,17.857499999999998,4,Girona,True
+girona,2011,21.7025,4,Girona,True
+girona,2012,24.2075,4,Girona,True
+girona,2013,22.985,4,Girona,True
+girona,2014,22.53,4,Girona,True
+girona,2015,19.7225,4,Girona,True
+girona,2016,16.14,4,Girona,True
+girona,2017,13.9625,4,Girona,True
+girona,2018,11.3975,4,Girona,True
+girona,2019,10.3325,4,Girona,True
+girona,2020,12.6025,4,Girona,True
+girona,2021,12.975,4,Girona,True
+girona,2022,8.9575,4,Girona,True
+girona,2023,9.9575,4,Girona,True
+girona,2024,9.467500000000001,4,Girona,True
+granada,2002,19.675,4,Granada,True
+granada,2003,17.8375,4,Granada,True
+granada,2004,13.3775,4,Granada,True
+granada,2005,13.1175,4,Granada,True
+granada,2006,10.985,4,Granada,True
+granada,2007,11.8825,4,Granada,True
+granada,2008,19.3275,4,Granada,True
+granada,2009,26.2225,4,Granada,True
+granada,2010,28.735,4,Granada,True
+granada,2011,29.122500000000002,4,Granada,True
+granada,2012,35.5875,4,Granada,True
+granada,2013,37.035,4,Granada,True
+granada,2014,35.915,4,Granada,True
+granada,2015,30.942500000000003,4,Granada,True
+granada,2016,29.9375,4,Granada,True
+granada,2017,25.7725,4,Granada,True
+granada,2018,23.997500000000002,4,Granada,True
+granada,2019,22.21,4,Granada,True
+granada,2020,23.775,4,Granada,True
+granada,2021,22.63,4,Granada,True
+granada,2022,20.9575,4,Granada,True
+granada,2023,20.5075,4,Granada,True
+granada,2024,21.435,4,Granada,True
+guadalajara,2002,8.8975,4,Guadalajara,True
+guadalajara,2003,8.747499999999999,4,Guadalajara,True
+guadalajara,2004,8.065,4,Guadalajara,True
+guadalajara,2005,6.9775,4,Guadalajara,True
+guadalajara,2006,6.6625,4,Guadalajara,True
+guadalajara,2007,5.0024999999999995,4,Guadalajara,True
+guadalajara,2008,8.7575,4,Guadalajara,True
+guadalajara,2009,13.9125,4,Guadalajara,True
+guadalajara,2010,17.2025,4,Guadalajara,True
+guadalajara,2011,19.5675,4,Guadalajara,True
+guadalajara,2012,22.6375,4,Guadalajara,True
+guadalajara,2013,22.560000000000002,4,Guadalajara,True
+guadalajara,2014,23.265,4,Guadalajara,True
+guadalajara,2015,19.295,4,Guadalajara,True
+guadalajara,2016,17.7875,4,Guadalajara,True
+guadalajara,2017,13.9075,4,Guadalajara,True
+guadalajara,2018,11.4475,4,Guadalajara,True
+guadalajara,2019,12.145,4,Guadalajara,True
+guadalajara,2020,14.870000000000001,4,Guadalajara,True
+guadalajara,2021,12.7475,4,Guadalajara,True
+guadalajara,2022,11.1725,4,Guadalajara,True
+guadalajara,2023,9.865,4,Guadalajara,True
+guadalajara,2024,10.875,4,Guadalajara,True
+huelva,2002,21.439999999999998,4,Huelva,True
+huelva,2003,19.9375,4,Huelva,True
+huelva,2004,16.0775,4,Huelva,True
+huelva,2005,15.682500000000001,4,Huelva,True
+huelva,2006,14.0875,4,Huelva,True
+huelva,2007,14.025,4,Huelva,True
+huelva,2008,17.705000000000002,4,Huelva,True
+huelva,2009,22.505,4,Huelva,True
+huelva,2010,27.305,4,Huelva,True
+huelva,2011,31.24,4,Huelva,True
+huelva,2012,34.78,4,Huelva,True
+huelva,2013,34.8275,4,Huelva,True
+huelva,2014,31.9525,4,Huelva,True
+huelva,2015,29.7625,4,Huelva,True
+huelva,2016,29.035,4,Huelva,True
+huelva,2017,24.0325,4,Huelva,True
+huelva,2018,22.9175,4,Huelva,True
+huelva,2019,21.9425,4,Huelva,True
+huelva,2020,20.5975,4,Huelva,True
+huelva,2021,20.377499999999998,4,Huelva,True
+huelva,2022,17.494999999999997,4,Huelva,True
+huelva,2023,18.3275,4,Huelva,True
+huelva,2024,15.125,4,Huelva,True
+huesca,2002,4.3375,4,Huesca,True
+huesca,2003,3.835,4,Huesca,True
+huesca,2004,5.415,4,Huesca,True
+huesca,2005,6.8025,4,Huesca,True
+huesca,2006,5.4975000000000005,4,Huesca,True
+huesca,2007,4.0375,4,Huesca,True
+huesca,2008,5.4350000000000005,4,Huesca,True
+huesca,2009,10.8275,4,Huesca,True
+huesca,2010,12.9625,4,Huesca,True
+huesca,2011,13.345,4,Huesca,True
+huesca,2012,14.59,4,Huesca,True
+huesca,2013,17.165,4,Huesca,True
+huesca,2014,17.205,4,Huesca,True
+huesca,2015,14.4725,4,Huesca,True
+huesca,2016,12.54,4,Huesca,True
+huesca,2017,9.0475,4,Huesca,True
+huesca,2018,9.51,4,Huesca,True
+huesca,2019,9.022499999999999,4,Huesca,True
+huesca,2020,10.7575,4,Huesca,True
+huesca,2021,7.6175,4,Huesca,True
+huesca,2022,9.42,4,Huesca,True
+huesca,2023,8.4475,4,Huesca,True
+huesca,2024,9.129999999999999,4,Huesca,True
+illes balears,2002,7.615,4,Illes Balears,True
+illes balears,2003,9.775,4,Illes Balears,True
+illes balears,2004,9.1675,4,Illes Balears,True
+illes balears,2005,7.2924999999999995,4,Illes Balears,True
+illes balears,2006,6.5,4,Illes Balears,True
+illes balears,2007,7.217499999999999,4,Illes Balears,True
+illes balears,2008,10.1875,4,Illes Balears,True
+illes balears,2009,17.97,4,Illes Balears,True
+illes balears,2010,20.18,4,Illes Balears,True
+illes balears,2011,21.947499999999998,4,Illes Balears,True
+illes balears,2012,23.2575,4,Illes Balears,True
+illes balears,2013,22.335,4,Illes Balears,True
+illes balears,2014,20.14,4,Illes Balears,True
+illes balears,2015,17.41,4,Illes Balears,True
+illes balears,2016,13.9575,4,Illes Balears,True
+illes balears,2017,12.5275,4,Illes Balears,True
+illes balears,2018,11.6775,4,Illes Balears,True
+illes balears,2019,11.82,4,Illes Balears,True
+illes balears,2020,16.1875,4,Illes Balears,True
+illes balears,2021,14.434999999999999,4,Illes Balears,True
+illes balears,2022,10.735,4,Illes Balears,True
+illes balears,2023,10.48,4,Illes Balears,True
+illes balears,2024,9.45,4,Illes Balears,True
+jaen,2002,18.395,4,Jaen,True
+jaen,2003,18.88,4,Jaen,True
+jaen,2004,18.245,4,Jaen,True
+jaen,2005,15.9575,4,Jaen,True
+jaen,2006,13.6375,4,Jaen,True
+jaen,2007,13.0525,4,Jaen,True
+jaen,2008,16.4825,4,Jaen,True
+jaen,2009,23.5775,4,Jaen,True
+jaen,2010,25.05,4,Jaen,True
+jaen,2011,28.075,4,Jaen,True
+jaen,2012,35.8125,4,Jaen,True
+jaen,2013,39.3575,4,Jaen,True
+jaen,2014,33.2825,4,Jaen,True
+jaen,2015,34.0625,4,Jaen,True
+jaen,2016,32.0925,4,Jaen,True
+jaen,2017,26.755000000000003,4,Jaen,True
+jaen,2018,23.0125,4,Jaen,True
+jaen,2019,22.29,4,Jaen,True
+jaen,2020,23.995,4,Jaen,True
+jaen,2021,22.09,4,Jaen,True
+jaen,2022,18.975,4,Jaen,True
+jaen,2023,18.4725,4,Jaen,True
+jaen,2024,19.335,4,Jaen,True
+la rioja,2002,7.05,4,La Rioja,True
+la rioja,2003,6.0325,4,La Rioja,True
+la rioja,2004,5.9475,4,La Rioja,True
+la rioja,2005,6.375,4,La Rioja,True
+la rioja,2006,6.1125,4,La Rioja,True
+la rioja,2007,5.7675,4,La Rioja,True
+la rioja,2008,7.8925,4,La Rioja,True
+la rioja,2009,12.6475,4,La Rioja,True
+la rioja,2010,14.145,4,La Rioja,True
+la rioja,2011,17.2075,4,La Rioja,True
+la rioja,2012,20.5675,4,La Rioja,True
+la rioja,2013,20.035,4,La Rioja,True
+la rioja,2014,18.16,4,La Rioja,True
+la rioja,2015,15.3825,4,La Rioja,True
+la rioja,2016,13.535,4,La Rioja,True
+la rioja,2017,11.9925,4,La Rioja,True
+la rioja,2018,10.4025,4,La Rioja,True
+la rioja,2019,9.96,4,La Rioja,True
+la rioja,2020,10.8,4,La Rioja,True
+la rioja,2021,11.605,4,La Rioja,True
+la rioja,2022,9.55,4,La Rioja,True
+la rioja,2023,9.375,4,La Rioja,True
+la rioja,2024,9.745000000000001,4,La Rioja,True
+las palmas,2002,10.7025,4,Las Palmas,True
+las palmas,2003,10.425,4,Las Palmas,True
+las palmas,2004,11.002500000000001,4,Las Palmas,True
+las palmas,2005,12.6775,4,Las Palmas,True
+las palmas,2006,11.9675,4,Las Palmas,True
+las palmas,2007,11.2325,4,Las Palmas,True
+las palmas,2008,18.21,4,Las Palmas,True
+las palmas,2009,27.78,4,Las Palmas,True
+las palmas,2010,30.63,4,Las Palmas,True
+las palmas,2011,31.2875,4,Las Palmas,True
+las palmas,2012,33.9975,4,Las Palmas,True
+las palmas,2013,34.8225,4,Las Palmas,True
+las palmas,2014,33.1225,4,Las Palmas,True
+las palmas,2015,29.8675,4,Las Palmas,True
+las palmas,2016,26.295,4,Las Palmas,True
+las palmas,2017,24.560000000000002,4,Las Palmas,True
+las palmas,2018,20.235,4,Las Palmas,True
+las palmas,2019,22.22,4,Las Palmas,True
+las palmas,2020,22.0425,4,Las Palmas,True
+las palmas,2021,23.555,4,Las Palmas,True
+las palmas,2022,17.32,4,Las Palmas,True
+las palmas,2023,15.0475,4,Las Palmas,True
+las palmas,2024,14.015,4,Las Palmas,True
+leon,2002,10.435,4,Leon,True
+leon,2003,9.53,4,Leon,True
+leon,2004,8.3375,4,Leon,True
+leon,2005,10.844999999999999,4,Leon,True
+leon,2006,8.93,4,Leon,True
+leon,2007,7.6875,4,Leon,True
+leon,2008,9.532499999999999,4,Leon,True
+leon,2009,14.6175,4,Leon,True
+leon,2010,16.1475,4,Leon,True
+leon,2011,17.2,4,Leon,True
+leon,2012,21.5,4,Leon,True
+leon,2013,23.8925,4,Leon,True
+leon,2014,24.33,4,Leon,True
+leon,2015,21.2475,4,Leon,True
+leon,2016,19.2175,4,Leon,True
+leon,2017,16.4025,4,Leon,True
+leon,2018,11.765,4,Leon,True
+leon,2019,12.6875,4,Leon,True
+leon,2020,14.46,4,Leon,True
+leon,2021,13.622499999999999,4,Leon,True
+leon,2022,10.629999999999999,4,Leon,True
+leon,2023,10.1325,4,Leon,True
+leon,2024,9.6125,4,Leon,True
+lleida,2002,6.485,4,Lleida,True
+lleida,2003,5.6575,4,Lleida,True
+lleida,2004,4.695,4,Lleida,True
+lleida,2005,6.175,4,Lleida,True
+lleida,2006,6.3925,4,Lleida,True
+lleida,2007,3.0324999999999998,4,Lleida,True
+lleida,2008,6.555,4,Lleida,True
+lleida,2009,11.56,4,Lleida,True
+lleida,2010,14.635,4,Lleida,True
+lleida,2011,13.780000000000001,4,Lleida,True
+lleida,2012,17.8325,4,Lleida,True
+lleida,2013,16.4725,4,Lleida,True
+lleida,2014,15.045,4,Lleida,True
+lleida,2015,15.0375,4,Lleida,True
+lleida,2016,11.6275,4,Lleida,True
+lleida,2017,11.67,4,Lleida,True
+lleida,2018,10.545,4,Lleida,True
+lleida,2019,9.675,4,Lleida,True
+lleida,2020,9.3575,4,Lleida,True
+lleida,2021,11.2175,4,Lleida,True
+lleida,2022,9.995000000000001,4,Lleida,True
+lleida,2023,7.592499999999999,4,Lleida,True
+lleida,2024,6.635,4,Lleida,True
+lugo,2002,9.2325,4,Lugo,True
+lugo,2003,8.1425,4,Lugo,True
+lugo,2004,8.8325,4,Lugo,True
+lugo,2005,6.72,4,Lugo,True
+lugo,2006,6.565,4,Lugo,True
+lugo,2007,5.76,4,Lugo,True
+lugo,2008,6.282500000000001,4,Lugo,True
+lugo,2009,9.405000000000001,4,Lugo,True
+lugo,2010,10.7825,4,Lugo,True
+lugo,2011,11.9075,4,Lugo,True
+lugo,2012,16.11,4,Lugo,True
+lugo,2013,18.96,4,Lugo,True
+lugo,2014,18.947499999999998,4,Lugo,True
+lugo,2015,15.9575,4,Lugo,True
+lugo,2016,14.785,4,Lugo,True
+lugo,2017,12.66,4,Lugo,True
+lugo,2018,9.1875,4,Lugo,True
+lugo,2019,8.8625,4,Lugo,True
+lugo,2020,8.787500000000001,4,Lugo,True
+lugo,2021,8.8725,4,Lugo,True
+lugo,2022,9.125,4,Lugo,True
+lugo,2023,8.219999999999999,4,Lugo,True
+lugo,2024,7.09,4,Lugo,True
+madrid,2002,7.2975,4,Madrid,True
+madrid,2003,7.3675,4,Madrid,True
+madrid,2004,6.737500000000001,4,Madrid,True
+madrid,2005,6.835,4,Madrid,True
+madrid,2006,6.3025,4,Madrid,True
+madrid,2007,6.2425,4,Madrid,True
+madrid,2008,8.6,4,Madrid,True
+madrid,2009,13.855,4,Madrid,True
+madrid,2010,15.8425,4,Madrid,True
+madrid,2011,16.3375,4,Madrid,True
+madrid,2012,18.53,4,Madrid,True
+madrid,2013,19.7625,4,Madrid,True
+madrid,2014,18.747500000000002,4,Madrid,True
+madrid,2015,17.0575,4,Madrid,True
+madrid,2016,15.712499999999999,4,Madrid,True
+madrid,2017,13.3425,4,Madrid,True
+madrid,2018,12.219999999999999,4,Madrid,True
+madrid,2019,10.622499999999999,4,Madrid,True
+madrid,2020,12.497499999999999,4,Madrid,True
+madrid,2021,11.6875,4,Madrid,True
+madrid,2022,11.215,4,Madrid,True
+madrid,2023,9.955,4,Madrid,True
+madrid,2024,8.975,4,Madrid,True
+malaga,2002,14.91,4,Malaga,True
+malaga,2003,16.2425,4,Malaga,True
+malaga,2004,14.985,4,Malaga,True
+malaga,2005,11.56,4,Malaga,True
+malaga,2006,11.02,4,Malaga,True
+malaga,2007,10.835,4,Malaga,True
+malaga,2008,18.1775,4,Malaga,True
+malaga,2009,26.1425,4,Malaga,True
+malaga,2010,29.122500000000002,4,Malaga,True
+malaga,2011,30.64,4,Malaga,True
+malaga,2012,34.2875,4,Malaga,True
+malaga,2013,35.735,4,Malaga,True
+malaga,2014,32.6275,4,Malaga,True
+malaga,2015,29.5675,4,Malaga,True
+malaga,2016,26.0575,4,Malaga,True
+malaga,2017,22.4375,4,Malaga,True
+malaga,2018,19.189999999999998,4,Malaga,True
+malaga,2019,17.6425,4,Malaga,True
+malaga,2020,20.345,4,Malaga,True
+malaga,2021,20.427500000000002,4,Malaga,True
+malaga,2022,18.4425,4,Malaga,True
+malaga,2023,16.822499999999998,4,Malaga,True
+malaga,2024,13.559999999999999,4,Malaga,True
+melilla,2002,4.220000000000001,4,Melilla,True
+melilla,2003,8.355,4,Melilla,True
+melilla,2004,17.5875,4,Melilla,True
+melilla,2005,14.2575,4,Melilla,True
+melilla,2006,13.602500000000001,4,Melilla,True
+melilla,2007,18.1725,4,Melilla,True
+melilla,2008,19.892500000000002,4,Melilla,True
+melilla,2009,23.4675,4,Melilla,True
+melilla,2010,22.7725,4,Melilla,True
+melilla,2011,22.4075,4,Melilla,True
+melilla,2012,26.8575,4,Melilla,True
+melilla,2013,32.4075,4,Melilla,True
+melilla,2014,28.4,4,Melilla,True
+melilla,2015,33.9475,4,Melilla,True
+melilla,2016,30.7775,4,Melilla,True
+melilla,2017,27.615000000000002,4,Melilla,True
+melilla,2018,25.765,4,Melilla,True
+melilla,2019,26.9825,4,Melilla,True
+melilla,2020,23.6075,4,Melilla,True
+melilla,2021,25.345,4,Melilla,True
+melilla,2022,25.9025,4,Melilla,True
+melilla,2023,26.6325,4,Melilla,True
+melilla,2024,28.314999999999998,4,Melilla,True
+murcia,2002,11.295,4,Murcia,True
+murcia,2003,10.7875,4,Murcia,True
+murcia,2004,10.7275,4,Murcia,True
+murcia,2005,8.0375,4,Murcia,True
+murcia,2006,7.8774999999999995,4,Murcia,True
+murcia,2007,7.54,4,Murcia,True
+murcia,2008,12.43,4,Murcia,True
+murcia,2009,20.3275,4,Murcia,True
+murcia,2010,22.8625,4,Murcia,True
+murcia,2011,24.985,4,Murcia,True
+murcia,2012,27.615000000000002,4,Murcia,True
+murcia,2013,28.98,4,Murcia,True
+murcia,2014,26.585,4,Murcia,True
+murcia,2015,24.615000000000002,4,Murcia,True
+murcia,2016,19.7825,4,Murcia,True
+murcia,2017,18.0325,4,Murcia,True
+murcia,2018,16.7625,4,Murcia,True
+murcia,2019,14.68,4,Murcia,True
+murcia,2020,16.17,4,Murcia,True
+murcia,2021,14.7225,4,Murcia,True
+murcia,2022,13.585,4,Murcia,True
+murcia,2023,12.775,4,Murcia,True
+murcia,2024,12.7325,4,Murcia,True
+navarra,2002,5.835,4,Navarra,True
+navarra,2003,5.7975,4,Navarra,True
+navarra,2004,5.5725,4,Navarra,True
+navarra,2005,5.654999999999999,4,Navarra,True
+navarra,2006,5.375,4,Navarra,True
+navarra,2007,4.72,4,Navarra,True
+navarra,2008,6.83,4,Navarra,True
+navarra,2009,10.8325,4,Navarra,True
+navarra,2010,11.9025,4,Navarra,True
+navarra,2011,12.9875,4,Navarra,True
+navarra,2012,16.1625,4,Navarra,True
+navarra,2013,17.93,4,Navarra,True
+navarra,2014,15.71,4,Navarra,True
+navarra,2015,13.8275,4,Navarra,True
+navarra,2016,12.485,4,Navarra,True
+navarra,2017,10.2375,4,Navarra,True
+navarra,2018,10.0275,4,Navarra,True
+navarra,2019,8.2425,4,Navarra,True
+navarra,2020,10.055,4,Navarra,True
+navarra,2021,10.712499999999999,4,Navarra,True
+navarra,2022,9.735,4,Navarra,True
+navarra,2023,9.945,4,Navarra,True
+navarra,2024,7.64,4,Navarra,True
+ourense,2002,8.4125,4,Ourense,True
+ourense,2003,8.535,4,Ourense,True
+ourense,2004,13.28,4,Ourense,True
+ourense,2005,10.655,4,Ourense,True
+ourense,2006,8.985,4,Ourense,True
+ourense,2007,5.775,4,Ourense,True
+ourense,2008,6.25,4,Ourense,True
+ourense,2009,10.4175,4,Ourense,True
+ourense,2010,16.4275,4,Ourense,True
+ourense,2011,17.775,4,Ourense,True
+ourense,2012,20.96,4,Ourense,True
+ourense,2013,24.060000000000002,4,Ourense,True
+ourense,2014,21.345,4,Ourense,True
+ourense,2015,20.3425,4,Ourense,True
+ourense,2016,19.54,4,Ourense,True
+ourense,2017,16.47,4,Ourense,True
+ourense,2018,13.75,4,Ourense,True
+ourense,2019,12.932500000000001,4,Ourense,True
+ourense,2020,11.725,4,Ourense,True
+ourense,2021,10.9475,4,Ourense,True
+ourense,2022,11.4875,4,Ourense,True
+ourense,2023,9.57,4,Ourense,True
+ourense,2024,10.98,4,Ourense,True
+palencia,2002,8.49,4,Palencia,True
+palencia,2003,9.19,4,Palencia,True
+palencia,2004,7.445,4,Palencia,True
+palencia,2005,7.3925,4,Palencia,True
+palencia,2006,7.192500000000001,4,Palencia,True
+palencia,2007,6.16,4,Palencia,True
+palencia,2008,9.7075,4,Palencia,True
+palencia,2009,14.5925,4,Palencia,True
+palencia,2010,15.165,4,Palencia,True
+palencia,2011,17.7975,4,Palencia,True
+palencia,2012,18.9975,4,Palencia,True
+palencia,2013,21.34,4,Palencia,True
+palencia,2014,22.3125,4,Palencia,True
+palencia,2015,20.31,4,Palencia,True
+palencia,2016,15.212499999999999,4,Palencia,True
+palencia,2017,13.6275,4,Palencia,True
+palencia,2018,12.02,4,Palencia,True
+palencia,2019,10.49,4,Palencia,True
+palencia,2020,11.42,4,Palencia,True
+palencia,2021,9.9925,4,Palencia,True
+palencia,2022,9.5075,4,Palencia,True
+palencia,2023,8.735,4,Palencia,True
+palencia,2024,7.0,4,Palencia,True
+pontevedra,2002,13.67,4,Pontevedra,True
+pontevedra,2003,14.317499999999999,4,Pontevedra,True
+pontevedra,2004,14.1575,4,Pontevedra,True
+pontevedra,2005,11.0475,4,Pontevedra,True
+pontevedra,2006,9.0425,4,Pontevedra,True
+pontevedra,2007,8.0175,4,Pontevedra,True
+pontevedra,2008,9.887500000000001,4,Pontevedra,True
+pontevedra,2009,15.2525,4,Pontevedra,True
+pontevedra,2010,18.195,4,Pontevedra,True
+pontevedra,2011,20.705,4,Pontevedra,True
+pontevedra,2012,24.502499999999998,4,Pontevedra,True
+pontevedra,2013,24.7425,4,Pontevedra,True
+pontevedra,2014,24.7075,4,Pontevedra,True
+pontevedra,2015,22.465,4,Pontevedra,True
+pontevedra,2016,19.3875,4,Pontevedra,True
+pontevedra,2017,18.3125,4,Pontevedra,True
+pontevedra,2018,16.0175,4,Pontevedra,True
+pontevedra,2019,14.2925,4,Pontevedra,True
+pontevedra,2020,14.129999999999999,4,Pontevedra,True
+pontevedra,2021,13.747499999999999,4,Pontevedra,True
+pontevedra,2022,12.657499999999999,4,Pontevedra,True
+pontevedra,2023,10.9925,4,Pontevedra,True
+pontevedra,2024,11.2775,4,Pontevedra,True
+salamanca,2002,13.157499999999999,4,Salamanca,True
+salamanca,2003,15.377500000000001,4,Salamanca,True
+salamanca,2004,15.629999999999999,4,Salamanca,True
+salamanca,2005,9.3975,4,Salamanca,True
+salamanca,2006,10.05,4,Salamanca,True
+salamanca,2007,8.585,4,Salamanca,True
+salamanca,2008,11.5125,4,Salamanca,True
+salamanca,2009,15.6375,4,Salamanca,True
+salamanca,2010,16.03,4,Salamanca,True
+salamanca,2011,16.745,4,Salamanca,True
+salamanca,2012,19.752499999999998,4,Salamanca,True
+salamanca,2013,22.02,4,Salamanca,True
+salamanca,2014,21.085,4,Salamanca,True
+salamanca,2015,15.955,4,Salamanca,True
+salamanca,2016,16.4775,4,Salamanca,True
+salamanca,2017,14.559999999999999,4,Salamanca,True
+salamanca,2018,13.0975,4,Salamanca,True
+salamanca,2019,13.4,4,Salamanca,True
+salamanca,2020,13.4675,4,Salamanca,True
+salamanca,2021,13.3375,4,Salamanca,True
+salamanca,2022,11.2225,4,Salamanca,True
+salamanca,2023,10.82,4,Salamanca,True
+salamanca,2024,11.8475,4,Salamanca,True
+santa cruz de tenerife,2002,11.495000000000001,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2003,12.335,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2004,12.9275,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2005,10.6025,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2006,11.23,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2007,9.5775,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2008,16.13,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2009,23.9975,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2010,26.37,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2011,27.1,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2012,31.005,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2013,32.4825,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2014,31.6525,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2015,28.29,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2016,25.8175,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2017,22.2575,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2018,19.9025,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2019,18.6925,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2020,23.3075,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2021,23.4825,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2022,18.005000000000003,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2023,17.2425,4,Santa Cruz de Tenerife,True
+santa cruz de tenerife,2024,13.48,4,Santa Cruz de Tenerife,True
+segovia,2002,9.575,4,Segovia,True
+segovia,2003,9.844999999999999,4,Segovia,True
+segovia,2004,8.67,4,Segovia,True
+segovia,2005,6.855,4,Segovia,True
+segovia,2006,7.525,4,Segovia,True
+segovia,2007,5.5975,4,Segovia,True
+segovia,2008,10.3925,4,Segovia,True
+segovia,2009,12.6975,4,Segovia,True
+segovia,2010,11.9225,4,Segovia,True
+segovia,2011,13.9025,4,Segovia,True
+segovia,2012,19.725,4,Segovia,True
+segovia,2013,19.3275,4,Segovia,True
+segovia,2014,14.379999999999999,4,Segovia,True
+segovia,2015,14.815,4,Segovia,True
+segovia,2016,14.16,4,Segovia,True
+segovia,2017,11.9225,4,Segovia,True
+segovia,2018,11.82,4,Segovia,True
+segovia,2019,9.8325,4,Segovia,True
+segovia,2020,9.145,4,Segovia,True
+segovia,2021,9.36,4,Segovia,True
+segovia,2022,8.2725,4,Segovia,True
+segovia,2023,8.065,4,Segovia,True
+segovia,2024,6.6925,4,Segovia,True
+sevilla,2002,20.0825,4,Sevilla,True
+sevilla,2003,18.325,4,Sevilla,True
+sevilla,2004,17.2625,4,Sevilla,True
+sevilla,2005,13.8,4,Sevilla,True
+sevilla,2006,12.844999999999999,4,Sevilla,True
+sevilla,2007,12.9425,4,Sevilla,True
+sevilla,2008,15.9575,4,Sevilla,True
+sevilla,2009,23.5175,4,Sevilla,True
+sevilla,2010,25.2675,4,Sevilla,True
+sevilla,2011,27.1325,4,Sevilla,True
+sevilla,2012,31.497500000000002,4,Sevilla,True
+sevilla,2013,34.010000000000005,4,Sevilla,True
+sevilla,2014,32.7775,4,Sevilla,True
+sevilla,2015,30.5,4,Sevilla,True
+sevilla,2016,27.6375,4,Sevilla,True
+sevilla,2017,24.2725,4,Sevilla,True
+sevilla,2018,22.44,4,Sevilla,True
+sevilla,2019,21.502499999999998,4,Sevilla,True
+sevilla,2020,22.0975,4,Sevilla,True
+sevilla,2021,22.045,4,Sevilla,True
+sevilla,2022,17.3875,4,Sevilla,True
+sevilla,2023,16.7325,4,Sevilla,True
+sevilla,2024,13.9525,4,Sevilla,True
+soria,2002,4.845000000000001,4,Soria,True
+soria,2003,4.85,4,Soria,True
+soria,2004,4.3,4,Soria,True
+soria,2005,5.215,4,Soria,True
+soria,2006,5.217499999999999,4,Soria,True
+soria,2007,4.715,4,Soria,True
+soria,2008,5.5825,4,Soria,True
+soria,2009,10.49,4,Soria,True
+soria,2010,12.375,4,Soria,True
+soria,2011,13.62,4,Soria,True
+soria,2012,14.8275,4,Soria,True
+soria,2013,16.585,4,Soria,True
+soria,2014,17.035,4,Soria,True
+soria,2015,14.0775,4,Soria,True
+soria,2016,13.2075,4,Soria,True
+soria,2017,10.84,4,Soria,True
+soria,2018,8.067499999999999,4,Soria,True
+soria,2019,7.48,4,Soria,True
+soria,2020,8.7625,4,Soria,True
+soria,2021,9.2025,4,Soria,True
+soria,2022,8.1,4,Soria,True
+soria,2023,7.785,4,Soria,True
+soria,2024,6.34,4,Soria,True
+tarragona,2002,8.74,4,Tarragona,True
+tarragona,2003,7.755,4,Tarragona,True
+tarragona,2004,8.5625,4,Tarragona,True
+tarragona,2005,7.1375,4,Tarragona,True
+tarragona,2006,6.265,4,Tarragona,True
+tarragona,2007,6.5025,4,Tarragona,True
+tarragona,2008,10.06,4,Tarragona,True
+tarragona,2009,17.145,4,Tarragona,True
+tarragona,2010,18.5425,4,Tarragona,True
+tarragona,2011,19.985,4,Tarragona,True
+tarragona,2012,23.41,4,Tarragona,True
+tarragona,2013,26.9125,4,Tarragona,True
+tarragona,2014,23.4625,4,Tarragona,True
+tarragona,2015,21.935000000000002,4,Tarragona,True
+tarragona,2016,19.06,4,Tarragona,True
+tarragona,2017,16.0875,4,Tarragona,True
+tarragona,2018,14.965,4,Tarragona,True
+tarragona,2019,13.455,4,Tarragona,True
+tarragona,2020,15.2675,4,Tarragona,True
+tarragona,2021,13.3625,4,Tarragona,True
+tarragona,2022,11.395,4,Tarragona,True
+tarragona,2023,11.275,4,Tarragona,True
+tarragona,2024,12.6975,4,Tarragona,True
+teruel,2002,6.005,4,Teruel,True
+teruel,2003,4.6825,4,Teruel,True
+teruel,2004,4.345000000000001,4,Teruel,True
+teruel,2005,4.7375,4,Teruel,True
+teruel,2006,3.7575,4,Teruel,True
+teruel,2007,4.475,4,Teruel,True
+teruel,2008,6.345000000000001,4,Teruel,True
+teruel,2009,10.25,4,Teruel,True
+teruel,2010,12.12,4,Teruel,True
+teruel,2011,14.497499999999999,4,Teruel,True
+teruel,2012,16.24,4,Teruel,True
+teruel,2013,19.7425,4,Teruel,True
+teruel,2014,20.0325,4,Teruel,True
+teruel,2015,17.025,4,Teruel,True
+teruel,2016,13.445,4,Teruel,True
+teruel,2017,12.155000000000001,4,Teruel,True
+teruel,2018,9.16,4,Teruel,True
+teruel,2019,9.77,4,Teruel,True
+teruel,2020,10.585,4,Teruel,True
+teruel,2021,8.385,4,Teruel,True
+teruel,2022,8.94,4,Teruel,True
+teruel,2023,9.3925,4,Teruel,True
+teruel,2024,7.197500000000001,4,Teruel,True
+toledo,2002,11.5125,4,Toledo,True
+toledo,2003,11.6975,4,Toledo,True
+toledo,2004,10.46,4,Toledo,True
+toledo,2005,9.3875,4,Toledo,True
+toledo,2006,7.945,4,Toledo,True
+toledo,2007,7.1025,4,Toledo,True
+toledo,2008,12.1325,4,Toledo,True
+toledo,2009,20.37,4,Toledo,True
+toledo,2010,21.735,4,Toledo,True
+toledo,2011,23.87,4,Toledo,True
+toledo,2012,28.7625,4,Toledo,True
+toledo,2013,32.0575,4,Toledo,True
+toledo,2014,29.43,4,Toledo,True
+toledo,2015,27.685,4,Toledo,True
+toledo,2016,25.4,4,Toledo,True
+toledo,2017,20.912499999999998,4,Toledo,True
+toledo,2018,19.4675,4,Toledo,True
+toledo,2019,16.86,4,Toledo,True
+toledo,2020,18.8375,4,Toledo,True
+toledo,2021,16.4125,4,Toledo,True
+toledo,2022,15.185,4,Toledo,True
+toledo,2023,13.64,4,Toledo,True
+toledo,2024,13.87,4,Toledo,True
+valencia,2002,12.0925,4,Valencia,True
+valencia,2003,11.515,4,Valencia,True
+valencia,2004,10.7775,4,Valencia,True
+valencia,2005,8.71,4,Valencia,True
+valencia,2006,7.935,4,Valencia,True
+valencia,2007,7.9925,4,Valencia,True
+valencia,2008,11.24,4,Valencia,True
+valencia,2009,20.1875,4,Valencia,True
+valencia,2010,21.7025,4,Valencia,True
+valencia,2011,23.575,4,Valencia,True
+valencia,2012,26.6,4,Valencia,True
+valencia,2013,27.66,4,Valencia,True
+valencia,2014,25.3775,4,Valencia,True
+valencia,2015,21.8075,4,Valencia,True
+valencia,2016,20.7225,4,Valencia,True
+valencia,2017,18.54,4,Valencia,True
+valencia,2018,15.192499999999999,4,Valencia,True
+valencia,2019,13.65,4,Valencia,True
+valencia,2020,15.285,4,Valencia,True
+valencia,2021,14.7125,4,Valencia,True
+valencia,2022,12.5525,4,Valencia,True
+valencia,2023,11.97,4,Valencia,True
+valencia,2024,11.7025,4,Valencia,True
+valladolid,2002,13.067499999999999,4,Valladolid,True
+valladolid,2003,13.1225,4,Valladolid,True
+valladolid,2004,13.432500000000001,4,Valladolid,True
+valladolid,2005,9.095,4,Valladolid,True
+valladolid,2006,8.02,4,Valladolid,True
+valladolid,2007,7.0600000000000005,4,Valladolid,True
+valladolid,2008,8.8775,4,Valladolid,True
+valladolid,2009,12.6375,4,Valladolid,True
+valladolid,2010,15.065000000000001,4,Valladolid,True
+valladolid,2011,16.63,4,Valladolid,True
+valladolid,2012,18.885,4,Valladolid,True
+valladolid,2013,20.057499999999997,4,Valladolid,True
+valladolid,2014,18.1475,4,Valladolid,True
+valladolid,2015,16.0875,4,Valladolid,True
+valladolid,2016,14.100000000000001,4,Valladolid,True
+valladolid,2017,13.825,4,Valladolid,True
+valladolid,2018,10.99,4,Valladolid,True
+valladolid,2019,10.8675,4,Valladolid,True
+valladolid,2020,10.605,4,Valladolid,True
+valladolid,2021,10.92,4,Valladolid,True
+valladolid,2022,8.5375,4,Valladolid,True
+valladolid,2023,9.372499999999999,4,Valladolid,True
+valladolid,2024,10.005,4,Valladolid,True
+zamora,2002,9.6325,4,Zamora,True
+zamora,2003,13.3975,4,Zamora,True
+zamora,2004,12.065,4,Zamora,True
+zamora,2005,10.2275,4,Zamora,True
+zamora,2006,9.1325,4,Zamora,True
+zamora,2007,8.397499999999999,4,Zamora,True
+zamora,2008,9.485,4,Zamora,True
+zamora,2009,14.205000000000002,4,Zamora,True
+zamora,2010,17.1225,4,Zamora,True
+zamora,2011,18.4525,4,Zamora,True
+zamora,2012,23.215,4,Zamora,True
+zamora,2013,26.165,4,Zamora,True
+zamora,2014,26.2725,4,Zamora,True
+zamora,2015,21.9275,4,Zamora,True
+zamora,2016,18.887500000000003,4,Zamora,True
+zamora,2017,16.252499999999998,4,Zamora,True
+zamora,2018,17.119999999999997,4,Zamora,True
+zamora,2019,14.05,4,Zamora,True
+zamora,2020,13.185,4,Zamora,True
+zamora,2021,11.24,4,Zamora,True
+zamora,2022,12.385,4,Zamora,True
+zamora,2023,13.6375,4,Zamora,True
+zamora,2024,12.879999999999999,4,Zamora,True
+zaragoza,2002,6.175,4,Zaragoza,True
+zaragoza,2003,7.5275,4,Zaragoza,True
+zaragoza,2004,5.8825,4,Zaragoza,True
+zaragoza,2005,5.8475,4,Zaragoza,True
+zaragoza,2006,5.779999999999999,4,Zaragoza,True
+zaragoza,2007,5.6975,4,Zaragoza,True
+zaragoza,2008,7.85,4,Zaragoza,True
+zaragoza,2009,13.955,4,Zaragoza,True
+zaragoza,2010,15.8025,4,Zaragoza,True
+zaragoza,2011,18.310000000000002,4,Zaragoza,True
+zaragoza,2012,19.92,4,Zaragoza,True
+zaragoza,2013,22.515,4,Zaragoza,True
+zaragoza,2014,20.85,4,Zaragoza,True
+zaragoza,2015,16.605,4,Zaragoza,True
+zaragoza,2016,15.4125,4,Zaragoza,True
+zaragoza,2017,12.17,4,Zaragoza,True
+zaragoza,2018,11.08,4,Zaragoza,True
+zaragoza,2019,10.287500000000001,4,Zaragoza,True
+zaragoza,2020,12.0625,4,Zaragoza,True
+zaragoza,2021,11.235,4,Zaragoza,True
+zaragoza,2022,9.76,4,Zaragoza,True
+zaragoza,2023,8.4975,4,Zaragoza,True
+zaragoza,2024,8.045,4,Zaragoza,True

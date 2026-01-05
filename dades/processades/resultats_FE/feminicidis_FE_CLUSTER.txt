@@ -1,0 +1,100 @@
+                             OLS Regression Results                            
+===============================================================================
+Dep. Variable:     feminicidis_per100k   R-squared:                       0.090
+Model:                             OLS   Adj. R-squared:                  0.023
+Method:                  Least Squares   F-statistic:                     8.331
+Date:                 Mon, 05 Jan 2026   Prob (F-statistic):           1.99e-10
+Time:                         12:49:54   Log-Likelihood:                 223.30
+No. Observations:                 1092   AIC:                            -296.6
+Df Residuals:                     1017   BIC:                             78.08
+Df Model:                           74                                         
+Covariance Type:               cluster                                         
+==============================================================================================================
+                                                 coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------------
+Intercept                                      0.1639      0.052      3.157      0.002       0.062       0.266
+C(province_norm)[T.alacant]                    0.0812      0.026      3.142      0.002       0.031       0.132
+C(province_norm)[T.albacete]                   0.0130      0.018      0.731      0.465      -0.022       0.048
+C(province_norm)[T.almeria]                    0.1841      0.034      5.426      0.000       0.118       0.251
+C(province_norm)[T.araba]                      0.0398      0.008      5.068      0.000       0.024       0.055
+C(province_norm)[T.asturias]                   0.0360      0.004      8.252      0.000       0.027       0.045
+C(province_norm)[T.avila]                      0.0502      0.011      4.477      0.000       0.028       0.072
+C(province_norm)[T.badajoz]                   -0.0184      0.032     -0.571      0.568      -0.082       0.045
+C(province_norm)[T.barcelona]              -8.336e-05      0.009     -0.009      0.993      -0.019       0.018
+C(province_norm)[T.bizkaia]                    0.0010      0.003      0.289      0.772      -0.006       0.008
+C(province_norm)[T.burgos]                     0.0382      0.005      8.440      0.000       0.029       0.047
+C(province_norm)[T.caceres]                   -0.0178      0.023     -0.763      0.445      -0.063       0.028
+C(province_norm)[T.cadiz]                      0.0410      0.046      0.894      0.372      -0.049       0.131
+C(province_norm)[T.cantabria]                 -0.0103      0.003     -3.920      0.000      -0.015      -0.005
+C(province_norm)[T.castello]                   0.0675      0.016      4.266      0.000       0.036       0.098
+C(province_norm)[T.ceuta]                      0.1191      0.038      3.113      0.002       0.044       0.194
+C(province_norm)[T.ciudad real]                0.0711      0.023      3.113      0.002       0.026       0.116
+C(province_norm)[T.cordoba]                    0.0809      0.036      2.235      0.025       0.010       0.152
+C(province_norm)[T.cuenca]                     0.0868      0.009     10.073      0.000       0.070       0.104
+C(province_norm)[T.gipuzkoa]                  -0.0714      0.014     -5.210      0.000      -0.098      -0.045
+C(province_norm)[T.girona]                     0.0955      0.014      6.835      0.000       0.068       0.123
+C(province_norm)[T.granada]                    0.1526      0.036      4.292      0.000       0.083       0.222
+C(province_norm)[T.guadalajara]                0.0723      0.007     10.650      0.000       0.059       0.086
+C(province_norm)[T.huelva]                     0.0125      0.033      0.375      0.707      -0.053       0.078
+C(province_norm)[T.huesca]                    -0.0040      0.010     -0.409      0.682      -0.023       0.015
+C(province_norm)[T.illes balears]              0.0775      0.015      5.202      0.000       0.048       0.107
+C(province_norm)[T.jaen]                       0.0808      0.035      2.298      0.022       0.012       0.150
+C(province_norm)[T.la rioja]                   0.0051      0.007      0.780      0.436      -0.008       0.018
+C(province_norm)[T.las palmas]                 0.0836      0.034      2.484      0.013       0.018       0.150
+C(province_norm)[T.leon]                       0.0447      0.005      9.567      0.000       0.036       0.054
+C(province_norm)[T.lleida]                     0.0338      0.010      3.382      0.001       0.014       0.053
+C(province_norm)[T.lugo]                      -0.0081      0.011     -0.753      0.451      -0.029       0.013
+C(province_norm)[T.madrid]                    -0.0112      0.010     -1.129      0.259      -0.031       0.008
+C(province_norm)[T.malaga]                     0.0740      0.034      2.201      0.028       0.008       0.140
+C(province_norm)[T.melilla]                    0.2380      0.036      6.589      0.000       0.167       0.309
+C(province_norm)[T.murcia]                     0.0246      0.018      1.354      0.176      -0.011       0.060
+C(province_norm)[T.navarra]                   -0.0001      0.009     -0.012      0.990      -0.018       0.018
+C(province_norm)[T.ourense]                    0.0064      0.003      1.920      0.055      -0.000       0.013
+C(province_norm)[T.palencia]                   0.0147      0.001     12.693      0.000       0.012       0.017
+C(province_norm)[T.pontevedra]                 0.0529      0.010      5.349      0.000       0.034       0.072
+C(province_norm)[T.salamanca]                 -0.0130      0.005     -2.600      0.009      -0.023      -0.003
+C(province_norm)[T.santa cruz de tenerife]     0.1500      0.031      4.857      0.000       0.089       0.210
+C(province_norm)[T.segovia]                   -0.0185      0.006     -3.085      0.002      -0.030      -0.007
+C(province_norm)[T.sevilla]                    0.0475      0.030      1.571      0.116      -0.012       0.107
+C(province_norm)[T.soria]                      0.0411      0.010      3.913      0.000       0.021       0.062
+C(province_norm)[T.tarragona]                  0.1097      0.012      8.829      0.000       0.085       0.134
+C(province_norm)[T.teruel]                    -0.0421      0.008     -5.249      0.000      -0.058      -0.026
+C(province_norm)[T.toledo]                     0.0287      0.020      1.461      0.144      -0.010       0.067
+C(province_norm)[T.valencia]                   0.0350      0.014      2.423      0.015       0.007       0.063
+C(province_norm)[T.valladolid]                 0.0281      0.001     23.737      0.000       0.026       0.030
+C(province_norm)[T.zamora]                    -0.0409      0.008     -5.067      0.000      -0.057      -0.025
+C(province_norm)[T.zaragoza]                   0.0248      0.005      4.932      0.000       0.015       0.035
+C(year)[T.2004]                               -0.0423      0.044     -0.972      0.331      -0.128       0.043
+C(year)[T.2005]                               -0.0428      0.057     -0.748      0.455      -0.155       0.069
+C(year)[T.2006]                               -0.0518      0.049     -1.048      0.295      -0.149       0.045
+C(year)[T.2007]                               -0.0062      0.060     -0.103      0.918      -0.124       0.112
+C(year)[T.2008]                               -0.0070      0.049     -0.143      0.886      -0.102       0.088
+C(year)[T.2009]                               -0.0250      0.036     -0.694      0.487      -0.096       0.046
+C(year)[T.2010]                                0.0053      0.045      0.120      0.905      -0.082       0.093
+C(year)[T.2011]                               -0.0321      0.036     -0.883      0.377      -0.103       0.039
+C(year)[T.2012]                               -0.0344      0.046     -0.745      0.456      -0.125       0.056
+C(year)[T.2013]                                0.0066      0.053      0.125      0.901      -0.096       0.110
+C(year)[T.2014]                               -0.0040      0.070     -0.057      0.954      -0.141       0.133
+C(year)[T.2015]                               -0.0090      0.048     -0.188      0.851      -0.102       0.084
+C(year)[T.2016]                               -0.0125      0.053     -0.237      0.813      -0.116       0.091
+C(year)[T.2017]                               -0.0680      0.038     -1.777      0.076      -0.143       0.007
+C(year)[T.2018]                               -0.0529      0.041     -1.289      0.197      -0.133       0.028
+C(year)[T.2019]                               -0.0743      0.038     -1.978      0.048      -0.148      -0.001
+C(year)[T.2020]                               -0.0610      0.040     -1.511      0.131      -0.140       0.018
+C(year)[T.2021]                               -0.0783      0.035     -2.251      0.024      -0.147      -0.010
+C(year)[T.2022]                               -0.0318      0.046     -0.699      0.485      -0.121       0.057
+C(year)[T.2023]                               -0.0663      0.037     -1.799      0.072      -0.139       0.006
+votes_per100k_used                          7.759e-07   1.64e-07      4.744      0.000    4.55e-07     1.1e-06
+atur_annual_mean_pct                          -0.0029      0.003     -0.887      0.375      -0.009       0.003
+immigracio_per100k                          3.341e-06    3.2e-06      1.045      0.296   -2.92e-06     9.6e-06
+==============================================================================
+Omnibus:                      762.723   Durbin-Watson:                   2.231
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            15127.543
+Skew:                           2.960   Prob(JB):                         0.00
+Kurtosis:                      20.246   Cond. No.                     6.66e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+[2] The condition number is large, 6.66e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.

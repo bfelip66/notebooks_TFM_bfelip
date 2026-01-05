@@ -1,0 +1,1145 @@
+year,province,value
+2003,Almeria,12780.0
+2004,Almeria,13770.0
+2005,Almeria,10490.0
+2006,Almeria,26660.0
+2007,Almeria,22980.0
+2008,Almeria,24810.0
+2009,Almeria,26040.0
+2010,Almeria,27520.0
+2011,Almeria,23570.0
+2012,Almeria,21230.0
+2013,Almeria,20790.0
+2014,Almeria,20840.0
+2015,Almeria,23060.0
+2016,Almeria,26750.0
+2017,Almeria,32990.0
+2018,Almeria,43520.0
+2019,Almeria,38590.0
+2020,Almeria,33650.0
+2021,Almeria,33000.0
+2022,Almeria,40700.0
+2023,Almeria,42710.0
+2024,Almeria,43460.0
+2003,Cadiz,26360.0
+2004,Cadiz,31520.0
+2005,Cadiz,31900.0
+2006,Cadiz,47230.0
+2007,Cadiz,38280.0
+2008,Cadiz,45420.0
+2009,Cadiz,36930.0
+2010,Cadiz,38030.0
+2011,Cadiz,34270.0
+2012,Cadiz,34620.0
+2013,Cadiz,37330.0
+2014,Cadiz,38060.0
+2015,Cadiz,37660.0
+2016,Cadiz,37410.0
+2017,Cadiz,40380.0
+2018,Cadiz,41560.0
+2019,Cadiz,44850.0
+2020,Cadiz,50270.0
+2021,Cadiz,52060.0
+2022,Cadiz,55210.0
+2023,Cadiz,53510.0
+2024,Cadiz,58970.0
+2003,Cordoba,13060.0
+2004,Cordoba,16710.0
+2005,Cordoba,13500.0
+2006,Cordoba,18950.0
+2007,Cordoba,12690.0
+2008,Cordoba,14880.0
+2009,Cordoba,13350.0
+2010,Cordoba,10260.0
+2011,Cordoba,12240.0
+2012,Cordoba,11740.0
+2013,Cordoba,16270.0
+2014,Cordoba,16530.0
+2015,Cordoba,16380.0
+2016,Cordoba,15110.0
+2017,Cordoba,18030.0
+2018,Cordoba,18260.0
+2019,Cordoba,19330.0
+2020,Cordoba,20390.0
+2021,Cordoba,23890.0
+2022,Cordoba,28400.0
+2023,Cordoba,28440.0
+2024,Cordoba,28100.0
+2003,Granada,22160.0
+2004,Granada,28460.0
+2005,Granada,22610.0
+2006,Granada,33510.0
+2007,Granada,40000.0
+2008,Granada,41760.0
+2009,Granada,38880.0
+2010,Granada,36830.0
+2011,Granada,33470.0
+2012,Granada,34470.0
+2013,Granada,32930.0
+2014,Granada,34470.0
+2015,Granada,34860.0
+2016,Granada,38830.0
+2017,Granada,40820.0
+2018,Granada,35550.0
+2019,Granada,37830.0
+2020,Granada,39810.0
+2021,Granada,49500.0
+2022,Granada,53250.0
+2023,Granada,58150.0
+2024,Granada,51410.0
+2003,Huelva,8640.0
+2004,Huelva,11080.0
+2005,Huelva,8620.0
+2006,Huelva,18790.0
+2007,Huelva,17340.0
+2008,Huelva,19410.0
+2009,Huelva,21030.0
+2010,Huelva,17120.0
+2011,Huelva,14660.0
+2012,Huelva,16210.0
+2013,Huelva,16400.0
+2014,Huelva,16000.0
+2015,Huelva,16160.0
+2016,Huelva,19320.0
+2017,Huelva,23940.0
+2018,Huelva,22160.0
+2019,Huelva,23270.0
+2020,Huelva,24030.0
+2021,Huelva,25180.0
+2022,Huelva,25720.0
+2023,Huelva,26290.0
+2024,Huelva,25820.0
+2003,Jaen,11270.0
+2004,Jaen,10480.0
+2005,Jaen,13280.0
+2006,Jaen,15210.0
+2007,Jaen,10790.0
+2008,Jaen,14400.0
+2009,Jaen,16340.0
+2010,Jaen,15310.0
+2011,Jaen,14220.0
+2012,Jaen,14610.0
+2013,Jaen,14720.0
+2014,Jaen,17050.0
+2015,Jaen,14820.0
+2016,Jaen,16980.0
+2017,Jaen,20000.0
+2018,Jaen,20310.0
+2019,Jaen,20740.0
+2020,Jaen,18890.0
+2021,Jaen,19990.0
+2022,Jaen,22380.0
+2023,Jaen,24800.0
+2024,Jaen,21100.0
+2003,Malaga,42340.0
+2004,Malaga,47070.0
+2005,Malaga,41500.0
+2006,Malaga,67510.0
+2007,Malaga,67200.0
+2008,Malaga,67400.0
+2009,Malaga,51680.0
+2010,Malaga,55170.0
+2011,Malaga,59810.0
+2012,Malaga,63220.0
+2013,Malaga,62090.0
+2014,Malaga,59230.0
+2015,Malaga,61770.0
+2016,Malaga,67220.0
+2017,Malaga,78540.0
+2018,Malaga,79780.0
+2019,Malaga,81300.0
+2020,Malaga,66560.0
+2021,Malaga,68610.0
+2022,Malaga,82760.0
+2023,Malaga,90430.0
+2024,Malaga,86840.0
+2003,Sevilla,29020.0
+2004,Sevilla,48370.0
+2005,Sevilla,37880.0
+2006,Sevilla,64950.0
+2007,Sevilla,73380.0
+2008,Sevilla,62940.0
+2009,Sevilla,57180.0
+2010,Sevilla,70230.0
+2011,Sevilla,78260.0
+2012,Sevilla,65810.0
+2013,Sevilla,64230.0
+2014,Sevilla,66920.0
+2015,Sevilla,71110.0
+2016,Sevilla,72500.0
+2017,Sevilla,91010.0
+2018,Sevilla,77450.0
+2019,Sevilla,73860.0
+2020,Sevilla,54870.0
+2021,Sevilla,61020.0
+2022,Sevilla,73070.0
+2023,Sevilla,75570.0
+2024,Sevilla,78600.0
+2003,Huesca,2190.0
+2004,Huesca,2700.0
+2005,Huesca,1890.0
+2006,Huesca,4150.0
+2007,Huesca,2730.0
+2008,Huesca,3380.0
+2009,Huesca,3710.0
+2010,Huesca,3340.0
+2011,Huesca,3780.0
+2012,Huesca,3080.0
+2013,Huesca,3120.0
+2014,Huesca,2930.0
+2015,Huesca,3030.0
+2016,Huesca,2870.0
+2017,Huesca,4020.0
+2018,Huesca,4410.0
+2019,Huesca,4140.0
+2020,Huesca,3850.0
+2021,Huesca,4730.0
+2022,Huesca,4990.0
+2023,Huesca,6260.0
+2024,Huesca,5660.0
+2003,Teruel,590.0
+2004,Teruel,1250.0
+2005,Teruel,850.0
+2006,Teruel,1440.0
+2007,Teruel,1390.0
+2008,Teruel,1540.0
+2009,Teruel,1550.0
+2010,Teruel,1830.0
+2011,Teruel,1690.0
+2012,Teruel,1270.0
+2013,Teruel,1300.0
+2014,Teruel,1570.0
+2015,Teruel,1430.0
+2016,Teruel,1910.0
+2017,Teruel,2000.0
+2018,Teruel,2280.0
+2019,Teruel,2040.0
+2020,Teruel,1650.0
+2021,Teruel,1960.0
+2022,Teruel,2710.0
+2023,Teruel,3660.0
+2024,Teruel,2980.0
+2003,Zaragoza,8160.0
+2004,Zaragoza,9970.0
+2005,Zaragoza,8260.0
+2006,Zaragoza,22570.0
+2007,Zaragoza,24410.0
+2008,Zaragoza,28440.0
+2009,Zaragoza,23220.0
+2010,Zaragoza,20560.0
+2011,Zaragoza,28450.0
+2012,Zaragoza,27930.0
+2013,Zaragoza,26320.0
+2014,Zaragoza,27910.0
+2015,Zaragoza,21890.0
+2016,Zaragoza,26840.0
+2017,Zaragoza,32580.0
+2018,Zaragoza,33840.0
+2019,Zaragoza,36260.0
+2020,Zaragoza,27270.0
+2021,Zaragoza,33390.0
+2022,Zaragoza,36840.0
+2023,Zaragoza,43380.0
+2024,Zaragoza,43190.0
+2003,Asturias,16660.0
+2004,Asturias,19710.0
+2005,Asturias,15920.0
+2006,Asturias,31950.0
+2007,Asturias,19260.0
+2008,Asturias,23870.0
+2009,Asturias,23730.0
+2010,Asturias,21470.0
+2011,Asturias,26560.0
+2012,Asturias,24310.0
+2013,Asturias,24380.0
+2014,Asturias,24860.0
+2015,Asturias,23590.0
+2016,Asturias,27470.0
+2017,Asturias,27110.0
+2018,Asturias,31090.0
+2019,Asturias,28890.0
+2020,Asturias,26500.0
+2021,Asturias,25320.0
+2022,Asturias,30860.0
+2023,Asturias,34380.0
+2024,Asturias,35050.0
+2003,Illes Balears,22620.0
+2004,Illes Balears,39970.0
+2005,Illes Balears,32620.0
+2006,Illes Balears,31150.0
+2007,Illes Balears,39100.0
+2008,Illes Balears,46900.0
+2009,Illes Balears,44530.0
+2010,Illes Balears,42310.0
+2011,Illes Balears,44170.0
+2012,Illes Balears,47390.0
+2013,Illes Balears,43720.0
+2014,Illes Balears,46870.0
+2015,Illes Balears,46580.0
+2016,Illes Balears,52680.0
+2017,Illes Balears,54120.0
+2018,Illes Balears,53520.0
+2019,Illes Balears,64930.0
+2020,Illes Balears,58800.0
+2021,Illes Balears,63630.0
+2022,Illes Balears,70000.0
+2023,Illes Balears,79570.0
+2024,Illes Balears,77850.0
+2003,Las Palmas,34100.0
+2004,Las Palmas,48810.0
+2005,Las Palmas,34390.0
+2006,Las Palmas,52380.0
+2007,Las Palmas,54580.0
+2008,Las Palmas,52540.0
+2009,Las Palmas,51630.0
+2010,Las Palmas,47290.0
+2011,Las Palmas,45340.0
+2012,Las Palmas,42300.0
+2013,Las Palmas,39580.0
+2014,Las Palmas,38450.0
+2015,Las Palmas,39940.0
+2016,Las Palmas,48030.0
+2017,Las Palmas,49660.0
+2018,Las Palmas,45730.0
+2019,Las Palmas,54330.0
+2020,Las Palmas,49820.0
+2021,Las Palmas,50330.0
+2022,Las Palmas,54830.0
+2023,Las Palmas,60710.0
+2024,Las Palmas,60100.0
+2003,Santa Cruz de Tenerife,25740.0
+2004,Santa Cruz de Tenerife,28640.0
+2005,Santa Cruz de Tenerife,22450.0
+2006,Santa Cruz de Tenerife,39760.0
+2007,Santa Cruz de Tenerife,34360.0
+2008,Santa Cruz de Tenerife,38330.0
+2009,Santa Cruz de Tenerife,38190.0
+2010,Santa Cruz de Tenerife,35970.0
+2011,Santa Cruz de Tenerife,35150.0
+2012,Santa Cruz de Tenerife,34710.0
+2013,Santa Cruz de Tenerife,31530.0
+2014,Santa Cruz de Tenerife,30910.0
+2015,Santa Cruz de Tenerife,37640.0
+2016,Santa Cruz de Tenerife,46010.0
+2017,Santa Cruz de Tenerife,40370.0
+2018,Santa Cruz de Tenerife,37690.0
+2019,Santa Cruz de Tenerife,43530.0
+2020,Santa Cruz de Tenerife,39440.0
+2021,Santa Cruz de Tenerife,39690.0
+2022,Santa Cruz de Tenerife,42740.0
+2023,Santa Cruz de Tenerife,54140.0
+2024,Santa Cruz de Tenerife,54930.0
+2003,Cantabria,7880.0
+2004,Cantabria,8410.0
+2005,Cantabria,6550.0
+2006,Cantabria,11430.0
+2007,Cantabria,11220.0
+2008,Cantabria,12140.0
+2009,Cantabria,11720.0
+2010,Cantabria,12310.0
+2011,Cantabria,11680.0
+2012,Cantabria,11060.0
+2013,Cantabria,11370.0
+2014,Cantabria,12300.0
+2015,Cantabria,13270.0
+2016,Cantabria,15070.0
+2017,Cantabria,19080.0
+2018,Cantabria,20000.0
+2019,Cantabria,20040.0
+2020,Cantabria,16680.0
+2021,Cantabria,18980.0
+2022,Cantabria,22180.0
+2023,Cantabria,24920.0
+2024,Cantabria,24590.0
+2003,Avila,1910.0
+2004,Avila,2550.0
+2005,Avila,3200.0
+2006,Avila,3850.0
+2007,Avila,3150.0
+2008,Avila,3950.0
+2009,Avila,4300.0
+2010,Avila,4450.0
+2011,Avila,3320.0
+2012,Avila,3160.0
+2013,Avila,2330.0
+2014,Avila,2740.0
+2015,Avila,2830.0
+2016,Avila,2410.0
+2017,Avila,3000.0
+2018,Avila,3210.0
+2019,Avila,4280.0
+2020,Avila,2910.0
+2021,Avila,3980.0
+2022,Avila,4370.0
+2023,Avila,5390.0
+2024,Avila,4860.0
+2003,Burgos,4560.0
+2004,Burgos,5510.0
+2005,Burgos,5990.0
+2006,Burgos,8320.0
+2007,Burgos,7270.0
+2008,Burgos,7060.0
+2009,Burgos,7980.0
+2010,Burgos,6530.0
+2011,Burgos,6760.0
+2012,Burgos,6240.0
+2013,Burgos,5870.0
+2014,Burgos,6800.0
+2015,Burgos,6210.0
+2016,Burgos,7630.0
+2017,Burgos,8450.0
+2018,Burgos,7900.0
+2019,Burgos,8760.0
+2020,Burgos,7680.0
+2021,Burgos,8570.0
+2022,Burgos,9580.0
+2023,Burgos,11460.0
+2024,Burgos,11830.0
+2003,Leon,5790.0
+2004,Leon,7530.0
+2005,Leon,7170.0
+2006,Leon,10600.0
+2007,Leon,12640.0
+2008,Leon,11810.0
+2009,Leon,8390.0
+2010,Leon,8180.0
+2011,Leon,8470.0
+2012,Leon,7050.0
+2013,Leon,8220.0
+2014,Leon,9200.0
+2015,Leon,9840.0
+2016,Leon,10100.0
+2017,Leon,10240.0
+2018,Leon,10020.0
+2019,Leon,9380.0
+2020,Leon,8790.0
+2021,Leon,8820.0
+2022,Leon,10610.0
+2023,Leon,10160.0
+2024,Leon,10360.0
+2003,Palencia,1890.0
+2004,Palencia,1970.0
+2005,Palencia,1740.0
+2006,Palencia,3470.0
+2007,Palencia,2550.0
+2008,Palencia,3000.0
+2009,Palencia,2840.0
+2010,Palencia,3150.0
+2011,Palencia,2900.0
+2012,Palencia,2500.0
+2013,Palencia,3300.0
+2014,Palencia,1810.0
+2015,Palencia,2040.0
+2016,Palencia,2560.0
+2017,Palencia,4040.0
+2018,Palencia,3070.0
+2019,Palencia,3230.0
+2020,Palencia,2510.0
+2021,Palencia,3230.0
+2022,Palencia,3490.0
+2023,Palencia,4210.0
+2024,Palencia,4170.0
+2003,Salamanca,2910.0
+2004,Salamanca,3830.0
+2005,Salamanca,3820.0
+2006,Salamanca,5860.0
+2007,Salamanca,5130.0
+2008,Salamanca,5810.0
+2009,Salamanca,5730.0
+2010,Salamanca,5040.0
+2011,Salamanca,4690.0
+2012,Salamanca,4190.0
+2013,Salamanca,3120.0
+2014,Salamanca,3420.0
+2015,Salamanca,2840.0
+2016,Salamanca,3130.0
+2017,Salamanca,6660.0
+2018,Salamanca,6550.0
+2019,Salamanca,5080.0
+2020,Salamanca,4320.0
+2021,Salamanca,3850.0
+2022,Salamanca,5230.0
+2023,Salamanca,6070.0
+2024,Salamanca,5100.0
+2003,Segovia,2300.0
+2004,Segovia,1730.0
+2005,Segovia,2310.0
+2006,Segovia,2120.0
+2007,Segovia,1730.0
+2008,Segovia,2030.0
+2009,Segovia,2730.0
+2010,Segovia,2310.0
+2011,Segovia,2090.0
+2012,Segovia,2460.0
+2013,Segovia,2160.0
+2014,Segovia,2160.0
+2015,Segovia,2240.0
+2016,Segovia,2590.0
+2017,Segovia,3300.0
+2018,Segovia,3520.0
+2019,Segovia,4210.0
+2020,Segovia,5180.0
+2021,Segovia,5380.0
+2022,Segovia,5680.0
+2023,Segovia,7590.0
+2024,Segovia,4510.0
+2003,Soria,1390.0
+2004,Soria,1430.0
+2005,Soria,1000.0
+2006,Soria,1570.0
+2007,Soria,1280.0
+2008,Soria,1600.0
+2009,Soria,1710.0
+2010,Soria,1370.0
+2011,Soria,1280.0
+2012,Soria,1130.0
+2013,Soria,1040.0
+2014,Soria,1420.0
+2015,Soria,1180.0
+2016,Soria,1080.0
+2017,Soria,1370.0
+2018,Soria,1380.0
+2019,Soria,1580.0
+2020,Soria,1750.0
+2021,Soria,1660.0
+2022,Soria,2100.0
+2023,Soria,1830.0
+2024,Soria,2080.0
+2003,Valladolid,7900.0
+2004,Valladolid,12580.0
+2005,Valladolid,10310.0
+2006,Valladolid,13880.0
+2007,Valladolid,15770.0
+2008,Valladolid,16690.0
+2009,Valladolid,14290.0
+2010,Valladolid,10550.0
+2011,Valladolid,14930.0
+2012,Valladolid,11550.0
+2013,Valladolid,13020.0
+2014,Valladolid,20620.0
+2015,Valladolid,15890.0
+2016,Valladolid,13740.0
+2017,Valladolid,13950.0
+2018,Valladolid,13600.0
+2019,Valladolid,13230.0
+2020,Valladolid,11550.0
+2021,Valladolid,13390.0
+2022,Valladolid,12950.0
+2023,Valladolid,12770.0
+2024,Valladolid,13900.0
+2003,Zamora,2140.0
+2004,Zamora,2730.0
+2005,Zamora,2340.0
+2006,Zamora,3690.0
+2007,Zamora,3130.0
+2008,Zamora,2640.0
+2009,Zamora,2930.0
+2010,Zamora,2690.0
+2011,Zamora,3180.0
+2012,Zamora,3040.0
+2013,Zamora,2470.0
+2014,Zamora,3150.0
+2015,Zamora,3370.0
+2016,Zamora,3090.0
+2017,Zamora,3090.0
+2018,Zamora,3140.0
+2019,Zamora,2950.0
+2020,Zamora,2900.0
+2021,Zamora,2820.0
+2022,Zamora,2640.0
+2023,Zamora,4050.0
+2024,Zamora,3710.0
+2003,Albacete,4770.0
+2004,Albacete,6710.0
+2005,Albacete,4890.0
+2006,Albacete,12400.0
+2007,Albacete,8450.0
+2008,Albacete,7790.0
+2009,Albacete,9590.0
+2010,Albacete,9420.0
+2011,Albacete,8840.0
+2012,Albacete,7040.0
+2013,Albacete,8100.0
+2014,Albacete,8080.0
+2015,Albacete,7970.0
+2016,Albacete,8170.0
+2017,Albacete,8200.0
+2018,Albacete,9010.0
+2019,Albacete,9690.0
+2020,Albacete,9430.0
+2021,Albacete,10400.0
+2022,Albacete,9990.0
+2023,Albacete,11160.0
+2024,Albacete,10880.0
+2003,Ciudad Real,7220.0
+2004,Ciudad Real,8880.0
+2005,Ciudad Real,6960.0
+2006,Ciudad Real,11660.0
+2007,Ciudad Real,8850.0
+2008,Ciudad Real,10160.0
+2009,Ciudad Real,10800.0
+2010,Ciudad Real,11710.0
+2011,Ciudad Real,11430.0
+2012,Ciudad Real,11380.0
+2013,Ciudad Real,11300.0
+2014,Ciudad Real,11490.0
+2015,Ciudad Real,11940.0
+2016,Ciudad Real,16590.0
+2017,Ciudad Real,14410.0
+2018,Ciudad Real,17220.0
+2019,Ciudad Real,17440.0
+2020,Ciudad Real,15000.0
+2021,Ciudad Real,15480.0
+2022,Ciudad Real,16330.0
+2023,Ciudad Real,18040.0
+2024,Ciudad Real,18090.0
+2003,Cuenca,1820.0
+2004,Cuenca,2430.0
+2005,Cuenca,2170.0
+2006,Cuenca,4680.0
+2007,Cuenca,3430.0
+2008,Cuenca,3970.0
+2009,Cuenca,4050.0
+2010,Cuenca,4470.0
+2011,Cuenca,6070.0
+2012,Cuenca,4920.0
+2013,Cuenca,4210.0
+2014,Cuenca,3610.0
+2015,Cuenca,4370.0
+2016,Cuenca,3690.0
+2017,Cuenca,3530.0
+2018,Cuenca,4150.0
+2019,Cuenca,5840.0
+2020,Cuenca,4210.0
+2021,Cuenca,4280.0
+2022,Cuenca,5160.0
+2023,Cuenca,4590.0
+2024,Cuenca,6320.0
+2003,Guadalajara,3930.0
+2004,Guadalajara,5720.0
+2005,Guadalajara,5710.0
+2006,Guadalajara,4830.0
+2007,Guadalajara,5970.0
+2008,Guadalajara,17380.0
+2009,Guadalajara,13540.0
+2010,Guadalajara,15520.0
+2011,Guadalajara,9790.0
+2012,Guadalajara,7150.0
+2013,Guadalajara,6990.0
+2014,Guadalajara,5600.0
+2015,Guadalajara,6690.0
+2016,Guadalajara,6670.0
+2017,Guadalajara,5580.0
+2018,Guadalajara,7700.0
+2019,Guadalajara,9480.0
+2020,Guadalajara,9490.0
+2021,Guadalajara,14330.0
+2022,Guadalajara,9100.0
+2023,Guadalajara,9050.0
+2024,Guadalajara,8910.0
+2003,Toledo,8090.0
+2004,Toledo,8240.0
+2005,Toledo,7740.0
+2006,Toledo,14050.0
+2007,Toledo,12150.0
+2008,Toledo,12630.0
+2009,Toledo,15720.0
+2010,Toledo,15530.0
+2011,Toledo,12970.0
+2012,Toledo,12620.0
+2013,Toledo,12990.0
+2014,Toledo,14050.0
+2015,Toledo,15370.0
+2016,Toledo,12190.0
+2017,Toledo,19310.0
+2018,Toledo,18640.0
+2019,Toledo,18060.0
+2020,Toledo,17280.0
+2021,Toledo,20940.0
+2022,Toledo,22750.0
+2023,Toledo,23160.0
+2024,Toledo,23750.0
+2003,Barcelona,81110.0
+2004,Barcelona,98610.0
+2005,Barcelona,80630.0
+2006,Barcelona,157590.0
+2007,Barcelona,127030.0
+2008,Barcelona,139750.0
+2009,Barcelona,122620.0
+2010,Barcelona,127820.0
+2011,Barcelona,128610.0
+2012,Barcelona,123120.0
+2013,Barcelona,120980.0
+2014,Barcelona,123830.0
+2015,Barcelona,134570.0
+2016,Barcelona,143820.0
+2017,Barcelona,162250.0
+2018,Barcelona,162430.0
+2019,Barcelona,153170.0
+2020,Barcelona,135390.0
+2021,Barcelona,149440.0
+2022,Barcelona,155990.0
+2023,Barcelona,166140.0
+2024,Barcelona,173770.0
+2003,Girona,11930.0
+2004,Girona,17740.0
+2005,Girona,11810.0
+2006,Girona,24030.0
+2007,Girona,18840.0
+2008,Girona,22570.0
+2009,Girona,21100.0
+2010,Girona,21750.0
+2011,Girona,20900.0
+2012,Girona,21350.0
+2013,Girona,18830.0
+2014,Girona,17940.0
+2015,Girona,19830.0
+2016,Girona,20490.0
+2017,Girona,21310.0
+2018,Girona,21610.0
+2019,Girona,25960.0
+2020,Girona,23770.0
+2021,Girona,26300.0
+2022,Girona,27130.0
+2023,Girona,29770.0
+2024,Girona,29640.0
+2003,Lleida,6300.0
+2004,Lleida,6500.0
+2005,Lleida,4590.0
+2006,Lleida,10420.0
+2007,Lleida,9900.0
+2008,Lleida,8990.0
+2009,Lleida,10680.0
+2010,Lleida,9250.0
+2011,Lleida,9040.0
+2012,Lleida,9810.0
+2013,Lleida,8960.0
+2014,Lleida,8970.0
+2015,Lleida,9040.0
+2016,Lleida,10480.0
+2017,Lleida,12440.0
+2018,Lleida,15290.0
+2019,Lleida,15280.0
+2020,Lleida,14050.0
+2021,Lleida,15270.0
+2022,Lleida,17550.0
+2023,Lleida,19670.0
+2024,Lleida,19760.0
+2003,Tarragona,14050.0
+2004,Tarragona,16850.0
+2005,Tarragona,11150.0
+2006,Tarragona,30180.0
+2007,Tarragona,28470.0
+2008,Tarragona,32340.0
+2009,Tarragona,27780.0
+2010,Tarragona,29840.0
+2011,Tarragona,26200.0
+2012,Tarragona,23490.0
+2013,Tarragona,22720.0
+2014,Tarragona,22680.0
+2015,Tarragona,21700.0
+2016,Tarragona,20670.0
+2017,Tarragona,33520.0
+2018,Tarragona,31650.0
+2019,Tarragona,30670.0
+2020,Tarragona,26050.0
+2021,Tarragona,27560.0
+2022,Tarragona,29480.0
+2023,Tarragona,32310.0
+2024,Tarragona,31720.0
+2003,Alacant,36300.0
+2004,Alacant,49610.0
+2005,Alacant,39270.0
+2006,Alacant,68590.0
+2007,Alacant,65700.0
+2008,Alacant,73770.0
+2009,Alacant,77570.0
+2010,Alacant,71460.0
+2011,Alacant,72870.0
+2012,Alacant,72460.0
+2013,Alacant,65000.0
+2014,Alacant,63550.0
+2015,Alacant,67600.0
+2016,Alacant,74960.0
+2017,Alacant,89950.0
+2018,Alacant,88460.0
+2019,Alacant,94460.0
+2020,Alacant,81550.0
+2021,Alacant,86020.0
+2022,Alacant,97800.0
+2023,Alacant,109220.0
+2024,Alacant,108680.0
+2003,Castello,8110.0
+2004,Castello,12140.0
+2005,Castello,10430.0
+2006,Castello,20220.0
+2007,Castello,12590.0
+2008,Castello,12430.0
+2009,Castello,16630.0
+2010,Castello,19080.0
+2011,Castello,16440.0
+2012,Castello,17300.0
+2013,Castello,16500.0
+2014,Castello,15110.0
+2015,Castello,15250.0
+2016,Castello,16320.0
+2017,Castello,18780.0
+2018,Castello,17510.0
+2019,Castello,19030.0
+2020,Castello,19790.0
+2021,Castello,18760.0
+2022,Castello,38990.0
+2023,Castello,38750.0
+2024,Castello,26520.0
+2003,Valencia,41100.0
+2004,Valencia,58510.0
+2005,Valencia,47140.0
+2006,Valencia,92790.0
+2007,Valencia,77850.0
+2008,Valencia,103830.0
+2009,Valencia,99300.0
+2010,Valencia,103150.0
+2011,Valencia,96090.0
+2012,Valencia,88540.0
+2013,Valencia,89200.0
+2014,Valencia,87690.0
+2015,Valencia,91090.0
+2016,Valencia,103030.0
+2017,Valencia,118540.0
+2018,Valencia,123230.0
+2019,Valencia,125830.0
+2020,Valencia,118200.0
+2021,Valencia,121760.0
+2022,Valencia,128870.0
+2023,Valencia,141580.0
+2024,Valencia,141880.0
+2003,Badajoz,7074.0
+2004,Badajoz,10710.0
+2005,Badajoz,8080.0
+2006,Badajoz,11780.0
+2007,Badajoz,10200.0
+2008,Badajoz,10660.0
+2009,Badajoz,11140.0
+2010,Badajoz,11370.0
+2011,Badajoz,13840.0
+2012,Badajoz,13430.0
+2013,Badajoz,12870.0
+2014,Badajoz,13020.0
+2015,Badajoz,16050.0
+2016,Badajoz,17550.0
+2017,Badajoz,18700.0
+2018,Badajoz,17080.0
+2019,Badajoz,16760.0
+2020,Badajoz,14710.0
+2021,Badajoz,17460.0
+2022,Badajoz,20020.0
+2023,Badajoz,28170.0
+2024,Badajoz,21430.0
+2003,Caceres,4716.0
+2004,Caceres,6040.0
+2005,Caceres,5780.0
+2006,Caceres,8340.0
+2007,Caceres,5160.0
+2008,Caceres,5660.0
+2009,Caceres,5880.0
+2010,Caceres,6410.0
+2011,Caceres,6110.0
+2012,Caceres,6240.0
+2013,Caceres,6470.0
+2014,Caceres,6310.0
+2015,Caceres,8310.0
+2016,Caceres,8780.0
+2017,Caceres,9170.0
+2018,Caceres,7620.0
+2019,Caceres,8370.0
+2020,Caceres,7910.0
+2021,Caceres,8460.0
+2022,Caceres,11540.0
+2023,Caceres,13080.0
+2024,Caceres,11560.0
+2003,A Coruña,12540.0
+2004,A Coruña,13880.0
+2005,A Coruña,10550.0
+2006,A Coruña,22010.0
+2007,A Coruña,19830.0
+2008,A Coruña,24020.0
+2009,A Coruña,24000.0
+2010,A Coruña,19970.0
+2011,A Coruña,18750.0
+2012,A Coruña,16330.0
+2013,A Coruña,17720.0
+2014,A Coruña,19280.0
+2015,A Coruña,19250.0
+2016,A Coruña,21930.0
+2017,A Coruña,24420.0
+2018,A Coruña,26520.0
+2019,A Coruña,27880.0
+2020,A Coruña,25240.0
+2021,A Coruña,25870.0
+2022,A Coruña,29320.0
+2023,A Coruña,31550.0
+2024,A Coruña,32170.0
+2003,Lugo,2890.0
+2004,Lugo,4380.0
+2005,Lugo,2880.0
+2006,Lugo,5340.0
+2007,Lugo,4330.0
+2008,Lugo,5380.0
+2009,Lugo,5810.0
+2010,Lugo,5020.0
+2011,Lugo,5590.0
+2012,Lugo,4790.0
+2013,Lugo,5320.0
+2014,Lugo,5450.0
+2015,Lugo,5350.0
+2016,Lugo,6910.0
+2017,Lugo,7290.0
+2018,Lugo,7090.0
+2019,Lugo,7530.0
+2020,Lugo,6820.0
+2021,Lugo,7200.0
+2022,Lugo,7300.0
+2023,Lugo,7990.0
+2024,Lugo,9590.0
+2003,Ourense,3860.0
+2004,Ourense,4300.0
+2005,Ourense,2980.0
+2006,Ourense,6560.0
+2007,Ourense,5640.0
+2008,Ourense,6600.0
+2009,Ourense,6190.0
+2010,Ourense,6850.0
+2011,Ourense,5400.0
+2012,Ourense,4660.0
+2013,Ourense,4940.0
+2014,Ourense,5060.0
+2015,Ourense,5050.0
+2016,Ourense,5890.0
+2017,Ourense,7470.0
+2018,Ourense,8060.0
+2019,Ourense,6640.0
+2020,Ourense,7890.0
+2021,Ourense,7410.0
+2022,Ourense,10350.0
+2023,Ourense,7610.0
+2024,Ourense,9280.0
+2003,Pontevedra,15780.0
+2004,Pontevedra,18690.0
+2005,Pontevedra,16440.0
+2006,Pontevedra,20050.0
+2007,Pontevedra,22010.0
+2008,Pontevedra,23590.0
+2009,Pontevedra,24670.0
+2010,Pontevedra,20860.0
+2011,Pontevedra,21790.0
+2012,Pontevedra,22100.0
+2013,Pontevedra,23760.0
+2014,Pontevedra,22300.0
+2015,Pontevedra,22450.0
+2016,Pontevedra,22100.0
+2017,Pontevedra,25180.0
+2018,Pontevedra,23700.0
+2019,Pontevedra,23460.0
+2020,Pontevedra,20830.0
+2021,Pontevedra,22110.0
+2022,Pontevedra,23320.0
+2023,Pontevedra,27680.0
+2024,Pontevedra,24980.0
+2003,Madrid,120290.0
+2004,Madrid,149430.0
+2005,Madrid,138850.0
+2006,Madrid,223840.0
+2007,Madrid,189750.0
+2008,Madrid,224800.0
+2009,Madrid,208630.0
+2010,Madrid,211950.0
+2011,Madrid,207080.0
+2012,Madrid,209350.0
+2013,Madrid,195060.0
+2014,Madrid,192700.0
+2015,Madrid,185270.0
+2016,Madrid,215350.0
+2017,Madrid,269590.0
+2018,Madrid,269650.0
+2019,Madrid,261660.0
+2020,Madrid,224630.0
+2021,Madrid,254540.0
+2022,Madrid,277980.0
+2023,Madrid,300320.0
+2024,Madrid,320040.0
+2003,Murcia,31070.0
+2004,Murcia,35640.0
+2005,Murcia,27910.0
+2006,Murcia,43920.0
+2007,Murcia,48720.0
+2008,Murcia,61890.0
+2009,Murcia,60850.0
+2010,Murcia,55130.0
+2011,Murcia,57660.0
+2012,Murcia,47960.0
+2013,Murcia,46560.0
+2014,Murcia,50390.0
+2015,Murcia,50340.0
+2016,Murcia,63020.0
+2017,Murcia,78390.0
+2018,Murcia,82500.0
+2019,Murcia,64260.0
+2020,Murcia,61030.0
+2021,Murcia,67500.0
+2022,Murcia,79040.0
+2023,Murcia,88980.0
+2024,Murcia,80460.0
+2003,Navarra,5590.0
+2004,Navarra,9760.0
+2005,Navarra,7460.0
+2006,Navarra,14220.0
+2007,Navarra,13770.0
+2008,Navarra,14900.0
+2009,Navarra,12360.0
+2010,Navarra,14700.0
+2011,Navarra,14490.0
+2012,Navarra,13330.0
+2013,Navarra,12190.0
+2014,Navarra,13280.0
+2015,Navarra,11910.0
+2016,Navarra,15020.0
+2017,Navarra,18360.0
+2018,Navarra,18870.0
+2019,Navarra,19570.0
+2020,Navarra,17960.0
+2021,Navarra,16300.0
+2022,Navarra,23520.0
+2023,Navarra,30170.0
+2024,Navarra,38160.0
+2003,Araba,3400.0
+2004,Araba,4430.0
+2005,Araba,4890.0
+2006,Araba,6280.0
+2007,Araba,7300.0
+2008,Araba,8520.0
+2009,Araba,7400.0
+2010,Araba,7630.0
+2011,Araba,8080.0
+2012,Araba,7340.0
+2013,Araba,7510.0
+2014,Araba,6630.0
+2015,Araba,8260.0
+2016,Araba,8840.0
+2017,Araba,9350.0
+2018,Araba,9400.0
+2019,Araba,9900.0
+2020,Araba,8890.0
+2021,Araba,8200.0
+2022,Araba,10790.0
+2023,Araba,11870.0
+2024,Araba,13410.0
+2003,Gipuzkoa,4290.0
+2004,Gipuzkoa,11750.0
+2005,Gipuzkoa,9260.0
+2006,Gipuzkoa,13430.0
+2007,Gipuzkoa,10380.0
+2008,Gipuzkoa,10030.0
+2009,Gipuzkoa,10720.0
+2010,Gipuzkoa,10250.0
+2011,Gipuzkoa,11610.0
+2012,Gipuzkoa,9750.0
+2013,Gipuzkoa,9640.0
+2014,Gipuzkoa,10840.0
+2015,Gipuzkoa,11400.0
+2016,Gipuzkoa,13070.0
+2017,Gipuzkoa,13310.0
+2018,Gipuzkoa,14520.0
+2019,Gipuzkoa,16960.0
+2020,Gipuzkoa,14380.0
+2021,Gipuzkoa,14450.0
+2022,Gipuzkoa,15660.0
+2023,Gipuzkoa,16980.0
+2024,Gipuzkoa,18520.0
+2003,Bizkaia,11100.0
+2004,Bizkaia,18470.0
+2005,Bizkaia,15950.0
+2006,Bizkaia,26350.0
+2007,Bizkaia,16760.0
+2008,Bizkaia,18840.0
+2009,Bizkaia,22460.0
+2010,Bizkaia,19030.0
+2011,Bizkaia,21560.0
+2012,Bizkaia,21440.0
+2013,Bizkaia,22220.0
+2014,Bizkaia,22430.0
+2015,Bizkaia,22660.0
+2016,Bizkaia,25730.0
+2017,Bizkaia,29260.0
+2018,Bizkaia,32480.0
+2019,Bizkaia,32410.0
+2020,Bizkaia,30280.0
+2021,Bizkaia,30920.0
+2022,Bizkaia,34500.0
+2023,Bizkaia,36270.0
+2024,Bizkaia,34820.0
+2003,La Rioja,5630.0
+2004,La Rioja,4910.0
+2005,La Rioja,3390.0
+2006,La Rioja,6720.0
+2007,La Rioja,7490.0
+2008,La Rioja,8000.0
+2009,La Rioja,8340.0
+2010,La Rioja,6600.0
+2011,La Rioja,7100.0
+2012,La Rioja,7010.0
+2013,La Rioja,5480.0
+2014,La Rioja,5490.0
+2015,La Rioja,6160.0
+2016,La Rioja,6900.0
+2017,La Rioja,7270.0
+2018,La Rioja,8390.0
+2019,La Rioja,8220.0
+2020,La Rioja,7680.0
+2021,La Rioja,8230.0
+2022,La Rioja,8930.0
+2023,La Rioja,9830.0
+2024,La Rioja,10050.0
+2003,Ceuta,
+2004,Ceuta,4410.0
+2005,Ceuta,
+2006,Ceuta,
+2007,Ceuta,
+2008,Ceuta,
+2009,Ceuta,3340.0
+2010,Ceuta,2730.0
+2011,Ceuta,3540.0
+2012,Ceuta,3410.0
+2013,Ceuta,2690.0
+2014,Ceuta,2390.0
+2015,Ceuta,1510.0
+2016,Ceuta,1740.0
+2017,Ceuta,4430.0
+2018,Ceuta,2800.0
+2019,Ceuta,2640.0
+2020,Ceuta,2280.0
+2021,Ceuta,2750.0
+2022,Ceuta,2500.0
+2023,Ceuta,3250.0
+2024,Ceuta,3300.0
+2003,Melilla,
+2004,Melilla,3290.0
+2005,Melilla,
+2006,Melilla,
+2007,Melilla,
+2008,Melilla,
+2009,Melilla,3610.0
+2010,Melilla,3730.0
+2011,Melilla,3230.0
+2012,Melilla,3170.0
+2013,Melilla,3110.0
+2014,Melilla,3030.0
+2015,Melilla,2910.0
+2016,Melilla,4110.0
+2017,Melilla,3840.0
+2018,Melilla,4490.0
+2019,Melilla,3880.0
+2020,Melilla,3230.0
+2021,Melilla,3560.0
+2022,Melilla,3580.0
+2023,Melilla,4020.0
+2024,Melilla,4070.0

@@ -1,0 +1,29 @@
+                             OLS Regression Results                            
+===============================================================================
+Dep. Variable:     feminicidis_per100k   R-squared:                       0.025
+Model:                             OLS   Adj. R-squared:                  0.022
+Method:                  Least Squares   F-statistic:                     10.94
+Date:                 Mon, 05 Jan 2026   Prob (F-statistic):           1.17e-05
+Time:                         12:49:55   Log-Likelihood:                 185.57
+No. Observations:                 1092   AIC:                            -363.1
+Df Residuals:                     1088   BIC:                            -343.2
+Df Model:                            3                                         
+Covariance Type:               cluster                                         
+========================================================================================
+                           coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+Intercept                0.0759      0.019      3.972      0.000       0.038       0.113
+votes_per100k_used    4.185e-07   1.59e-07      2.630      0.009    1.07e-07     7.3e-07
+atur_annual_mean_pct     0.0022      0.001      1.976      0.048    1.72e-05       0.004
+immigracio_per100k    1.087e-05   2.02e-06      5.385      0.000    6.91e-06    1.48e-05
+==============================================================================
+Omnibus:                      868.194   Durbin-Watson:                   2.109
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            23004.918
+Skew:                           3.473   Prob(JB):                         0.00
+Kurtosis:                      24.386   Cond. No.                     3.83e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+[2] The condition number is large, 3.83e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.

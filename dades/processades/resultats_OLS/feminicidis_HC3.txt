@@ -1,0 +1,29 @@
+                             OLS Regression Results                            
+===============================================================================
+Dep. Variable:     feminicidis_per100k   R-squared:                       0.025
+Model:                             OLS   Adj. R-squared:                  0.022
+Method:                  Least Squares   F-statistic:                     11.44
+Date:                 Mon, 05 Jan 2026   Prob (F-statistic):           2.19e-07
+Time:                         12:49:55   Log-Likelihood:                 185.57
+No. Observations:                 1092   AIC:                            -363.1
+Df Residuals:                     1088   BIC:                            -343.2
+Df Model:                            3                                         
+Covariance Type:                   HC3                                         
+========================================================================================
+                           coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+Intercept                0.0759      0.020      3.848      0.000       0.037       0.115
+votes_per100k_used    4.185e-07   7.21e-07      0.580      0.562   -9.94e-07    1.83e-06
+atur_annual_mean_pct     0.0022      0.001      2.073      0.038       0.000       0.004
+immigracio_per100k    1.087e-05   1.87e-06      5.798      0.000    7.19e-06    1.45e-05
+==============================================================================
+Omnibus:                      868.194   Durbin-Watson:                   2.109
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            23004.918
+Skew:                           3.473   Prob(JB):                         0.00
+Kurtosis:                      24.386   Cond. No.                     3.83e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+[2] The condition number is large, 3.83e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.

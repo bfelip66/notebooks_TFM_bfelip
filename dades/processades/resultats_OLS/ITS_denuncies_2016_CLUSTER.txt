@@ -1,0 +1,83 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      denuncies_per100k   R-squared:                       0.732
+Model:                            OLS   Adj. R-squared:                  0.718
+Method:                 Least Squares   F-statistic:                     423.8
+Date:                Mon, 05 Jan 2026   Prob (F-statistic):           1.08e-41
+Time:                        12:49:55   Log-Likelihood:                -8516.3
+No. Observations:                1092   AIC:                         1.715e+04
+Df Residuals:                    1034   BIC:                         1.744e+04
+Df Model:                          57                                         
+Covariance Type:              cluster                                         
+==============================================================================================================
+                                                 coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------------
+Intercept                                   1554.4495    126.062     12.331      0.000    1307.373    1801.526
+C(province_norm)[T.alacant]                 2382.4860     88.850     26.815      0.000    2208.343    2556.629
+C(province_norm)[T.albacete]                 457.8748     54.822      8.352      0.000     350.425     565.325
+C(province_norm)[T.almeria]                 2344.2188    110.717     21.173      0.000    2127.218    2561.220
+C(province_norm)[T.araba]                    490.0221     21.478     22.816      0.000     447.927     532.117
+C(province_norm)[T.asturias]                 536.7823     13.048     41.138      0.000     511.208     562.356
+C(province_norm)[T.avila]                    258.7348     34.494      7.501      0.000     191.129     326.341
+C(province_norm)[T.badajoz]                  483.8594     95.103      5.088      0.000     297.461     670.258
+C(province_norm)[T.barcelona]                600.0481     32.753     18.321      0.000     535.854     664.242
+C(province_norm)[T.bizkaia]                  196.4512     10.344     18.991      0.000     176.177     216.726
+C(province_norm)[T.burgos]                   113.9325     13.258      8.593      0.000      87.947     139.918
+C(province_norm)[T.caceres]                  150.3242     69.292      2.169      0.030      14.515     286.133
+C(province_norm)[T.cadiz]                   1810.1958    136.055     13.305      0.000    1543.533    2076.858
+C(province_norm)[T.cantabria]                527.8315      7.587     69.572      0.000     512.962     542.701
+C(province_norm)[T.castello]                1378.4797     53.939     25.556      0.000    1272.761    1484.199
+C(province_norm)[T.ceuta]                   1138.0313    114.712      9.921      0.000     913.200    1362.863
+C(province_norm)[T.ciudad real]              790.1132     69.472     11.373      0.000     653.951     926.276
+C(province_norm)[T.cordoba]                  580.6459    106.508      5.452      0.000     371.894     789.397
+C(province_norm)[T.cuenca]                   159.7961     29.072      5.496      0.000     102.815     216.777
+C(province_norm)[T.gipuzkoa]                -322.4519     39.884     -8.085      0.000    -400.622    -244.282
+C(province_norm)[T.girona]                  1096.4348     48.853     22.443      0.000    1000.684    1192.185
+C(province_norm)[T.granada]                 2549.5254    107.025     23.822      0.000    2339.759    2759.292
+C(province_norm)[T.guadalajara]             1648.4342     25.205     65.402      0.000    1599.034    1697.834
+C(province_norm)[T.huelva]                  2015.7785    100.567     20.044      0.000    1818.672    2212.885
+C(province_norm)[T.huesca]                  -348.6600     26.179    -13.318      0.000    -399.971    -297.349
+C(province_norm)[T.illes balears]           2673.9303     52.255     51.171      0.000    2571.513    2776.347
+C(province_norm)[T.jaen]                     950.7275    103.325      9.201      0.000     748.214    1153.241
+C(province_norm)[T.la rioja]                 376.5305     32.311     11.653      0.000     313.202     439.859
+C(province_norm)[T.las palmas]              2852.8841    107.183     26.617      0.000    2642.809    3062.959
+C(province_norm)[T.leon]                      61.8756     14.219      4.351      0.000      34.006      89.745
+C(province_norm)[T.lleida]                   666.4780     26.949     24.731      0.000     613.659     719.297
+C(province_norm)[T.lugo]                    -184.0252     71.572     -2.571      0.010    -324.303     -43.748
+C(province_norm)[T.madrid]                  1524.5306     32.513     46.889      0.000    1460.806    1588.256
+C(province_norm)[T.malaga]                  2498.4124    108.298     23.070      0.000    2286.152    2710.673
+C(province_norm)[T.melilla]                 1735.2984    111.721     15.532      0.000    1516.329    1954.267
+C(province_norm)[T.murcia]                  2213.0299     61.160     36.184      0.000    2093.159    2332.901
+C(province_norm)[T.navarra]                  442.9238     26.840     16.502      0.000     390.318     495.530
+C(province_norm)[T.ourense]                   57.6712     11.054      5.217      0.000      36.006      79.336
+C(province_norm)[T.palencia]                -207.0502      6.182    -33.491      0.000    -219.167    -194.933
+C(province_norm)[T.pontevedra]               516.4420     29.879     17.284      0.000     457.880     575.004
+C(province_norm)[T.salamanca]               -490.3965     16.397    -29.907      0.000    -522.535    -458.258
+C(province_norm)[T.santa cruz de tenerife]  2152.8948    100.366     21.450      0.000    1956.181    2349.609
+C(province_norm)[T.segovia]                   89.5844     16.927      5.292      0.000      56.408     122.760
+C(province_norm)[T.sevilla]                 1783.8327     89.408     19.952      0.000    1608.596    1959.069
+C(province_norm)[T.soria]                   -393.7197     32.382    -12.159      0.000    -457.186    -330.253
+C(province_norm)[T.tarragona]               1492.0663     43.401     34.379      0.000    1407.002    1577.131
+C(province_norm)[T.teruel]                  -710.2479     21.549    -32.959      0.000    -752.484    -668.012
+C(province_norm)[T.toledo]                   475.8573     61.993      7.676      0.000     354.354     597.361
+C(province_norm)[T.valencia]                2101.3788     47.887     43.882      0.000    2007.522    2195.235
+C(province_norm)[T.valladolid]               671.8553      3.890    172.731      0.000     664.232     679.479
+C(province_norm)[T.zamora]                  -231.8570     23.293     -9.954      0.000    -277.511    -186.203
+C(province_norm)[T.zaragoza]                 831.5188     15.983     52.025      0.000     800.193     862.845
+votes_per100k_used                            -0.0024      0.002     -1.515      0.130      -0.005       0.001
+atur_annual_mean_pct                         -28.3456      9.626     -2.945      0.003     -47.212      -9.479
+immigracio_per100k                            -0.0240      0.011     -2.195      0.028      -0.045      -0.003
+time                                          75.2058     10.553      7.127      0.000      54.523      95.889
+post2016                                    -101.5106     90.963     -1.116      0.264    -279.795      76.773
+timeAfter2016                                 26.0114     24.508      1.061      0.289     -22.024      74.047
+==============================================================================
+Omnibus:                      200.512   Durbin-Watson:                   1.410
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             3104.916
+Skew:                           0.341   Prob(JB):                         0.00
+Kurtosis:                      11.233   Cond. No.                     6.58e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+[2] The condition number is large, 6.58e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.

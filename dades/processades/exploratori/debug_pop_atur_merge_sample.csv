@@ -1,0 +1,1145 @@
+province,year,population,province_norm,atur_annual_mean_pct,n_quarters
+Albacete,2003,370383,albacete,7.7,4
+Alacant,2003,1542318,alacant,12.3375,4
+Almeria,2003,560655,almeria,11.295,4
+Araba,2003,290746,araba,9.345,4
+Asturias,2003,1062320,asturias,11.3,4
+Avila,2003,163549,avila,8.9425,4
+Badajoz,2003,656228,badajoz,16.36,4
+Illes Balears,2003,883410,illes balears,9.775,4
+Barcelona,2003,4956072,barcelona,10.8625,4
+Bizkaia,2003,1125115,bizkaia,11.445,4
+Burgos,2003,352086,burgos,8.71,4
+Caceres,2003,404127,caceres,18.7675,4
+Cadiz,2003,1130549,cadiz,23.2525,4
+Cantabria,2003,541645,cantabria,10.41,4
+Castello,2003,504094,castello,6.7625,4
+Ciudad Real,2003,483315,ciudad real,11.0525,4
+Cordoba,2003,766005,cordoba,21.085,4
+A Coruna,2003,1100954,a coruna,13.755,4
+Cuenca,2003,201189,cuenca,9.1975,4
+Gipuzkoa,2003,676778,gipuzkoa,6.44,4
+Girona,2003,593087,girona,10.39,4
+Granada,2003,831320,granada,17.8375,4
+Guadalajara,2003,183879,guadalajara,8.747499999999999,4
+Huelva,2003,468682,huelva,19.9375,4
+Huesca,2003,209449,huesca,3.835,4
+Jaen,2003,646844,jaen,18.88,4
+Leon,2003,487393,leon,9.53,4
+Lleida,2003,371137,lleida,5.6575,4
+Lugo,2003,355702,lugo,8.1425,4
+Madrid,2003,5638827,madrid,7.3675,4
+Malaga,2003,1338402,malaga,16.2425,4
+Murcia,2003,1242632,murcia,10.7875,4
+Navarra,2003,567888,navarra,5.7975,4
+Ourense,2003,337302,ourense,8.535,4
+Palencia,2003,173246,palencia,9.19,4
+Las Palmas,2003,919570,las palmas,10.425,4
+Pontevedra,2003,911201,pontevedra,14.3175,4
+La Rioja,2003,284609,la rioja,6.0325,4
+Salamanca,2003,345560,salamanca,15.3775,4
+Santa Cruz de Tenerife,2003,836123,santa cruz de tenerife,12.335,4
+Segovia,2003,149643,segovia,9.845,4
+Sevilla,2003,1748400,sevilla,18.325,4
+Soria,2003,91119,soria,4.85,4
+Tarragona,2003,636614,tarragona,7.755,4
+Teruel,2003,137487,teruel,4.6825,4
+Toledo,2003,558376,toledo,11.6975,4
+Valencia,2003,2275650,valencia,11.515,4
+Valladolid,2003,503347,valladolid,13.1225,4
+Zamora,2003,197681,zamora,13.3975,4
+Zaragoza,2003,878627,zaragoza,7.5275,4
+Ceuta,2003,71110,ceuta,9.46,4
+Melilla,2003,65390,melilla,8.355,4
+Albacete,2004,374717,albacete,9.005,4
+Alacant,2004,1602174,alacant,10.615,4
+Almeria,2004,577427,almeria,9.7925,4
+Araba,2004,294304,araba,9.3825,4
+Asturias,2004,1062408,asturias,10.3225,4
+Avila,2004,164651,avila,9.5075,4
+Badajoz,2004,659640,badajoz,18.09,4
+Illes Balears,2004,912964,illes balears,9.1675,4
+Barcelona,2004,5052807,barcelona,10.355,4
+Bizkaia,2004,1128049,bizkaia,11.795,4
+Burgos,2004,354228,burgos,8.4875,4
+Caceres,2004,404734,caceres,15.845,4
+Cadiz,2004,1144129,cadiz,22.7775,4
+Cantabria,2004,548009,cantabria,10.5625,4
+Castello,2004,518182,castello,8.52,4
+Ciudad Real,2004,488058,ciudad real,9.6625,4
+Cordoba,2004,770517,cordoba,20.835,4
+A Coruna,2004,1104699,a coruna,14.5075,4
+Cuenca,2004,203133,cuenca,8.715,4
+Gipuzkoa,2004,680750,gipuzkoa,6.7975,4
+Girona,2004,618291,girona,8.6875,4
+Granada,2004,842810,granada,13.3775,4
+Guadalajara,2004,193139,guadalajara,8.065,4
+Huelva,2004,473452,huelva,16.0775,4
+Huesca,2004,211743,huesca,5.415,4
+Jaen,2004,649924,jaen,18.245,4
+Leon,2004,487073,leon,8.3375,4
+Lleida,2004,380554,lleida,4.695,4
+Lugo,2004,354345,lugo,8.8325,4
+Madrid,2004,5766566,madrid,6.737500000000001,4
+Malaga,2004,1373760,malaga,14.985,4
+Murcia,2004,1276812,murcia,10.7275,4
+Navarra,2004,576346,navarra,5.5725,4
+Ourense,2004,336018,ourense,13.28,4
+Palencia,2004,172692,palencia,7.445,4
+Las Palmas,2004,943646,las palmas,11.0025,4
+Pontevedra,2004,916516,pontevedra,14.1575,4
+La Rioja,2004,291082,la rioja,5.9475,4
+Salamanca,2004,345714,salamanca,15.63,4
+Santa Cruz de Tenerife,2004,860609,santa cruz de tenerife,12.9275,4
+Segovia,2004,151733,segovia,8.67,4
+Sevilla,2004,1764493,sevilla,17.2625,4
+Soria,2004,91778,soria,4.3,4
+Tarragona,2004,661094,tarragona,8.5625,4
+Teruel,2004,138393,teruel,4.345000000000001,4
+Toledo,2004,574502,toledo,10.46,4
+Valencia,2004,2321592,valencia,10.7775,4
+Valladolid,2004,506393,valladolid,13.4325,4
+Zamora,2004,196853,zamora,12.065,4
+Zaragoza,2004,887658,zaragoza,5.8825,4
+Ceuta,2004,71542,ceuta,10.8525,4
+Melilla,2004,64754,melilla,17.5875,4
+Albacete,2005,379276,albacete,9.84,4
+Alacant,2005,1661660,alacant,9.625,4
+Almeria,2005,603215,almeria,9.2,4
+Araba,2005,298830,araba,7.157500000000001,4
+Asturias,2005,1062755,asturias,10.0375,4
+Avila,2005,166166,avila,8.59,4
+Badajoz,2005,664407,badajoz,17.43,4
+Illes Balears,2005,940124,illes balears,7.292499999999999,4
+Barcelona,2005,5143472,barcelona,6.890000000000001,4
+Bizkaia,2005,1132163,bizkaia,8.5375,4
+Burgos,2005,357690,burgos,6.805,4
+Caceres,2005,405687,caceres,12.95,4
+Cadiz,2005,1160689,cadiz,17.64,4
+Cantabria,2005,554690,cantabria,8.504999999999999,4
+Castello,2005,533625,castello,7.4775,4
+Ciudad Real,2005,494021,ciudad real,10.65,4
+Cordoba,2005,775835,cordoba,14.845,4
+A Coruna,2005,1109955,a coruna,9.6325,4
+Cuenca,2005,205786,cuenca,6.425,4
+Gipuzkoa,2005,684269,gipuzkoa,5.695,4
+Girona,2005,645160,girona,7.3225,4
+Granada,2005,856429,granada,13.1175,4
+Guadalajara,2005,202525,guadalajara,6.9775,4
+Huelva,2005,479910,huelva,15.6825,4
+Huesca,2005,214552,huesca,6.8025,4
+Jaen,2005,653779,jaen,15.9575,4
+Leon,2005,487440,leon,10.845,4
+Lleida,2005,392921,lleida,6.175,4
+Lugo,2005,353357,lugo,6.72,4
+Madrid,2005,5866186,madrid,6.835,4
+Malaga,2005,1415713,malaga,11.56,4
+Murcia,2005,1313496,murcia,8.0375,4
+Navarra,2005,584367,navarra,5.654999999999999,4
+Ourense,2005,335063,ourense,10.655,4
+Palencia,2005,172377,palencia,7.3925,4
+Las Palmas,2005,967922,las palmas,12.6775,4
+Pontevedra,2005,922305,pontevedra,11.0475,4
+La Rioja,2005,298050,la rioja,6.375,4
+Salamanca,2005,346313,salamanca,9.3975,4
+Santa Cruz de Tenerife,2005,885233,santa cruz de tenerife,10.6025,4
+Segovia,2005,154209,segovia,6.855,4
+Sevilla,2005,1785135,sevilla,13.8,4
+Soria,2005,92265,soria,5.215,4
+Tarragona,2005,689266,tarragona,7.1375,4
+Teruel,2005,139827,teruel,4.7375,4
+Toledo,2005,592396,toledo,9.3875,4
+Valencia,2005,2371882,valencia,8.71,4
+Valladolid,2005,510004,valladolid,9.095,4
+Zamora,2005,196342,zamora,10.2275,4
+Zaragoza,2005,900698,zaragoza,5.8475,4
+Ceuta,2005,71983,ceuta,19.44,4
+Melilla,2005,64914,melilla,14.2575,4
+Albacete,2006,383458,albacete,10.015,4
+Alacant,2006,1713934,alacant,9.6225,4
+Almeria,2006,627719,almeria,9.265,4
+Araba,2006,302481,araba,7.29,4
+Asturias,2006,1063488,asturias,9.1625,4
+Avila,2006,167950,avila,6.842499999999999,4
+Badajoz,2006,668510,badajoz,14.625,4
+Illes Balears,2006,970288,illes balears,6.5,4
+Barcelona,2006,5221848,barcelona,6.547499999999999,4
+Bizkaia,2006,1136766,bizkaia,7.985,4
+Burgos,2006,360694,burgos,7.065,4
+Caceres,2006,406420,caceres,11.1525,4
+Cadiz,2006,1176671,cadiz,15.3475,4
+Cantabria,2006,561042,cantabria,6.465,4
+Castello,2006,548375,castello,6.2575,4
+Ciudad Real,2006,500916,ciudad real,10.9275,4
+Cordoba,2006,780679,cordoba,14.485,4
+A Coruna,2006,1115415,a coruna,8.1225,4
+Cuenca,2006,208120,cuenca,6.9475,4
+Gipuzkoa,2006,688423,gipuzkoa,5.7575,4
+Girona,2006,668911,girona,6.3775,4
+Granada,2006,871597,granada,10.985,4
+Guadalajara,2006,213166,guadalajara,6.6625,4
+Huelva,2006,488528,huelva,14.0875,4
+Huesca,2006,217247,huesca,5.4975000000000005,4
+Jaen,2006,656526,jaen,13.6375,4
+Leon,2006,488534,leon,8.93,4
+Lleida,2006,401661,lleida,6.3925,4
+Lugo,2006,352624,lugo,6.565,4
+Madrid,2006,5953604,madrid,6.3025,4
+Malaga,2006,1456083,malaga,11.02,4
+Murcia,2006,1351109,murcia,7.877499999999999,4
+Navarra,2006,592146,navarra,5.375,4
+Ourense,2006,334127,ourense,8.985,4
+Palencia,2006,172438,palencia,7.192500000000001,4
+Las Palmas,2006,991822,las palmas,11.9675,4
+Pontevedra,2006,927931,pontevedra,9.0425,4
+La Rioja,2006,302697,la rioja,6.1125,4
+Salamanca,2006,346299,salamanca,10.05,4
+Santa Cruz de Tenerife,2006,907787,santa cruz de tenerife,11.23,4
+Segovia,2006,156275,segovia,7.525,4
+Sevilla,2006,1807971,sevilla,12.845,4
+Soria,2006,92736,soria,5.217499999999999,4
+Tarragona,2006,718448,tarragona,6.265,4
+Teruel,2006,141281,teruel,3.7575,4
+Toledo,2006,611787,toledo,7.945,4
+Valencia,2006,2418730,valencia,7.935,4
+Valladolid,2006,513751,valladolid,8.02,4
+Zamora,2006,195999,zamora,9.1325,4
+Zaragoza,2006,915041,zaragoza,5.779999999999999,4
+Ceuta,2006,72806,ceuta,21.225,4
+Melilla,2006,67110,melilla,13.6025,4
+Albacete,2007,389127,albacete,9.1625,4
+Alacant,2007,1766320,alacant,10.5025,4
+Almeria,2007,642797,almeria,11.445,4
+Araba,2007,306475,araba,5.44,4
+Asturias,2007,1065291,asturias,8.4175,4
+Avila,2007,170206,avila,6.94,4
+Badajoz,2007,674169,badajoz,14.0375,4
+Illes Balears,2007,1005184,illes balears,7.217499999999999,4
+Barcelona,2007,5297174,barcelona,6.5225,4
+Bizkaia,2007,1142686,bizkaia,7.1625,4
+Burgos,2007,365303,burgos,6.5225,4
+Caceres,2007,407706,caceres,11.165,4
+Cadiz,2007,1193632,cadiz,15.02,4
+Cantabria,2007,568190,cantabria,5.9625,4
+Castello,2007,567548,castello,6.8025,4
+Ciudad Real,2007,509228,ciudad real,9.27,4
+Cordoba,2007,786384,cordoba,13.78,4
+A Coruna,2007,1121347,a coruna,8.2225,4
+Cuenca,2007,211114,cuenca,5.7575,4
+Gipuzkoa,2007,693439,gipuzkoa,5.0925,4
+Girona,2007,694222,girona,7.9625,4
+Granada,2007,885032,granada,11.8825,4
+Guadalajara,2007,225058,guadalajara,5.0025,4
+Huelva,2007,495171,huelva,14.025,4
+Huesca,2007,220090,huesca,4.0375,4
+Jaen,2007,659840,jaen,13.0525,4
+Leon,2007,491130,leon,7.6875,4
+Lleida,2007,411141,lleida,3.0325,4
+Lugo,2007,352247,lugo,5.76,4
+Madrid,2007,6074984,madrid,6.2425,4
+Malaga,2007,1491784,malaga,10.835,4
+Murcia,2007,1385715,murcia,7.54,4
+Navarra,2007,602831,navarra,4.72,4
+Ourense,2007,333549,ourense,5.775,4
+Palencia,2007,172566,palencia,6.16,4
+Las Palmas,2007,1016209,las palmas,11.2325,4
+Pontevedra,2007,933944,pontevedra,8.0175,4
+La Rioja,2007,308118,la rioja,5.7675,4
+Salamanca,2007,347713,salamanca,8.585,4
+Santa Cruz de Tenerife,2007,929862,santa cruz de tenerife,9.5775,4
+Segovia,2007,159139,segovia,5.5975,4
+Sevilla,2007,1831956,sevilla,12.9425,4
+Soria,2007,93430,soria,4.715,4
+Tarragona,2007,749156,tarragona,6.5025,4
+Teruel,2007,143622,teruel,4.475,4
+Toledo,2007,636696,toledo,7.1025,4
+Valencia,2007,2467761,valencia,7.9925,4
+Valladolid,2007,518851,valladolid,7.0600000000000005,4
+Zamora,2007,195863,zamora,8.397499999999999,4
+Zaragoza,2007,930533,zaragoza,5.6975,4
+Ceuta,2007,74155,ceuta,21.005,4
+Melilla,2007,68968,melilla,18.1725,4
+Albacete,2008,394521,albacete,12.1975,4
+Alacant,2008,1817519,alacant,13.4875,4
+Almeria,2008,659443,almeria,19.3925,4
+Araba,2008,310944,araba,4.985,4
+Asturias,2008,1071081,asturias,8.5,4
+Avila,2008,173290,avila,11.275,4
+Badajoz,2008,680675,badajoz,15.8275,4
+Illes Balears,2008,1042855,illes balears,10.1875,4
+Barcelona,2008,5387706,barcelona,8.6175,4
+Bizkaia,2008,1149084,bizkaia,7.917499999999999,4
+Burgos,2008,372561,burgos,9.16,4
+Caceres,2008,408975,caceres,14.5025,4
+Cadiz,2008,1209067,cadiz,19.235,4
+Cantabria,2008,577266,cantabria,7.16,4
+Castello,2008,588015,castello,10.685,4
+Ciudad Real,2008,519759,ciudad real,13.505,4
+Cordoba,2008,792681,cordoba,16.322499999999998,4
+A Coruna,2008,1128599,a coruna,8.9175,4
+Cuenca,2008,214903,cuenca,7.9675,4
+Gipuzkoa,2008,699398,gipuzkoa,5.335,4
+Girona,2008,719747,girona,10.96,4
+Granada,2008,900260,granada,19.3275,4
+Guadalajara,2008,237361,guadalajara,8.7575,4
+Huelva,2008,505037,huelva,17.705000000000002,4
+Huesca,2008,224407,huesca,5.4350000000000005,4
+Jaen,2008,663528,jaen,16.4825,4
+Leon,2008,493938,leon,9.5325,4
+Lleida,2008,423484,lleida,6.555,4
+Lugo,2008,352633,lugo,6.282500000000001,4
+Madrid,2008,6226195,madrid,8.6,4
+Malaga,2008,1529003,malaga,18.1775,4
+Murcia,2008,1419567,murcia,12.43,4
+Navarra,2008,616711,navarra,6.83,4
+Ourense,2008,332808,ourense,6.25,4
+Palencia,2008,172709,palencia,9.7075,4
+Las Palmas,2008,1040110,las palmas,18.21,4
+Pontevedra,2008,940727,pontevedra,9.8875,4
+La Rioja,2008,316192,la rioja,7.8925,4
+Salamanca,2008,349843,salamanca,11.5125,4
+Santa Cruz de Tenerife,2008,951836,santa cruz de tenerife,16.13,4
+Segovia,2008,163091,segovia,10.3925,4
+Sevilla,2008,1859555,sevilla,15.9575,4
+Soria,2008,94470,soria,5.5825,4
+Tarragona,2008,780209,tarragona,10.06,4
+Teruel,2008,145704,teruel,6.345000000000001,4
+Toledo,2008,665283,toledo,12.1325,4
+Valencia,2008,2522559,valencia,11.24,4
+Valladolid,2008,525651,valladolid,8.8775,4
+Zamora,2008,196165,zamora,9.485,4
+Zaragoza,2008,955315,zaragoza,7.85,4
+Ceuta,2008,75252,ceuta,17.45,4
+Melilla,2008,71244,melilla,19.8925,4
+Albacete,2009,397881,albacete,19.77,4
+Alacant,2009,1836134,alacant,21.9625,4
+Almeria,2009,673042,almeria,26.5725,4
+Araba,2009,315280,araba,11.7425,4
+Asturias,2009,1076280,asturias,13.42,4
+Avila,2009,173818,avila,19.02,4
+Badajoz,2009,684391,badajoz,21.33,4
+Illes Balears,2009,1070164,illes balears,17.97,4
+Barcelona,2009,5465841,barcelona,16.2025,4
+Bizkaia,2009,1154628,bizkaia,12.51,4
+Burgos,2009,374808,burgos,12.6675,4
+Caceres,2009,410300,caceres,19.3575,4
+Cadiz,2009,1221024,cadiz,26.79,4
+Cantabria,2009,584655,cantabria,12.0,4
+Castello,2009,594737,castello,19.635,4
+Ciudad Real,2009,523964,ciudad real,19.8,4
+Cordoba,2009,797328,cordoba,26.0025,4
+A Coruna,2009,1135287,a coruna,11.47,4
+Cuenca,2009,216435,cuenca,15.982499999999998,4
+Gipuzkoa,2009,704173,gipuzkoa,9.2825,4
+Girona,2009,735856,girona,18.005,4
+Granada,2009,909112,granada,26.2225,4
+Guadalajara,2009,245403,guadalajara,13.9125,4
+Huelva,2009,510278,huelva,22.505,4
+Huesca,2009,226769,huesca,10.8275,4
+Jaen,2009,665201,jaen,23.5775,4
+Leon,2009,495041,leon,14.6175,4
+Lleida,2009,431409,lleida,11.56,4
+Lugo,2009,352322,lugo,9.405,4
+Madrid,2009,6327594,madrid,13.855,4
+Malaga,2009,1552894,malaga,26.1425,4
+Murcia,2009,1441783,murcia,20.3275,4
+Navarra,2009,627276,navarra,10.8325,4
+Ourense,2009,332163,ourense,10.4175,4
+Palencia,2009,172665,palencia,14.5925,4
+Las Palmas,2009,1056361,las palmas,27.78,4
+Pontevedra,2009,947703,pontevedra,15.2525,4
+La Rioja,2009,319786,la rioja,12.6475,4
+Salamanca,2009,351018,salamanca,15.6375,4
+Santa Cruz de Tenerife,2009,969125,santa cruz de tenerife,23.9975,4
+Segovia,2009,163374,segovia,12.6975,4
+Sevilla,2009,1884107,sevilla,23.5175,4
+Soria,2009,94738,soria,10.49,4
+Tarragona,2009,793983,tarragona,17.145,4
+Teruel,2009,146132,teruel,10.25,4
+Toledo,2009,682734,toledo,20.37,4
+Valencia,2009,2550405,valencia,20.1875,4
+Valladolid,2009,528788,valladolid,12.6375,4
+Zamora,2009,194924,zamora,14.205000000000002,4
+Zaragoza,2009,969877,zaragoza,13.955,4
+Ceuta,2009,76922,ceuta,18.6325,4
+Melilla,2009,73361,melilla,23.4675,4
+Albacete,2010,399448,albacete,22.665,4
+Alacant,2010,1840085,alacant,24.16,4
+Almeria,2010,680484,almeria,28.0125,4
+Araba,2010,317737,araba,11.34,4
+Asturias,2010,1077103,asturias,15.915,4
+Avila,2010,173370,avila,23.3175,4
+Badajoz,2010,687745,badajoz,23.955,4
+Illes Balears,2010,1083683,illes balears,20.18,4
+Barcelona,2010,5488633,barcelona,17.7275,4
+Bizkaia,2010,1155818,bizkaia,12.11,4
+Burgos,2010,374005,burgos,15.3725,4
+Caceres,2010,411860,caceres,21.18,4
+Cadiz,2010,1229844,cadiz,30.57,4
+Cantabria,2010,588518,cantabria,13.7,4
+Castello,2010,595853,castello,23.9025,4
+Ciudad Real,2010,525459,ciudad real,22.2275,4
+Cordoba,2010,799757,cordoba,28.06,4
+A Coruna,2010,1138107,a coruna,13.98,4
+Cuenca,2010,216609,cuenca,19.3525,4
+Gipuzkoa,2010,705977,gipuzkoa,8.030000000000001,4
+Girona,2010,741841,girona,17.857499999999998,4
+Granada,2010,915317,granada,28.735,4
+Guadalajara,2010,250531,guadalajara,17.2025,4
+Huelva,2010,514629,huelva,27.305,4
+Huesca,2010,226790,huesca,12.9625,4
+Jaen,2010,666363,jaen,25.05,4
+Leon,2010,494823,leon,16.1475,4
+Lleida,2010,434179,lleida,14.635,4
+Lugo,2010,351000,lugo,10.7825,4
+Madrid,2010,6373532,madrid,15.8425,4
+Malaga,2010,1566667,malaga,29.1225,4
+Murcia,2010,1453545,murcia,22.8625,4
+Navarra,2010,633017,navarra,11.9025,4
+Ourense,2010,331649,ourense,16.4275,4
+Palencia,2010,171894,palencia,15.165,4
+Las Palmas,2010,1066491,las palmas,30.63,4
+Pontevedra,2010,951701,pontevedra,18.195,4
+La Rioja,2010,319939,la rioja,14.145,4
+Salamanca,2010,350901,salamanca,16.03,4
+Santa Cruz de Tenerife,2010,978677,santa cruz de tenerife,26.37,4
+Segovia,2010,163174,segovia,11.9225,4
+Sevilla,2010,1902956,sevilla,25.2675,4
+Soria,2010,94987,soria,12.375,4
+Tarragona,2010,798818,tarragona,18.5425,4
+Teruel,2010,145112,teruel,12.12,4
+Toledo,2010,692424,toledo,21.735,4
+Valencia,2010,2553693,valencia,21.7025,4
+Valladolid,2010,530503,valladolid,15.065,4
+Zamora,2010,193751,zamora,17.1225,4
+Zaragoza,2010,972282,zaragoza,15.8025,4
+Ceuta,2010,79294,ceuta,23.92,4
+Melilla,2010,76047,melilla,22.7725,4
+Albacete,2011,400847,albacete,24.715,4
+Alacant,2011,1844439,alacant,23.9075,4
+Almeria,2011,686448,almeria,33.505,4
+Araba,2011,319846,araba,10.75,4
+Asturias,2011,1075877,asturias,17.84,4
+Avila,2011,172771,avila,23.81,4
+Badajoz,2011,689902,badajoz,27.085,4
+Illes Balears,2011,1091656,illes balears,21.9475,4
+Barcelona,2011,5505667,barcelona,19.1,4
+Bizkaia,2011,1156030,bizkaia,14.1575,4
+Burgos,2011,373252,burgos,14.975,4
+Caceres,2011,412397,caceres,21.4975,4
+Cadiz,2011,1238923,cadiz,32.525000000000006,4
+Cantabria,2011,590874,cantabria,15.3,4
+Castello,2011,595574,castello,25.965,4
+Ciudad Real,2011,526166,ciudad real,23.84,4
+Cordoba,2011,801792,cordoba,31.6225,4
+A Coruna,2011,1140069,a coruna,15.8275,4
+Cuenca,2011,216377,cuenca,19.5325,4
+Gipuzkoa,2011,707258,gipuzkoa,10.1775,4
+Girona,2011,747036,girona,21.7025,4
+Granada,2011,919885,granada,29.1225,4
+Guadalajara,2011,254656,guadalajara,19.5675,4
+Huelva,2011,517890,huelva,31.24,4
+Huesca,2011,226596,huesca,13.345,4
+Jaen,2011,667059,jaen,28.075,4
+Leon,2011,494211,leon,17.2,4
+Lleida,2011,436689,lleida,13.78,4
+Lugo,2011,349525,lugo,11.9075,4
+Madrid,2011,6394239,madrid,16.3375,4
+Malaga,2011,1581343,malaga,30.64,4
+Murcia,2011,1459076,murcia,24.985,4
+Navarra,2011,637099,navarra,12.9875,4
+Ourense,2011,330019,ourense,17.775,4
+Palencia,2011,171305,palencia,17.7975,4
+Las Palmas,2011,1077087,las palmas,31.2875,4
+Pontevedra,2011,953802,pontevedra,20.705,4
+La Rioja,2011,320850,la rioja,17.2075,4
+Salamanca,2011,350819,salamanca,16.745,4
+Santa Cruz de Tenerife,2011,987789,santa cruz de tenerife,27.1,4
+Segovia,2011,163423,segovia,13.9025,4
+Sevilla,2011,1918747,sevilla,27.1325,4
+Soria,2011,94898,soria,13.62,4
+Tarragona,2011,803859,tarragona,19.985,4
+Teruel,2011,144357,teruel,14.4975,4
+Toledo,2011,701011,toledo,23.87,4
+Valencia,2011,2559199,valencia,23.575,4
+Valladolid,2011,531881,valladolid,16.63,4
+Zamora,2011,192726,zamora,18.4525,4
+Zaragoza,2011,973443,zaragoza,18.31,4
+Ceuta,2011,81627,ceuta,27.745,4
+Melilla,2011,78863,melilla,22.4075,4
+Albacete,2012,401590,albacete,31.9175,4
+Alacant,2012,1853209,alacant,28.025,4
+Almeria,2012,689320,almeria,35.315,4
+Araba,2012,320566,araba,16.572499999999998,4
+Asturias,2012,1074304,asturias,21.8225,4
+Avila,2012,171365,avila,24.58,4
+Badajoz,2012,691842,badajoz,33.8025,4
+Illes Balears,2012,1100715,illes balears,23.2575,4
+Barcelona,2012,5518276,barcelona,22.515,4
+Bizkaia,2012,1155709,bizkaia,16.89,4
+Burgos,2012,372190,burgos,17.310000000000002,4
+Caceres,2012,412501,caceres,31.7875,4
+Cadiz,2012,1245363,cadiz,36.3775,4
+Cantabria,2012,592387,cantabria,17.7925,4
+Castello,2012,593924,castello,27.19,4
+Ciudad Real,2012,526281,ciudad real,31.0675,4
+Cordoba,2012,802717,cordoba,34.6475,4
+A Coruna,2012,1141178,a coruna,18.38,4
+Cuenca,2012,214752,cuenca,23.3775,4
+Gipuzkoa,2012,708421,gipuzkoa,12.97,4
+Girona,2012,751599,girona,24.2075,4
+Granada,2012,922460,granada,35.5875,4
+Guadalajara,2012,257731,guadalajara,22.6375,4
+Huelva,2012,519980,huelva,34.78,4
+Huesca,2012,225821,huesca,14.59,4
+Jaen,2012,667260,jaen,35.8125,4
+Leon,2012,492823,leon,21.5,4
+Lleida,2012,438213,lleida,17.8325,4
+Lugo,2012,347629,lugo,16.11,4
+Madrid,2012,6425573,madrid,18.53,4
+Malaga,2012,1598137,malaga,34.2875,4
+Murcia,2012,1461928,murcia,27.615,4
+Navarra,2012,640023,navarra,16.1625,4
+Ourense,2012,328188,ourense,20.96,4
+Palencia,2012,170301,palencia,18.9975,4
+Las Palmas,2012,1089051,las palmas,33.9975,4
+Pontevedra,2012,954921,pontevedra,24.5025,4
+La Rioja,2012,320951,la rioja,20.5675,4
+Salamanca,2012,349625,salamanca,19.7525,4
+Santa Cruz de Tenerife,2012,996877,santa cruz de tenerife,31.005,4
+Segovia,2012,162937,segovia,19.725,4
+Sevilla,2012,1932573,sevilla,31.4975,4
+Soria,2012,94463,soria,14.8275,4
+Tarragona,2012,806904,tarragona,23.41,4
+Teruel,2012,142918,teruel,16.24,4
+Toledo,2012,705583,toledo,28.7625,4
+Valencia,2012,2562514,valencia,26.6,4
+Valladolid,2012,532644,valladolid,18.885,4
+Zamora,2012,191306,zamora,23.215,4
+Zaragoza,2012,975050,zaragoza,19.92,4
+Ceuta,2012,83837,ceuta,37.02,4
+Melilla,2012,81786,melilla,26.8575,4
+Albacete,2013,399093,albacete,30.9875,4
+Alacant,2013,1852733,alacant,28.255,4
+Almeria,2013,692434,almeria,36.055,4
+Araba,2013,320199,araba,17.5125,4
+Asturias,2013,1067425,asturias,24.1275,4
+Avila,2013,169373,avila,25.525,4
+Badajoz,2013,690889,badajoz,34.395,4
+Illes Balears,2013,1105131,illes balears,22.335,4
+Barcelona,2013,5500080,barcelona,23.1175,4
+Bizkaia,2013,1150032,bizkaia,17.7625,4
+Burgos,2013,368784,burgos,20.4125,4
+Caceres,2013,410135,caceres,32.955,4
+Cadiz,2013,1246384,cadiz,39.615,4
+Cantabria,2013,589789,cantabria,20.4475,4
+Castello,2013,586696,castello,29.125,4
+Ciudad Real,2013,522634,ciudad real,30.54,4
+Cordoba,2013,799934,cordoba,35.162499999999994,4
+A Coruna,2013,1137890,a coruna,20.18,4
+Cuenca,2013,211356,cuenca,28.87,4
+Gipuzkoa,2013,709043,gipuzkoa,14.115,4
+Girona,2013,750022,girona,22.985,4
+Granada,2013,921509,granada,37.035,4
+Guadalajara,2013,256825,guadalajara,22.56,4
+Huelva,2013,520327,huelva,34.8275,4
+Huesca,2013,224776,huesca,17.165,4
+Jaen,2013,661647,jaen,39.3575,4
+Leon,2013,488756,leon,23.8925,4
+Lleida,2013,435838,lleida,16.4725,4
+Lugo,2013,344603,lugo,18.96,4
+Madrid,2013,6411525,madrid,19.7625,4
+Malaga,2013,1610728,malaga,35.735,4
+Murcia,2013,1462271,murcia,28.98,4
+Navarra,2013,639089,navarra,17.93,4
+Ourense,2013,325140,ourense,24.06,4
+Palencia,2013,168670,palencia,21.34,4
+Las Palmas,2013,1094875,las palmas,34.8225,4
+Pontevedra,2013,953087,pontevedra,24.7425,4
+La Rioja,2013,318819,la rioja,20.035,4
+Salamanca,2013,347040,salamanca,22.02,4
+Santa Cruz de Tenerife,2013,1001461,santa cruz de tenerife,32.4825,4
+Segovia,2013,161205,segovia,19.3275,4
+Sevilla,2013,1935023,sevilla,34.010000000000005,4
+Soria,2013,93373,soria,16.585,4
+Tarragona,2013,802724,tarragona,26.9125,4
+Teruel,2013,141092,teruel,19.7425,4
+Toledo,2013,703566,toledo,32.0575,4
+Valencia,2013,2548936,valencia,27.66,4
+Valladolid,2013,530848,valladolid,20.0575,4
+Zamora,2013,188878,zamora,26.165,4
+Zaragoza,2013,971807,zaragoza,22.515,4
+Ceuta,2013,84487,ceuta,34.79,4
+Melilla,2013,83669,melilla,32.4075,4
+Albacete,2014,396017,albacete,27.5175,4
+Alacant,2014,1848236,alacant,26.03,4
+Almeria,2014,690750,almeria,35.597500000000004,4
+Araba,2014,320451,araba,17.197499999999998,4
+Asturias,2014,1058560,asturias,21.1275,4
+Avila,2014,167265,avila,26.0425,4
+Badajoz,2014,688697,badajoz,31.27,4
+Illes Balears,2014,1106617,illes balears,20.14,4
+Barcelona,2014,5459762,barcelona,19.975,4
+Bizkaia,2014,1143121,bizkaia,17.315,4
+Burgos,2014,365542,burgos,18.225,4
+Caceres,2014,408011,caceres,27.315,4
+Cadiz,2014,1245504,cadiz,42.3075,4
+Cantabria,2014,587491,cantabria,19.4175,4
+Castello,2014,580349,castello,27.0825,4
+Ciudad Real,2014,518032,ciudad real,33.0325,4
+Cordoba,2014,796830,cordoba,33.64,4
+A Coruna,2014,1132596,a coruna,19.955,4
+Cuenca,2014,208031,cuenca,28.0025,4
+Gipuzkoa,2014,708675,gipuzkoa,14.26,4
+Girona,2014,745189,girona,22.53,4
+Granada,2014,919381,granada,35.915,4
+Guadalajara,2014,255075,guadalajara,23.265,4
+Huelva,2014,520453,huelva,31.9525,4
+Huesca,2014,223702,huesca,17.205,4
+Jaen,2014,656162,jaen,33.2825,4
+Leon,2014,483681,leon,24.33,4
+Lleida,2014,432397,lleida,15.045,4
+Lugo,2014,341495,lugo,18.9475,4
+Madrid,2014,6372553,madrid,18.7475,4
+Malaga,2014,1618101,malaga,32.6275,4
+Murcia,2014,1462734,murcia,26.585,4
+Navarra,2014,637099,navarra,15.71,4
+Ourense,2014,321472,ourense,21.345,4
+Palencia,2014,167237,palencia,22.3125,4
+Las Palmas,2014,1094856,las palmas,33.1225,4
+Pontevedra,2014,950254,pontevedra,24.7075,4
+La Rioja,2014,315736,la rioja,18.16,4
+Salamanca,2014,344104,salamanca,21.085,4
+Santa Cruz de Tenerife,2014,1003299,santa cruz de tenerife,31.6525,4
+Segovia,2014,158798,segovia,14.38,4
+Sevilla,2014,1934058,sevilla,32.7775,4
+Soria,2014,92374,soria,17.035,4
+Tarragona,2014,795485,tarragona,23.4625,4
+Teruel,2014,139470,teruel,20.0325,4
+Toledo,2014,697605,toledo,29.43,4
+Valencia,2014,2531628,valencia,25.3775,4
+Valladolid,2014,528486,valladolid,18.1475,4
+Zamora,2014,186117,zamora,26.2725,4
+Zaragoza,2014,967541,zaragoza,20.85,4
+Ceuta,2014,84562,ceuta,31.8425,4
+Melilla,2014,84103,melilla,28.4,4
+Albacete,2015,394012,albacete,24.6825,4
+Alacant,2015,1838578,alacant,24.22,4
+Almeria,2015,694051,almeria,28.99,4
+Araba,2015,321541,araba,15.0125,4
+Asturias,2015,1049328,asturias,19.11,4
+Avila,2015,165694,avila,22.985,4
+Badajoz,2015,686250,badajoz,30.2525,4
+Illes Balears,2015,1111002,illes balears,17.41,4
+Barcelona,2015,5453143,barcelona,18.235,4
+Bizkaia,2015,1141400,bizkaia,15.985,4
+Burgos,2015,363328,burgos,17.884999999999998,4
+Caceres,2015,405967,caceres,27.115,4
+Cadiz,2015,1245567,cadiz,38.32,4
+Cantabria,2015,585184,cantabria,17.6475,4
+Castello,2015,577738,castello,22.5025,4
+Ciudad Real,2015,514152,ciudad real,31.29,4
+Cordoba,2015,794359,cordoba,29.9875,4
+A Coruna,2015,1127596,a coruna,17.4075,4
+Cuenca,2015,205664,cuenca,22.615,4
+Gipuzkoa,2015,709766,gipuzkoa,12.67,4
+Girona,2015,743431,girona,19.7225,4
+Granada,2015,917546,granada,30.942500000000003,4
+Guadalajara,2015,254458,guadalajara,19.295,4
+Huelva,2015,520840,huelva,29.7625,4
+Huesca,2015,222677,huesca,14.4725,4
+Jaen,2015,652317,jaen,34.0625,4
+Leon,2015,479104,leon,21.2475,4
+Lleida,2015,431044,lleida,15.0375,4
+Lugo,2015,338430,lugo,15.9575,4
+Madrid,2015,6375737,madrid,17.0575,4
+Malaga,2015,1629179,malaga,29.5675,4
+Murcia,2015,1465195,murcia,24.615,4
+Navarra,2015,637317,navarra,13.8275,4
+Ourense,2015,318288,ourense,20.3425,4
+Palencia,2015,165820,palencia,20.31,4
+Las Palmas,2015,1097578,las palmas,29.8675,4
+Pontevedra,2015,948487,pontevedra,22.465,4
+La Rioja,2015,314457,la rioja,15.3825,4
+Salamanca,2015,341635,salamanca,15.955,4
+Santa Cruz de Tenerife,2015,1003741,santa cruz de tenerife,28.29,4
+Segovia,2015,157578,segovia,14.815,4
+Sevilla,2015,1935135,sevilla,30.5,4
+Soria,2015,91454,soria,14.0775,4
+Tarragona,2015,793272,tarragona,21.935,4
+Teruel,2015,137871,teruel,17.025,4
+Toledo,2015,694329,toledo,27.685,4
+Valencia,2015,2528776,valencia,21.8075,4
+Valladolid,2015,527199,valladolid,16.0875,4
+Zamora,2015,183885,zamora,21.9275,4
+Zaragoza,2015,965052,zaragoza,16.605,4
+Ceuta,2015,84561,ceuta,27.5475,4
+Melilla,2015,85009,melilla,33.9475,4
+Albacete,2016,391865,albacete,23.8275,4
+Alacant,2016,1837873,alacant,20.795,4
+Almeria,2016,700055,almeria,23.5825,4
+Araba,2016,322974,araba,11.9875,4
+Asturias,2016,1040407,asturias,17.6075,4
+Avila,2016,163669,avila,21.2325,4
+Badajoz,2016,682970,badajoz,29.74,4
+Illes Balears,2016,1117353,illes balears,13.9575,4
+Barcelona,2016,5472926,barcelona,15.4975,4
+Bizkaia,2016,1140191,bizkaia,14.21,4
+Burgos,2016,360572,burgos,11.7325,4
+Caceres,2016,403183,caceres,23.545,4
+Cadiz,2016,1244475,cadiz,34.3925,4
+Cantabria,2016,582494,cantabria,14.9075,4
+Castello,2016,575546,castello,19.4975,4
+Ciudad Real,2016,508629,ciudad real,26.2325,4
+Cordoba,2016,790749,cordoba,30.245,4
+A Coruna,2016,1123015,a coruna,15.4125,4
+Cuenca,2016,202864,cuenca,18.015,4
+Gipuzkoa,2016,711261,gipuzkoa,10.2575,4
+Girona,2016,745797,girona,16.14,4
+Granada,2016,915706,granada,29.9375,4
+Guadalajara,2016,254191,guadalajara,17.7875,4
+Huelva,2016,520086,huelva,29.035,4
+Huesca,2016,221495,huesca,12.54,4
+Jaen,2016,647007,jaen,32.0925,4
+Leon,2016,473574,leon,19.2175,4
+Lleida,2016,429806,lleida,11.6275,4
+Lugo,2016,335752,lugo,14.785,4
+Madrid,2016,6411466,madrid,15.7125,4
+Malaga,2016,1638378,malaga,26.0575,4
+Murcia,2016,1468367,murcia,19.7825,4
+Navarra,2016,638922,navarra,12.485,4
+Ourense,2016,314476,ourense,19.54,4
+Palencia,2016,164421,palencia,15.2125,4
+Las Palmas,2016,1099894,las palmas,26.295,4
+Pontevedra,2016,945852,pontevedra,19.3875,4
+La Rioja,2016,314025,la rioja,13.535,4
+Salamanca,2016,338308,salamanca,16.4775,4
+Santa Cruz de Tenerife,2016,1003542,santa cruz de tenerife,25.8175,4
+Segovia,2016,155991,segovia,14.16,4
+Sevilla,2016,1935590,sevilla,27.6375,4
+Soria,2016,90460,soria,13.2075,4
+Tarragona,2016,792163,tarragona,19.06,4
+Teruel,2016,136377,teruel,13.445,4
+Toledo,2016,691787,toledo,25.4,4
+Valencia,2016,2526469,valencia,20.7225,4
+Valladolid,2016,524669,valladolid,14.1,4
+Zamora,2016,181057,zamora,18.887500000000003,4
+Zaragoza,2016,960170,zaragoza,15.4125,4
+Ceuta,2016,84558,ceuta,24.880000000000003,4
+Melilla,2016,85457,melilla,30.7775,4
+Albacete,2017,390225,albacete,23.155,4
+Alacant,2017,1836715,alacant,18.1075,4
+Almeria,2017,704871,almeria,24.37,4
+Araba,2017,325250,araba,11.2675,4
+Asturias,2017,1033550,asturias,13.7125,4
+Avila,2017,161782,avila,17.965,4
+Badajoz,2017,679042,badajoz,28.1525,4
+Illes Balears,2017,1128492,illes balears,12.5275,4
+Barcelona,2017,5507412,barcelona,13.1025,4
+Bizkaia,2017,1141564,bizkaia,12.7,4
+Burgos,2017,358416,burgos,10.5525,4
+Caceres,2017,400066,caceres,22.79,4
+Cadiz,2017,1244090,cadiz,30.28,4
+Cantabria,2017,581421,cantabria,13.565,4
+Castello,2017,575433,castello,16.7225,4
+Ciudad Real,2017,504403,ciudad real,24.4125,4
+Cordoba,2017,787735,cordoba,28.17,4
+A Coruna,2017,1120302,a coruna,14.1625,4
+Cuenca,2017,200531,cuenca,15.9025,4
+Gipuzkoa,2017,713130,gipuzkoa,9.015,4
+Girona,2017,750468,girona,13.9625,4
+Granada,2017,914780,granada,25.7725,4
+Guadalajara,2017,255242,guadalajara,13.9075,4
+Huelva,2017,519144,huelva,24.0325,4
+Huesca,2017,220749,huesca,9.0475,4
+Jaen,2017,642515,jaen,26.755000000000003,4
+Leon,2017,468637,leon,16.4025,4
+Lleida,2017,429821,lleida,11.67,4
+Lugo,2017,333152,lugo,12.66,4
+Madrid,2017,6459297,madrid,13.3425,4
+Malaga,2017,1644147,malaga,22.4375,4
+Murcia,2017,1475275,murcia,18.0325,4
+Navarra,2017,642075,navarra,10.2375,4
+Ourense,2017,311385,ourense,16.47,4
+Palencia,2017,163221,palencia,13.6275,4
+Las Palmas,2017,1105579,las palmas,24.56,4
+Pontevedra,2017,944116,pontevedra,18.3125,4
+La Rioja,2017,314136,la rioja,11.9925,4
+Salamanca,2017,335783,salamanca,14.56,4
+Santa Cruz de Tenerife,2017,1009654,santa cruz de tenerife,22.2575,4
+Segovia,2017,154854,segovia,11.9225,4
+Sevilla,2017,1936735,sevilla,24.2725,4
+Soria,2017,89614,soria,10.84,4
+Tarragona,2017,793077,tarragona,16.0875,4
+Teruel,2017,135324,teruel,12.155,4
+Toledo,2017,691021,toledo,20.9125,4
+Valencia,2017,2531673,valencia,18.54,4
+Valladolid,2017,522985,valladolid,13.825,4
+Zamora,2017,178243,zamora,16.252499999999998,4
+Zaragoza,2017,959338,zaragoza,12.17,4
+Ceuta,2017,85005,ceuta,22.37,4
+Melilla,2017,85918,melilla,27.615,4
+Albacete,2018,388948,albacete,19.7325,4
+Alacant,2018,1839319,alacant,16.1675,4
+Almeria,2018,707319,almeria,22.5775,4
+Araba,2018,327763,araba,9.1125,4
+Asturias,2018,1027091,asturias,13.6075,4
+Avila,2018,160104,avila,16.4225,4
+Badajoz,2018,675742,badajoz,25.450000000000003,4
+Illes Balears,2018,1141233,illes balears,11.6775,4
+Barcelona,2018,5556273,barcelona,11.0875,4
+Bizkaia,2018,1143742,bizkaia,11.6475,4
+Burgos,2018,357165,burgos,10.39,4
+Caceres,2018,396979,caceres,20.4825,4
+Cadiz,2018,1243737,cadiz,27.545,4
+Cantabria,2018,581533,cantabria,10.675,4
+Castello,2018,576342,castello,15.525,4
+Ciudad Real,2018,499168,ciudad real,20.1125,4
+Cordoba,2018,784079,cordoba,24.7375,4
+A Coruna,2018,1120074,a coruna,12.23,4
+Cuenca,2018,198922,cuenca,15.4,4
+Gipuzkoa,2018,715749,gipuzkoa,7.6975,4
+Girona,2018,756522,girona,11.3975,4
+Granada,2018,915140,granada,23.9975,4
+Guadalajara,2018,256247,guadalajara,11.4475,4
+Huelva,2018,520445,huelva,22.9175,4
+Huesca,2018,220653,huesca,9.51,4
+Jaen,2018,637669,jaen,23.0125,4
+Leon,2018,464276,leon,11.765,4
+Lleida,2018,430650,lleida,10.545,4
+Lugo,2018,331128,lugo,9.1875,4
+Madrid,2018,6529923,madrid,12.22,4
+Malaga,2018,1650068,malaga,19.19,4
+Murcia,2018,1478718,murcia,16.7625,4
+Navarra,2018,646340,navarra,10.0275,4
+Ourense,2018,309290,ourense,13.75,4
+Palencia,2018,162064,palencia,12.02,4
+Las Palmas,2018,1111873,las palmas,20.235,4
+Pontevedra,2018,942556,pontevedra,16.0175,4
+La Rioja,2018,314890,la rioja,10.4025,4
+Salamanca,2018,333500,salamanca,13.0975,4
+Santa Cruz de Tenerife,2018,1019708,santa cruz de tenerife,19.9025,4
+Segovia,2018,153983,segovia,11.82,4
+Sevilla,2018,1938007,sevilla,22.44,4
+Soria,2018,89329,soria,8.067499999999999,4
+Tarragona,2018,795919,tarragona,14.965,4
+Teruel,2018,134449,teruel,9.16,4
+Toledo,2018,691124,toledo,19.4675,4
+Valencia,2018,2542923,valencia,15.1925,4
+Valladolid,2018,520930,valladolid,10.99,4
+Zamora,2018,175662,zamora,17.119999999999997,4
+Zaragoza,2018,958391,zaragoza,11.08,4
+Ceuta,2018,85327,ceuta,28.9275,4
+Melilla,2018,86084,melilla,25.765,4
+Albacete,2019,387818,albacete,17.185000000000002,4
+Alacant,2019,1855384,alacant,14.85,4
+Almeria,2019,714123,almeria,17.615000000000002,4
+Araba,2019,330104,araba,8.28,4
+Asturias,2019,1021469,asturias,14.1925,4
+Avila,2019,159237,avila,14.7025,4
+Badajoz,2019,673384,badajoz,22.44,4
+Illes Balears,2019,1157928,illes balears,11.82,4
+Barcelona,2019,5622704,barcelona,10.9,4
+Bizkaia,2019,1147589,bizkaia,10.605,4
+Burgos,2019,356607,burgos,9.96,4
+Caceres,2019,394541,caceres,19.945,4
+Cadiz,2019,1243186,cadiz,24.9025,4
+Cantabria,2019,581989,cantabria,10.28,4
+Castello,2019,579592,castello,13.7525,4
+Ciudad Real,2019,495686,ciudad real,18.26,4
+Cordoba,2019,780982,cordoba,23.06,4
+A Coruna,2019,1120432,a coruna,10.2025,4
+Cuenca,2019,197617,cuenca,13.065,4
+Gipuzkoa,2019,719613,gipuzkoa,7.22,4
+Girona,2019,765476,girona,10.3325,4
+Granada,2019,916879,granada,22.21,4
+Guadalajara,2019,259266,guadalajara,12.145,4
+Huelva,2019,522138,huelva,21.9425,4
+Huesca,2019,220996,huesca,9.0225,4
+Jaen,2019,633375,jaen,22.29,4
+Leon,2019,460247,leon,12.6875,4
+Lleida,2019,432917,lleida,9.675,4
+Lugo,2019,329070,lugo,8.8625,4
+Madrid,2019,6618078,madrid,10.6225,4
+Malaga,2019,1660348,malaga,17.6425,4
+Murcia,2019,1491312,murcia,14.68,4
+Navarra,2019,652797,navarra,8.2425,4
+Ourense,2019,307764,ourense,12.9325,4
+Palencia,2019,161053,palencia,10.49,4
+Las Palmas,2019,1121686,las palmas,22.22,4
+Pontevedra,2019,942944,pontevedra,14.2925,4
+La Rioja,2019,315967,la rioja,9.96,4
+Salamanca,2019,332044,salamanca,13.4,4
+Santa Cruz de Tenerife,2019,1031630,santa cruz de tenerife,18.6925,4
+Segovia,2019,153571,segovia,9.8325,4
+Sevilla,2019,1941191,sevilla,21.5025,4
+Soria,2019,89008,soria,7.48,4
+Tarragona,2019,803528,tarragona,13.455,4
+Teruel,2019,134025,teruel,9.77,4
+Toledo,2019,696390,toledo,16.86,4
+Valencia,2019,2554332,valencia,13.65,4
+Valladolid,2019,520483,valladolid,10.8675,4
+Zamora,2019,173318,zamora,14.05,4
+Zaragoza,2019,965673,zaragoza,10.2875,4
+Ceuta,2019,85087,ceuta,25.815,4
+Melilla,2019,86373,melilla,26.9825,4
+Albacete,2020,387838,albacete,18.2625,4
+Alacant,2020,1877627,alacant,18.0275,4
+Almeria,2020,724003,almeria,21.905,4
+Araba,2020,332874,araba,7.8575,4
+Asturias,2020,1018053,asturias,14.12,4
+Avila,2020,158819,avila,14.43,4
+Badajoz,2020,672045,badajoz,22.59,4
+Illes Balears,2020,1176816,illes balears,16.1875,4
+Barcelona,2020,5690371,barcelona,12.5225,4
+Bizkaia,2020,1154696,bizkaia,11.2575,4
+Burgos,2020,357121,burgos,11.1275,4
+Caceres,2020,392925,caceres,20.4075,4
+Cadiz,2020,1247160,cadiz,22.9325,4
+Cantabria,2020,583011,cantabria,12.165,4
+Castello,2020,584201,castello,14.285,4
+Ciudad Real,2020,494817,ciudad real,17.8975,4
+Cordoba,2020,780825,cordoba,24.255,4
+A Coruna,2020,1121994,a coruna,11.2325,4
+Cuenca,2020,197537,cuenca,15.6525,4
+Gipuzkoa,2020,724347,gipuzkoa,7.585,4
+Girona,2020,776698,girona,12.6025,4
+Granada,2020,921966,granada,23.775,4
+Guadalajara,2020,262985,guadalajara,14.87,4
+Huelva,2020,525333,huelva,20.5975,4
+Huesca,2020,222767,huesca,10.7575,4
+Jaen,2020,630524,jaen,23.995,4
+Leon,2020,456697,leon,14.46,4
+Lleida,2020,437508,lleida,9.3575,4
+Lugo,2020,327573,lugo,8.787500000000001,4
+Madrid,2020,6720310,madrid,12.4975,4
+Malaga,2020,1683380,malaga,20.345,4
+Murcia,2020,1509077,murcia,16.17,4
+Navarra,2020,659907,navarra,10.055,4
+Ourense,2020,306825,ourense,11.725,4
+Palencia,2020,160357,palencia,11.42,4
+Las Palmas,2020,1131195,las palmas,22.0425,4
+Pontevedra,2020,946213,pontevedra,14.13,4
+La Rioja,2020,318703,la rioja,10.8,4
+Salamanca,2020,330834,salamanca,13.4675,4
+Santa Cruz de Tenerife,2020,1045045,santa cruz de tenerife,23.3075,4
+Segovia,2020,153641,segovia,9.145,4
+Sevilla,2020,1947848,sevilla,22.0975,4
+Soria,2020,89302,soria,8.7625,4
+Tarragona,2020,815746,tarragona,15.2675,4
+Teruel,2020,134085,teruel,10.585,4
+Toledo,2020,704792,toledo,18.8375,4
+Valencia,2020,2584654,valencia,15.285,4
+Valladolid,2020,520904,valladolid,10.605,4
+Zamora,2020,171301,zamora,13.185,4
+Zaragoza,2020,973740,zaragoza,12.0625,4
+Ceuta,2020,84502,ceuta,24.5175,4
+Melilla,2020,86558,melilla,23.6075,4
+Albacete,2021,386726,albacete,15.5275,4
+Alacant,2021,1887036,alacant,18.705,4
+Almeria,2021,730430,almeria,19.255000000000003,4
+Araba,2021,333485,araba,11.365,4
+Asturias,2021,1012117,asturias,12.335,4
+Avila,2021,158898,avila,15.49,4
+Badajoz,2021,671092,badajoz,20.5275,4
+Illes Balears,2021,1183415,illes balears,14.435,4
+Barcelona,2021,5702262,barcelona,11.3275,4
+Bizkaia,2021,1153635,bizkaia,11.065,4
+Burgos,2021,356042,burgos,9.63,4
+Caceres,2021,390544,caceres,19.61,4
+Cadiz,2021,1249873,cadiz,25.7925,4
+Cantabria,2021,584708,cantabria,11.265,4
+Castello,2021,587632,castello,13.8225,4
+Ciudad Real,2021,492900,ciudad real,17.732499999999998,4
+Cordoba,2021,777622,cordoba,21.0525,4
+A Coruna,2021,1120501,a coruna,10.6,4
+Cuenca,2021,196510,cuenca,12.1075,4
+Gipuzkoa,2021,725508,gipuzkoa,8.615,4
+Girona,2021,784941,girona,12.975,4
+Granada,2021,925046,granada,22.63,4
+Guadalajara,2021,265969,guadalajara,12.7475,4
+Huelva,2021,527254,huelva,20.3775,4
+Huesca,2021,223995,huesca,7.6175,4
+Jaen,2021,627568,jaen,22.09,4
+Leon,2021,452435,leon,13.6225,4
+Lleida,2021,439258,lleida,11.2175,4
+Lugo,2021,326068,lugo,8.8725,4
+Madrid,2021,6726640,madrid,11.6875,4
+Malaga,2021,1696955,malaga,20.4275,4
+Murcia,2021,1518279,murcia,14.7225,4
+Navarra,2021,662032,navarra,10.7125,4
+Ourense,2021,305297,ourense,10.9475,4
+Palencia,2021,159146,palencia,9.9925,4
+Las Palmas,2021,1131359,las palmas,23.555,4
+Pontevedra,2021,946311,pontevedra,13.7475,4
+La Rioja,2021,319444,la rioja,11.605,4
+Salamanca,2021,327735,salamanca,13.3375,4
+Santa Cruz de Tenerife,2021,1047565,santa cruz de tenerife,23.4825,4
+Segovia,2021,153626,segovia,9.36,4
+Sevilla,2021,1950056,sevilla,22.045,4
+Soria,2021,88796,soria,9.2025,4
+Tarragona,2021,823435,tarragona,13.3625,4
+Teruel,2021,134259,teruel,8.385,4
+Toledo,2021,710400,toledo,16.4125,4
+Valencia,2021,2593243,valencia,14.7125,4
+Valladolid,2021,519380,valladolid,10.92,4
+Zamora,2021,169165,zamora,11.24,4
+Zaragoza,2021,973684,zaragoza,11.235,4
+Ceuta,2021,84071,ceuta,30.85,4
+Melilla,2021,86450,melilla,25.345,4
+Albacete,2022,385967,albacete,12.8475,4
+Alacant,2022,1907494,alacant,14.645,4
+Almeria,2022,739541,almeria,17.15,4
+Araba,2022,333908,araba,9.19,4
+Asturias,2022,1004960,asturias,12.5125,4
+Avila,2022,159102,avila,13.935,4
+Badajoz,2022,667851,badajoz,17.6225,4
+Illes Balears,2022,1187043,illes balears,10.735,4
+Barcelona,2022,5699602,barcelona,9.925,4
+Bizkaia,2022,1148677,bizkaia,9.41,4
+Burgos,2022,354846,burgos,8.555,4
+Caceres,2022,388957,caceres,16.7775,4
+Cadiz,2022,1250545,cadiz,23.4675,4
+Cantabria,2022,585450,cantabria,9.575,4
+Castello,2022,591300,castello,12.1875,4
+Ciudad Real,2022,490950,ciudad real,19.355,4
+Cordoba,2022,775110,cordoba,19.4175,4
+A Coruna,2022,1119164,a coruna,10.1,4
+Cuenca,2022,196640,cuenca,9.6075,4
+Gipuzkoa,2022,723241,gipuzkoa,7.87,4
+Girona,2022,790432,girona,8.9575,4
+Granada,2022,926019,granada,20.9575,4
+Guadalajara,2022,268412,guadalajara,11.1725,4
+Huelva,2022,531094,huelva,17.494999999999997,4
+Huesca,2022,225199,huesca,9.42,4
+Jaen,2022,624191,jaen,18.975,4
+Leon,2022,449270,leon,10.63,4
+Lleida,2022,440883,lleida,9.995,4
+Lugo,2022,324240,lugo,9.125,4
+Madrid,2022,6743254,madrid,11.215,4
+Malaga,2022,1715109,malaga,18.4425,4
+Murcia,2022,1529658,murcia,13.585,4
+Navarra,2022,664514,navarra,9.735,4
+Ourense,2022,304223,ourense,11.4875,4
+Palencia,2022,157993,palencia,9.5075,4
+Las Palmas,2022,1133733,las palmas,17.32,4
+Pontevedra,2022,945198,pontevedra,12.6575,4
+La Rioja,2022,319617,la rioja,9.55,4
+Salamanca,2022,326285,salamanca,11.2225,4
+Santa Cruz de Tenerife,2022,1051874,santa cruz de tenerife,18.005000000000003,4
+Segovia,2022,153731,segovia,8.2725,4
+Sevilla,2022,1949558,sevilla,17.3875,4
+Soria,2022,88330,soria,8.1,4
+Tarragona,2022,830906,tarragona,11.395,4
+Teruel,2022,134132,teruel,8.94,4
+Toledo,2022,716309,toledo,15.185,4
+Valencia,2022,2609322,valencia,12.5525,4
+Valladolid,2022,518158,valladolid,8.5375,4
+Zamora,2022,167868,zamora,12.385,4
+Zaragoza,2022,968884,zaragoza,9.76,4
+Ceuta,2022,83051,ceuta,29.8525,4
+Melilla,2022,84932,melilla,25.9025,4
+Albacete,2023,387529,albacete,11.9575,4
+Alacant,2023,1955268,alacant,13.3925,4
+Almeria,2023,753364,almeria,15.972499999999998,4
+Araba,2023,336308,araba,7.2025,4
+Asturias,2023,1006060,asturias,12.1225,4
+Avila,2023,159764,avila,11.635,4
+Badajoz,2023,666049,badajoz,18.675,4
+Illes Balears,2023,1209906,illes balears,10.48,4
+Barcelona,2023,5797356,barcelona,9.12,4
+Bizkaia,2023,1153282,bizkaia,8.05,4
+Burgos,2023,357370,burgos,7.717499999999999,4
+Caceres,2023,388257,caceres,14.94,4
+Cadiz,2023,1254866,cadiz,22.255,4
+Cantabria,2023,588387,cantabria,8.1425,4
+Castello,2023,604086,castello,14.7575,4
+Ciudad Real,2023,491927,ciudad real,16.475,4
+Cordoba,2023,775002,cordoba,18.4075,4
+A Coruna,2023,1123884,a coruna,9.1025,4
+Cuenca,2023,198436,cuenca,11.4075,4
+Gipuzkoa,2023,726712,gipuzkoa,7.465,4
+Girona,2023,808672,girona,9.9575,4
+Granada,2023,934072,granada,20.5075,4
+Guadalajara,2023,275082,guadalajara,9.865,4
+Huelva,2023,534084,huelva,18.3275,4
+Huesca,2023,226878,huesca,8.4475,4
+Jaen,2023,620637,jaen,18.4725,4
+Leon,2023,448573,leon,10.1325,4
+Lleida,2023,447343,lleida,7.592499999999999,4
+Lugo,2023,324267,lugo,8.219999999999999,4
+Madrid,2023,6871903,madrid,9.955,4
+Malaga,2023,1752728,malaga,16.822499999999998,4
+Murcia,2023,1551692,murcia,12.775,4
+Navarra,2023,672155,navarra,9.945,4
+Ourense,2023,304563,ourense,9.57,4
+Palencia,2023,157787,palencia,8.735,4
+Las Palmas,2023,1145843,las palmas,15.0475,4
+Pontevedra,2023,946710,pontevedra,10.9925,4
+La Rioja,2023,322282,la rioja,9.375,4
+Salamanca,2023,327089,salamanca,10.82,4
+Santa Cruz de Tenerife,2023,1067173,santa cruz de tenerife,17.2425,4
+Segovia,2023,155332,segovia,8.065,4
+Sevilla,2023,1959394,sevilla,16.7325,4
+Soria,2023,89528,soria,7.785,4
+Tarragona,2023,848592,tarragona,11.275,4
+Teruel,2023,135046,teruel,9.3925,4
+Toledo,2023,731112,toledo,13.64,4
+Valencia,2023,2656841,valencia,11.97,4
+Valladolid,2023,521333,valladolid,9.3725,4
+Zamora,2023,166927,zamora,13.6375,4
+Zaragoza,2023,979365,zaragoza,8.4975,4
+Ceuta,2023,83052,ceuta,29.98,4
+Melilla,2023,85493,melilla,26.6325,4
+Albacete,2024,389070,albacete,11.315,4
+Alacant,2024,1993289,alacant,13.64,4
+Almeria,2024,760964,almeria,15.285,4
+Araba,2024,338594,araba,8.567499999999999,4
+Asturias,2024,1009599,asturias,10.135,4
+Avila,2024,160463,avila,11.1425,4
+Badajoz,2024,666029,badajoz,15.395,4
+Illes Balears,2024,1231768,illes balears,9.45,4
+Barcelona,2024,5877672,barcelona,8.4525,4
+Bizkaia,2024,1159368,bizkaia,8.98,4
+Burgos,2024,359740,burgos,6.9275,4
+Caceres,2024,388652,caceres,15.7125,4
+Cadiz,2024,1258730,cadiz,20.9725,4
+Cantabria,2024,590851,cantabria,7.8475,4
+Castello,2024,615188,castello,13.6525,4
+Ciudad Real,2024,492948,ciudad real,16.9225,4
+Cordoba,2024,774313,cordoba,16.6175,4
+A Coruna,2024,1128449,a coruna,7.98,4
+Cuenca,2024,199025,cuenca,10.495,4
+Gipuzkoa,2024,729722,gipuzkoa,6.3575,4
+Girona,2024,821108,girona,9.4675,4
+Granada,2024,939741,granada,21.435,4
+Guadalajara,2024,280225,guadalajara,10.875,4
+Huelva,2024,535734,huelva,15.125,4
+Huesca,2024,228519,huesca,9.13,4
+Jaen,2024,619055,jaen,19.335,4
+Leon,2024,447802,leon,9.6125,4
+Lleida,2024,451707,lleida,6.635,4
+Lugo,2024,325048,lugo,7.09,4
+Madrid,2024,7009268,madrid,8.975,4
+Malaga,2024,1774701,malaga,13.56,4
+Murcia,2024,1568492,murcia,12.7325,4
+Navarra,2024,678333,navarra,7.64,4
+Ourense,2024,304467,ourense,10.98,4
+Palencia,2024,158063,palencia,7.0,4
+Las Palmas,2024,1159890,las palmas,14.015,4
+Pontevedra,2024,947869,pontevedra,11.2775,4
+La Rioja,2024,324184,la rioja,9.745,4
+Salamanca,2024,327552,salamanca,11.8475,4
+Santa Cruz de Tenerife,2024,1078864,santa cruz de tenerife,13.48,4
+Segovia,2024,156620,segovia,6.6925,4
+Sevilla,2024,1968624,sevilla,13.9525,4
+Soria,2024,90073,soria,6.34,4
+Tarragona,2024,861744,tarragona,12.6975,4
+Teruel,2024,135309,teruel,7.197500000000001,4
+Toledo,2024,743165,toledo,13.87,4
+Valencia,2024,2710808,valencia,11.7025,4
+Valladolid,2024,525116,valladolid,10.005,4
+Zamora,2024,166253,zamora,12.88,4
+Zaragoza,2024,987763,zaragoza,8.045,4
+Ceuta,2024,83179,ceuta,27.4075,4
+Melilla,2024,85985,melilla,28.315,4

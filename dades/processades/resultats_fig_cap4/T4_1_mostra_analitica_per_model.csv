@@ -1,0 +1,12 @@
+Model / especificació,Outcome,Període,N observacions,N províncies,Notes
+Correlacions (Pearson/Spearman),Outcomes + vot,2000–2024 (anys observats: 23),Variable (pairwise complete),52,Parelles completes; N varia per parella. Vot disponible només quan no és NaN.
+OLS (controls),Denúncies (taxa),2003–2023 (anys observats: 21),1092,52,Complete-case; SE robustos (si aplica).
+OLS (controls),Ordres (taxa),2003–2023 (anys observats: 21),1092,52,Complete-case; SE robustos (si aplica).
+OLS (controls),Feminicidis (taxa),2003–2023 (anys observats: 21),1092,52,Complete-case; SE robustos (si aplica).
+FE (província + any),Denúncies (taxa),2003–2023 (anys observats: 21),1092,52,Complete-case; FE província i any (anys observats).
+FE (província + any),Ordres (taxa),2003–2023 (anys observats: 21),1092,52,Complete-case; FE província i any (anys observats).
+FE (província + any),Feminicidis (taxa),2003–2023 (anys observats: 21),1092,52,Complete-case; FE província i any (anys observats).
+Poisson/NB (offset) + FE,Denúncies (recompte),2003–2023 (anys observats: 21),1092,52,Complete-case; offset log(població); FE província i any (si aplica); IRR.
+Poisson/NB (offset) + FE,Ordres (recompte),2003–2023 (anys observats: 21),1092,52,Complete-case; offset log(població); FE província i any (si aplica); IRR.
+Poisson/NB (offset) + FE,Feminicidis (recompte),2003–2023 (anys observats: 21),1092,52,Complete-case; offset log(població); FE província i any (si aplica); IRR.
+ITS (regressió segmentada; Poisson + offset),Denúncies (recompte),2003–2023 (anys observats: 21),1092,52,Complete-case; FE província; punts d’inflexió 2004 i 2019; bootstrap per província (B=300).
